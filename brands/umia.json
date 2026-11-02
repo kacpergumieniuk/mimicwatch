@@ -1,0 +1,25 @@
+{
+  "name": "Umia",
+  "officialDomains": [
+    "umia.finance"
+  ],
+  "referenceUrl": "https://umia.finance/",
+  "officialTokens": [
+    {
+      "chain": "base",
+      "address": "0x56ab53b77f07da3af732150e8aec4783eb5bba7d",
+      "symbol": "UMIA",
+      "name": "Umia"
+    }
+  ],
+  "officialSocials": {
+    "x": "umia_finance"
+  },
+  "keywords": [
+    "umia"
+  ],
+  "tokenChains": [
+    "base"
+  ],
+  "notes": "Profile built from public info (DefiLlama, project site) on 2026-11-01. No relationship with the project."
+}

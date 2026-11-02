@@ -1,0 +1,4482 @@
+{
+  "brand": {
+    "name": "Arcadia Finance",
+    "officialDomains": [
+      "arcadia.finance"
+    ],
+    "referenceUrl": "https://arcadia.finance",
+    "officialTokens": [
+      {
+        "chain": "base",
+        "address": "0xaaa843fb2916c0B57454270418E121C626402AAa",
+        "symbol": "AAA",
+        "name": "Arcadia"
+      }
+    ],
+    "officialSocials": {
+      "x": "ArcadiaFi"
+    },
+    "keywords": [
+      "arcadiafinance",
+      "arcadia-finance"
+    ],
+    "allowlist": [],
+    "tokenChains": [
+      "base"
+    ]
+  },
+  "startedAt": "2026-11-01T14:46:39.346Z",
+  "finishedAt": "2026-11-01T14:53:19.697Z",
+  "periodDays": 30,
+  "official": {
+    "url": "https://arcadia.finance/",
+    "title": "Arcadia Finance | Intelligent Liquidity Management for DEX Ecosystems",
+    "faviconSha256": "089f7600d7c572449b89a904d09e4240f1d88516d029b49e849edef51e1b5afa"
+  },
+  "stats": {
+    "permutations": 1399,
+    "permutationsRegistered": 55,
+    "ctHosts": 0,
+    "nrdHits": 0,
+    "candidates": 55,
+    "pagesFetched": 54,
+    "pagesRendered": 26,
+    "tokensIndexed": {
+      "base": 126324
+    },
+    "tokenMatches": 13
+  },
+  "coverage": {
+    "ct": [
+      {
+        "q": "arcadiafinance%",
+        "rows": 24
+      },
+      {
+        "q": "arcadiafinance.%",
+        "rows": 24
+      },
+      {
+        "q": "arcadiafinance-%",
+        "rows": 0
+      },
+      {
+        "q": "%arcadiafinance%",
+        "rows": 0
+      },
+      {
+        "q": "arcadia-finance%",
+        "rows": 0
+      },
+      {
+        "q": "arcadia-finance.%",
+        "rows": 0
+      },
+      {
+        "q": "arcadia-finance-%",
+        "rows": 0
+      },
+      {
+        "q": "%arcadia-finance%",
+        "rows": 0
+      }
+    ],
+    "nrd": [
+      {
+        "day": "2026-10-31",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-30",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-29",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-28",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-27",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-26",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-25",
+        "domains": 70000
+      }
+    ],
+    "tokens": [
+      {
+        "chain": "base",
+        "coveredDays": 30,
+        "head": 53377711,
+        "errors": []
+      }
+    ],
+    "blocklists": [
+      "metamask",
+      "scamsniffer"
+    ]
+  },
+  "domains": [
+    {
+      "kind": "domain",
+      "host": "arcadia-web3.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadia-web3.com",
+        "registered": true,
+        "a": [
+          "104.21.8.185",
+          "172.67.157.205"
+        ],
+        "aaaa": [],
+        "mx": [
+          "inbound-smtp.ap-northeast-1.amazonaws.com",
+          "receive-apne1.forge.rmta.net"
+        ],
+        "ns": [
+          "brynne.ns.cloudflare.com",
+          "kobe.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia-web3.com/",
+        "finalUrl": "https://arcadia-web3.com/",
+        "status": 200,
+        "title": "Arcadia Web3 Technologies | The First Music Video NFT Marketplace",
+        "scriptUrls": [
+          "https://cdn.tailwindcss.com/",
+          "https://unpkg.com/react@18/umd/react.production.min.js",
+          "https://unpkg.com/react-dom@18/umd/react-dom.production.min.js",
+          "https://unpkg.com/@babel/standalone/babel.min.js"
+        ],
+        "signals": {
+          "walletPrompt": [
+            "Connect your wallet",
+            "WalletConnect"
+          ],
+          "seedPhrase": [],
+          "secretForm": true,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "Web3",
+            "NFT",
+            "Token",
+            "wallet",
+            "blockchain",
+            "ETH",
+            "bridge"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 79534,
+        "renderedWith": "playwright",
+        "faviconUrl": "data:image/svg+xml,%3Csvg xmlns=",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia-web3.com.jpg",
+        "textSample": "ARCADIA About Marketplace Artists Features Community FAQ Contact Explore NFTs The Future of Music Ownership The First Music Video NFT Marketplace Browse, collect, and own exclusive music video NFTs from your favorite artists. Support creators directly on the blockchain. Explore Marketplace How It Wo"
+      },
+      "similarity": {
+        "title": 0.06,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.02
+      },
+      "listedOn": [],
+      "score": 39,
+      "severity": "low",
+      "label": "lookalike-other-crypto",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Lookalike of your domain serving other crypto content (Web3, NFT, Token)",
+        "Wallet-connect prompt/library: Connect your wallet, WalletConnect"
+      ],
+      "action": "Review: traffic for a lookalike of your name goes to other crypto content (a competitor, an affiliate, or a phishing kit for another brand). Report if it misleads your users.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaweb3.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaweb3.com",
+        "registered": true,
+        "a": [
+          "104.21.91.152",
+          "172.67.223.115"
+        ],
+        "aaaa": [],
+        "mx": [
+          "route1.mx.cloudflare.net",
+          "route3.mx.cloudflare.net",
+          "route2.mx.cloudflare.net"
+        ],
+        "ns": [
+          "brynne.ns.cloudflare.com",
+          "kobe.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiaweb3.com/",
+        "finalUrl": "https://arcadiaweb3.com/",
+        "status": 200,
+        "title": "Arcadia Web3 Technologies | The First Music Video NFT Marketplace",
+        "scriptUrls": [
+          "https://cdn.tailwindcss.com/",
+          "https://unpkg.com/react@18/umd/react.production.min.js",
+          "https://unpkg.com/react-dom@18/umd/react-dom.production.min.js",
+          "https://unpkg.com/@babel/standalone/babel.min.js"
+        ],
+        "signals": {
+          "walletPrompt": [
+            "Connect your wallet",
+            "WalletConnect"
+          ],
+          "seedPhrase": [],
+          "secretForm": true,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "Web3",
+            "NFT",
+            "Token",
+            "wallet",
+            "blockchain",
+            "ETH",
+            "bridge"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 79534,
+        "renderedWith": "playwright",
+        "faviconUrl": "data:image/svg+xml,%3Csvg xmlns=",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadiaweb3.com.jpg",
+        "textSample": "ARCADIA About Marketplace Artists Features Community FAQ Contact Explore NFTs The Future of Music Ownership The First Music Video NFT Marketplace Browse, collect, and own exclusive music video NFTs from your favorite artists. Support creators directly on the blockchain. Explore Marketplace How It Wo"
+      },
+      "similarity": {
+        "title": 0.06,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.02
+      },
+      "listedOn": [],
+      "score": 39,
+      "severity": "low",
+      "label": "lookalike-other-crypto",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Lookalike of your domain serving other crypto content (Web3, NFT, Token)",
+        "Wallet-connect prompt/library: Connect your wallet, WalletConnect"
+      ],
+      "action": "Review: traffic for a lookalike of your name goes to other crypto content (a competitor, an affiliate, or a phishing kit for another brand). Report if it misleads your users.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.fun",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.fun",
+        "registered": true,
+        "a": [
+          "188.114.96.3",
+          "188.114.97.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "wren.ns.cloudflare.com",
+          "brodie.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.fun/",
+        "finalUrl": "https://arcadia.fun/",
+        "status": 200,
+        "title": "Arcadia | Play",
+        "scriptUrls": [
+          "https://arcadia.fun/_next/static/chunks/polyfills-5cd94c89d3acac5f.js",
+          "https://arcadia.fun/_next/static/chunks/webpack-c30faa4f0f981520.js",
+          "https://arcadia.fun/_next/static/chunks/framework-bb5c596eafb42b22.js",
+          "https://arcadia.fun/_next/static/chunks/main-c4b0e551a2150d17.js",
+          "https://arcadia.fun/_next/static/chunks/pages/_app-cf84f352d1c914d3.js",
+          "https://arcadia.fun/_next/static/chunks/29107295-1494f237b9e407ad.js"
+        ],
+        "signals": {
+          "walletPrompt": [
+            "Connect Wallet",
+            "Walletconnect",
+            "Web3Modal",
+            "eth_requestAccounts",
+            "window.ethereum",
+            "web3modal"
+          ],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [
+            "rewards",
+            "claim"
+          ],
+          "drainerJs": [
+            "eth_signTypedData_v4"
+          ],
+          "parked": [],
+          "cryptoContext": [
+            "crypto",
+            "Tokens",
+            "Wallet",
+            "Web3",
+            "NFT",
+            "USDC"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 569988,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.fun/favicons/safari-pinned-tab.svg",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.fun.jpg",
+        "textSample": "Home Tournaments 0 Leaderboards Marketplace Connect Wallet X 0 Close window and skip for now Metamask Connect your Metamask Wallet Walletconnect Scan QR code to connect Sequence Scan QR code to connect Fortmatic Scan QR code to connect Coinbase Connect your Coinbase Wallet New to Web3? Fret Not! Get"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 38,
+      "severity": "low",
+      "label": "lookalike-other-crypto",
+      "evidence": [
+        "Official name on a different TLD",
+        "Lookalike of your domain serving other crypto content (crypto, Tokens, Wallet)",
+        "Wallet-connect prompt/library: Connect Wallet, Walletconnect, Web3Modal",
+        "Drainer-style JS: eth_signTypedData_v4"
+      ],
+      "action": "Review: traffic for a lookalike of your name goes to other crypto content (a competitor, an affiliate, or a phishing kit for another brand). Report if it misleads your users.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadi.finance",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "omission",
+      "dns": {
+        "domain": "arcadi.finance",
+        "registered": true,
+        "a": [
+          "3.33.152.147",
+          "15.197.142.173"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns61.domaincontrol.com",
+          "ns62.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "http://arcadi.finance/",
+        "finalUrl": "https://www.arcadi.finance/",
+        "status": 200,
+        "title": "Arcadi - Transferencias Internacionales",
+        "scriptUrls": [
+          "https://www.arcadi.finance/vite/assets/application-2xpjbB2S.js",
+          "https://www.arcadi.finance/vite/assets/team-BioPFR3F.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [
+            "rewards"
+          ],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "crypto",
+            "tokens",
+            "liquidity"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 96705,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.arcadi.finance/assets/favicon_color-bbdab1472135719700b7908e34f824f0f48a8984f2142a03001693ffaf554844.png",
+        "faviconSha256": "cfabcc1205bd59ea688c9e5f657702b8da11e4b936b9bb7042c0dfbf1aad1945",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadi.finance.jpg",
+        "textSample": "Iniciar sesión Crear cuenta Iniciar sesión Crear cuenta Haz crecer tu dinero Invirtiendo en personas 45% APY 🚀 ¡Invierte ahora! Haz crecer tu dinero Invirtiendo en personas 45% APY 🚀 Todos los fondos recaudados de personas como tú se prestan como activos físicos a personas trabajadoras de Latinoam"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 35,
+      "severity": "low",
+      "label": "lookalike-other-crypto",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "Lookalike of your domain serving other crypto content (crypto, tokens, liquidity)"
+      ],
+      "action": "Review: traffic for a lookalike of your name goes to other crypto content (a competitor, an affiliate, or a phishing kit for another brand). Report if it misleads your users.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiabridge.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiabridge.com",
+        "registered": true,
+        "a": [
+          "15.197.148.33",
+          "3.33.130.190"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "aspmx3.googlemail.com",
+          "aspmx2.googlemail.com"
+        ],
+        "ns": [
+          "ns22.domaincontrol.com",
+          "ns21.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiabridge.com/",
+        "finalUrl": "https://arcadiabridge.com/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "parked",
+            "Related Searches"
+          ],
+          "cryptoContext": [
+            "bridge"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadiabridge.com/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadiabridge.com.jpg",
+        "textSample": "arcadiabridge.com is parked free, courtesy of GoDaddy.com. Get This Domain Related Searches arcadia bridge Copyright © 1999-2026 GoDaddy, LLC. All rights reserved. Privacy Policy Disclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC an"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 35,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Lookalike of your domain serving other crypto content (bridge)",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.global",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.global",
+        "registered": true,
+        "a": [
+          "188.114.97.0",
+          "188.114.96.0"
+        ],
+        "aaaa": [],
+        "mx": [
+          "route1.mx.cloudflare.net",
+          "route3.mx.cloudflare.net",
+          "route2.mx.cloudflare.net"
+        ],
+        "ns": [
+          "brad.ns.cloudflare.com",
+          "kate.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.global/",
+        "finalUrl": "https://arcadia.global/",
+        "status": 200,
+        "title": "Arcadia › AI makes the future of work the future of business",
+        "scriptUrls": [
+          "https://arcadia.global/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js",
+          "https://arcadia.global/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://arcadia.global/wp-content/litespeed/js/baf07315015471df7bda37547934e016.js?ver=0a4ae",
+          "https://arcadia.global/wp-content/plugins/graphina-elementor-charts-and-graphs/dist/publicMain.js?ver=3.1.13",
+          "https://arcadia.global/wp-content/litespeed/js/028dc1d9d0a046d26867175f34563e60.js?ver=f36bd",
+          "https://arcadia.global/wp-content/litespeed/js/b9e0db79b25bcc75e88e9512d12b3a6a.js?ver=c74a3"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "Wallet",
+            "web3"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 87983,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.global/cdn/cropped-F00-fav-32x32.png",
+        "faviconSha256": "cb8838514fb0e126a58a3c27f67282c91c35656f4e596cb699625ac288621539",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.global.jpg",
+        "textSample": "Arenita Wallet About Solutions Lab OR Connect Arenita Wallet ARC▲DIA About Solutions Lab OR Connect ARC▲DIA Join us creating a platform for the future of work, how value is created, and how it flows A transactional ecosystem for researching, developing and putting new AI solutions to work across the"
+      },
+      "similarity": {
+        "title": 0.07,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.02
+      },
+      "listedOn": [],
+      "score": 31,
+      "severity": "low",
+      "label": "lookalike-other-crypto",
+      "evidence": [
+        "Official name on a different TLD",
+        "Lookalike of your domain serving other crypto content (Wallet, web3)"
+      ],
+      "action": "Review: traffic for a lookalike of your name goes to other crypto content (a competitor, an affiliate, or a phishing kit for another brand). Report if it misleads your users.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiarewards.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiarewards.com",
+        "registered": true,
+        "a": [
+          "170.249.195.74"
+        ],
+        "aaaa": [],
+        "mx": [
+          "webmail.arcadiarewards.com"
+        ],
+        "ns": [
+          "dahlia.ns.cloudflare.com",
+          "tate.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiarewards.com/",
+        "finalUrl": "https://www.arcadiarewards.com/",
+        "status": 200,
+        "title": "Arcadia Rewards",
+        "scriptUrls": [
+          "https://code.jquery.com/jquery-3.6.0.min.js",
+          "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js",
+          "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
+          "https://cdnjs.cloudflare.com/ajax/libs/less.js/2.6.1/less.min.js",
+          "https://kit.fontawesome.com/43311f298f.js",
+          "https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "claim",
+            "eligible",
+            "Rewards",
+            "refund",
+            "Giveaway"
+          ],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 303800,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.arcadiarewards.com/public/favicon.ico",
+        "faviconSha256": "ba79c84ef18a7222d3359b6be0c8d39eaa65a84744ddb7a9291c11c1a1030ef1",
+        "textSample": "Summary Log In Support get rewards for going solar Arcadia customers receive exclusive rewards after signing up for community solar. Learn how to earn, play, and save with Arcadia Rewards. View my rewards Reward Dollars Gift Card Giveaways Product Giveaways Cash Giveaways Games & Daily Deals Surpris"
+      },
+      "similarity": {
+        "title": 0.2,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.07
+      },
+      "listedOn": [],
+      "score": 27,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "migrationarcadia.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "migrationarcadia.com",
+        "registered": true,
+        "a": [
+          "107.180.46.198"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "aspmx3.googlemail.com",
+          "aspmx2.googlemail.com"
+        ],
+        "ns": [
+          "ns38.domaincontrol.com",
+          "ns37.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "http://migrationarcadia.com/",
+        "finalUrl": "http://migrationarcadia.com/",
+        "status": 200,
+        "title": "Migration Arcadia",
+        "scriptUrls": [
+          "http://migrationarcadia.com/Scripts/arcadia-wf.js",
+          "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
+          "http://migrationarcadia.com/bundles/jquery?v=YvKIZ7YRmu65ezjliOHrITvZ6uYICux_6DQICG0Ek_Q1",
+          "http://migrationarcadia.com/bundles/bootstrap?v=qolEidUjV23UMJrs9UXyS_UPxnfDjDEnKCW-MJ7j-5w1"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "Migration"
+          ],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 46295,
+        "renderedWith": "http",
+        "faviconUrl": "http://migrationarcadia.com/images/favicon-16x16.png",
+        "faviconSha256": "018af1928184816e4c31cdb88bae7a5762348604990fa065c4ba8f8760dc8e23",
+        "textSample": "Home Migration Services Student Visa General Skilled Visa Business Visa Investor Retirement Visa Employer Sponsored Visa Family Visa Partner Visa Parent Visa Temporary Activity Visa Tourist Visa RRV Visa Assessment Skilled Independent visa - 189 Skilled Nominated visa - 190 Skilled Work Regional - 4"
+      },
+      "similarity": {
+        "title": 0.13,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 27,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "officialarcadia.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "officialarcadia.com",
+        "registered": true,
+        "a": [
+          "13.248.243.5",
+          "76.223.105.230"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns66.domaincontrol.com",
+          "ns65.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://officialarcadia.com/",
+        "finalUrl": "https://officialarcadia.com/",
+        "status": 200,
+        "title": "officialarcadia.com",
+        "scriptUrls": [
+          "https://img1.wsimg.com/blobby/go/fb70020e-eccd-4013-8db4-24d2bae786b0/gpub/2e9e5437ce1e7a5b/script.js",
+          "https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.51.17.js",
+          "https://img1.wsimg.com/blobby/go/fb70020e-eccd-4013-8db4-24d2bae786b0/gpub/c6526c5a376cf88f/script.js",
+          "https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 86516,
+        "renderedWith": "http",
+        "faviconUrl": "https://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m",
+        "faviconSha256": "927fa0f5bb903288cef129ca1a5a8a77c46456fe5fec58ea900fc49552246416",
+        "textSample": "officialarcadia.com officialarcadia.com officialarcadia.com officialarcadia.com officialarcadia.com officialarcadia.com officialarcadia.com officialarcadia.com ‌Lancio imminente ‌Lancio imminente ‌Lancio imminente ‌Lancio imminente ‌Lancio imminente ‌Lancio imminente ‌Lancio imminente ‌Lancio immine"
+      },
+      "similarity": {
+        "title": 0.18,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 27,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "eventarcadia.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "eventarcadia.com",
+        "registered": true,
+        "a": [
+          "185.149.100.240"
+        ],
+        "aaaa": [],
+        "mx": [
+          "jonas.veridyen.com"
+        ],
+        "ns": [
+          "ns1.veridyen.com",
+          "ns2.veridyen.com"
+        ]
+      },
+      "page": {
+        "url": "https://eventarcadia.com/",
+        "finalUrl": "https://eventarcadia.com/",
+        "status": 200,
+        "title": "Event Arcadia | Artist Booking, Concierge & Event Management",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 10130,
+        "renderedWith": "http",
+        "faviconUrl": "https://eventarcadia.com/favicon.ico",
+        "textSample": "Welcome to event arcadia ! Your premiere destination for holistic event management, concierge services, travel design, and unique experiences. At event arcadia , we believe in creating perfectly balanced, harmonious events that not only meet but exceed your expectations. Our name, inspired by the id"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 27,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaapp.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaapp.com",
+        "registered": true,
+        "a": [
+          "13.223.25.84",
+          "54.243.117.197"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "nsg1.namebrightdns.com",
+          "nsg2.namebrightdns.com"
+        ]
+      },
+      "page": {
+        "url": "http://arcadiaapp.com/",
+        "finalUrl": "https://www.hugedomains.com/domain_profile.cfm?d=arcadiaapp.com",
+        "status": 200,
+        "title": "ArcadiaApp.com is for sale | HugeDomains",
+        "scriptUrls": [
+          "https://cdn-cookieyes.com/client_data/e71bc53f1cb88666d160c1e2/script.js",
+          "https://www.google.com/recaptcha/enterprise.js?render=6LdRB9UiAAAAABaf3jRLyU_gwaGIp-3OvR51myRx",
+          "https://static.hugedomains.com/js/hdv3-js/jquery.min.js",
+          "https://static.hugedomains.com/js/hdv3-js/script.js?aa=2022-10-32",
+          "https://static.hugedomains.com/js/hdv3-js/common.js",
+          "https://static.hugedomains.com/js/hdv3-js/hd-js.js?a=20250312"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "eligible",
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "domain is for sale",
+            "HugeDomains",
+            "for sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 43985,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.hugedomains.com/favicon.ico",
+        "faviconSha256": "5a6c5f7923c7b5ba984f3c4b79b5c3005f3c2f1347a84a6a7b3c16ffbf11777d",
+        "textSample": "Skip to main content Search +1-303-893-0552 Home FAQs About us Contact us My account My favorites Shopping cart ArcadiaApp.com Buy now: $3,295 ▸ Buy now Processing or ▸ Start payment plan Processing Only $137.29/mo. for 24 months See details 30-day money back guarantee Take immediate ownership Safe "
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaofficial.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaofficial.com",
+        "registered": true,
+        "a": [
+          "54.243.117.197",
+          "13.223.25.84"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "nsg2.namebrightdns.com",
+          "nsg1.namebrightdns.com"
+        ]
+      },
+      "page": {
+        "url": "http://arcadiaofficial.com/",
+        "finalUrl": "https://www.hugedomains.com/domain_profile.cfm?d=arcadiaofficial.com",
+        "status": 200,
+        "title": "ArcadiaOfficial.com is for sale | HugeDomains",
+        "scriptUrls": [
+          "https://cdn-cookieyes.com/client_data/e71bc53f1cb88666d160c1e2/script.js",
+          "https://www.google.com/recaptcha/enterprise.js?render=6LdRB9UiAAAAABaf3jRLyU_gwaGIp-3OvR51myRx",
+          "https://static.hugedomains.com/js/hdv3-js/jquery.min.js",
+          "https://static.hugedomains.com/js/hdv3-js/script.js?aa=2022-10-32",
+          "https://static.hugedomains.com/js/hdv3-js/common.js",
+          "https://static.hugedomains.com/js/hdv3-js/hd-js.js?a=20250312"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "eligible",
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "domain is for sale",
+            "HugeDomains",
+            "for sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 44093,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.hugedomains.com/favicon.ico",
+        "faviconSha256": "5a6c5f7923c7b5ba984f3c4b79b5c3005f3c2f1347a84a6a7b3c16ffbf11777d",
+        "textSample": "Skip to main content Search +1-303-893-0552 Home FAQs About us Contact us My account My favorites Shopping cart ArcadiaOfficial.com Buy now: $1,495 ▸ Buy now Processing or ▸ Start payment plan Processing Only $62.29/mo. for 24 months See details 30-day money back guarantee Take immediate ownership S"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia-official.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadia-official.net",
+        "registered": true,
+        "a": [
+          "188.114.96.3",
+          "188.114.97.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "desi.ns.cloudflare.com",
+          "george.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia-official.net/",
+        "finalUrl": "https://arcadia-official.net/",
+        "status": 200,
+        "title": "Site ready",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2534,
+        "renderedWith": "http",
+        "faviconUrl": "https://arcadia-official.net/favicon.ico",
+        "textSample": "This site is ready Nothing has been published here yet. Please check back soon. Is this your site? Upload your files, with an index.html (or index.php ) in the top folder, using the File Manager or SFTP. This page disappears automatically as soon as that file is there."
+      },
+      "similarity": {
+        "title": 0.12,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaofficial.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaofficial.net",
+        "registered": true,
+        "a": [
+          "172.65.197.38"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx1.emailsrvr.com",
+          "mx2.emailsrvr.com"
+        ],
+        "ns": [
+          "dns3.sitezoogle.com",
+          "dns2.sitezoogle.com",
+          "dns4.sitezoogle.com",
+          "dns1.sitezoogle.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiaofficial.net/",
+        "finalUrl": "https://arcadiaofficial.net/",
+        "status": 200,
+        "title": "Arcadia",
+        "scriptUrls": [
+          "https://assets-openresty-kamal-production.bndzgl.com/assets/usersite/application-db28ade66db48e0f6fc55e8aa341523dc21b9d8054a9c1914edde87a66b2cf7f.js",
+          "https://assets-openresty-kamal-production.bndzgl.com/assets/usersite-9d79cb1ed06257b2834f9c0715c18d6e622b817b2acc2a531d9f9ab3d162471a.js",
+          "https://assets-openresty-kamal-production.bndzgl.com/assets/usersite/themes/ghost-note-27b431ea64eb05230f53120e18dc5fb5eb8eedee2ac021db8546f7c849b88663.js"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 93399,
+        "renderedWith": "http",
+        "faviconUrl": "https://images.zoogletools.com/s:bzglfiles/u/825547/7f51aa991e80a1b91e9b6c5e0fa4a76c76f2a709/original/screenshot-2024-04-22-125032-removebg-preview.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+        "faviconSha256": "fd4e77b88d792633729bc5251f9d76bc796030998639cb2d70fec543685edf70",
+        "textSample": "Home Bio Introducing Arcadia Now, a gritty four-piece garage rock band straight out of Brisbane. We draw our influences from The Strokes and Arctic Monkeys. We are experienced in the Brisbane music scene having played at some great venues including Ric's Bar, Tomcat, Junkbar and Black Bear Lodge. Mu"
+      },
+      "similarity": {
+        "title": 0.13,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiarecovery.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiarecovery.com",
+        "registered": true,
+        "a": [
+          "67.225.161.76"
+        ],
+        "aaaa": [],
+        "mx": [
+          "arcadiarecovery-com.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns77.domaincontrol.com",
+          "ns78.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiarecovery.com/",
+        "finalUrl": "https://www.arcadiarecovery.com/",
+        "status": 200,
+        "title": "Arcadia Recovery Bureau",
+        "scriptUrls": [
+          "https://www.arcadiarecovery.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.arcadiarecovery.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.arcadiarecovery.com/wp-content/plugins/popup-with-fancybox/inc/jquery.fancybox.js?ver=f2aa7e1254851994ab26310f3ee4b453",
+          "https://www.arcadiarecovery.com/wp-content/themes/executive-pro/js/responsive-menu.js?ver=1.0.0",
+          "https://www.arcadiarecovery.com/wp-content/plugins/adjustly-collapse/aj-collapse.js?ver=f2aa7e1254851994ab26310f3ee4b453",
+          "https://w.sharethis.com/button/buttons.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 35823,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.arcadiarecovery.com/favicon.ico",
+        "faviconSha256": "e2967686269cf417f196d04aad9f685256b6759e0c27ff59701cfbae376a0d81",
+        "textSample": "Arcadia Recovery Bureau Language Assistance Services If English is not your primary language, language assistance services are available in over 20 different languages, free of charge by calling 833-690-2257. For residents of New York City, a translation and description of commonly-used debt collect"
+      },
+      "similarity": {
+        "title": 0.1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaportal.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaportal.com",
+        "registered": true,
+        "a": [
+          "3.98.188.3",
+          "3.99.68.147"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx1.ewebdevelopment.com",
+          "mx2.ewebdevelopment.com"
+        ],
+        "ns": [
+          "ns3.power-dns.com",
+          "ns1.power-dns.com",
+          "ns2.power-dns.com"
+        ]
+      },
+      "page": {
+        "url": "http://arcadiaportal.com/",
+        "finalUrl": "http://arcadiaportal.com/",
+        "status": 200,
+        "title": "Arcadiaportal.com - Ready for Development",
+        "scriptUrls": [
+          "https://www.google.com/recaptcha/api.js?",
+          "https://urlstats.com/counter/js/us.js"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 11092,
+        "renderedWith": "http",
+        "faviconUrl": "http://arcadiaportal.com/favicon.ico",
+        "textSample": "Contact Us for Details Arcadiaportal.com Ready For Development If you're interested in this domain, contact us to check availability for customer use, ownership, partnership or other development opportunities. Name: Address: First Name: Last Name: Email: Confirm Email: Check Availability By continui"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaevent.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaevent.net",
+        "registered": true,
+        "a": [
+          "198.185.159.144",
+          "198.49.23.144",
+          "198.185.159.145",
+          "198.49.23.145"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns01.squarespacedns.com",
+          "ns04.squarespacedns.com",
+          "ns03.squarespacedns.com",
+          "dns3.p01.nsone.net",
+          "ns02.squarespacedns.com",
+          "dns1.p01.nsone.net",
+          "dns2.p01.nsone.net",
+          "dns4.p01.nsone.net"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiaevent.net/",
+        "finalUrl": "https://www.arcadiaevent.net/",
+        "status": 200,
+        "title": "Historic Arcadia Farm",
+        "scriptUrls": [
+          "https://use.typekit.net/ik/hi6vABRQ4E0pQrqLpERnDLnt7sZkAoQabmK5RIf6Z0vfeTJgfFHN4UJLFRbh52jhWD9tw2Ikw2bojD9DFeIuwhwowhwDjAJ3ZsGMJ6U3ScNt-AuyOAozicIKIcBqdh48OAiyScBldhoqOWgkdkG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6qJvDbbMs6IJMJ7fbRkFgMgeMt6MTMgqFcOCbj.js",
+          "https://assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-70c095566385eee0-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2dbade1c2d524017-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5b1fd9aed201e910-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-88f72d5f001c770b-min.en-US.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 761406,
+        "renderedWith": "http",
+        "faviconUrl": "https://images.squarespace-cdn.com/content/v1/58012049c534a53c93c3ab0e/7daa66fa-c869-4b12-bf69-fec5ed269f92/favicon.ico?format=100w",
+        "faviconSha256": "ca905677818747fa6ee89aeb4344d133067655cd29970010fd796d86ed3d45eb",
+        "textSample": "Welcome Weddings Retreats Gallery Contact Welcome Weddings Retreats Gallery Contact Your special event starts here... Arcadia Wedding Barn at the Historic Shelby Manor NOT JUST ANY VENUE... Thank you so much for your interest in hosting your special event at Arcadia Farm! It is my greatest joy to op"
+      },
+      "similarity": {
+        "title": 0.1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiasupport.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiasupport.com",
+        "registered": true,
+        "a": [
+          "162.241.226.127"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mail.arcadiasupport.com"
+        ],
+        "ns": [
+          "ns1.bluehost.com",
+          "ns2.bluehost.com"
+        ]
+      },
+      "page": {
+        "url": "http://arcadiasupport.com/",
+        "finalUrl": "http://arcadiasupport.com/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 195,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://arcadiasupport.com/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadiasupport.com.jpg",
+        "textSample": "Error. Page cannot be displayed. Please contact your service provider for more details."
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (87 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "supportarcadia.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "supportarcadia.com",
+        "registered": true,
+        "a": [
+          "198.49.23.145",
+          "198.49.23.144",
+          "198.185.159.145",
+          "198.185.159.144"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-cloud-a1.googledomains.com",
+          "ns-cloud-a3.googledomains.com",
+          "ns-cloud-a4.googledomains.com",
+          "ns-cloud-a2.googledomains.com"
+        ]
+      },
+      "page": {
+        "url": "https://supportarcadia.com/",
+        "finalUrl": "https://form.jotform.com/253517285788169",
+        "status": 200,
+        "title": "Support turning Echo Canyon School into a privately funded community sports and academic hub",
+        "scriptUrls": [
+          "https://cdn.jotfor.ms/s/static/930a1b7e751/js/vendor/jquery-3.7.1.min.js",
+          "https://cdn.jotfor.ms/s/static/930a1b7e751/js/vendor/jSignature/jSignature.js",
+          "https://cdn.jotfor.ms/s/static/930a1b7e751/js/vendor/jSignature/jSignature.CompressorBase30.js",
+          "https://cdn.jotfor.ms/s/static/930a1b7e751/js/vendor/jSignature/jSignature.CompressorSVG.js",
+          "https://cdn.jotfor.ms/s/static/930a1b7e751/js/vendor/jSignature/jSignature.UndoButton.js",
+          "https://cdn.jotfor.ms/s/static/930a1b7e751/js/vendor/jotform.signaturepad.new.js"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 46794,
+        "renderedWith": "http",
+        "faviconUrl": "https://cdn.jotfor.ms/assets/img/favicons/favicon-2021-light%402x.png",
+        "faviconSha256": "974b447701e8f339ae789e6712573f09ddd9006522e26a9c1f193b1202640ad3",
+        "textSample": "Support turning Echo Canyon School into a privately funded community sports and academic hub It has been decided officially that E cho Canyon School is closing at the end of this academic year, and the Scottsdale Unified School District is now evaluating proposals for how to repurpose this irreplace"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaconnect.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaconnect.com",
+        "registered": true,
+        "a": [
+          "3.33.251.168",
+          "15.197.225.128"
+        ],
+        "aaaa": [],
+        "mx": [
+          "smtp.secureserver.net",
+          "mailstore1.secureserver.net"
+        ],
+        "ns": [
+          "ns57.domaincontrol.com",
+          "ns58.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiaconnect.com/",
+        "finalUrl": "http://portals.myhubintranet.com./",
+        "status": 403,
+        "title": "",
+        "scriptUrls": [
+          "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2500,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://portals.myhubintranet.com./favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadiaconnect.com.jpg",
+        "textSample": "You do not have permission to view this page, please contact your site administrator. Your IP is 194.42.118.8 Visit our Support Pages"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (133 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "connectarcadia.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "connectarcadia.com",
+        "registered": true,
+        "a": [
+          "188.114.97.0",
+          "188.114.96.0"
+        ],
+        "aaaa": [],
+        "mx": [
+          "smtp.google.com"
+        ],
+        "ns": [
+          "jose.ns.cloudflare.com",
+          "rayne.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://connectarcadia.com/",
+        "finalUrl": "https://connectarcadia.com/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "This operation was aborted; http: This operation was aborted",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiawallet.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiawallet.com",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.dan.com",
+          "ns1.dan.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiawallet.com/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/arcadiawallet.com?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadiawallet.com/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadiawallet.com.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/arcadiawallet.com?\" on this server. Reference #18.8a3c655f.1793544748.4f5233fc https://errors.edgesuite.net/18.8a3c655f.1793544748.4f5233fc"
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia-app.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadia-app.com",
+        "registered": true,
+        "a": [
+          "213.186.33.5"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx1.mail.ovh.net",
+          "mx2.mail.ovh.net",
+          "mx3.mail.ovh.net"
+        ],
+        "ns": [
+          "dns19.ovh.net",
+          "ns19.ovh.net"
+        ]
+      },
+      "page": {
+        "url": "http://arcadia-app.com/",
+        "finalUrl": "http://www.arcadia-app.com/",
+        "status": 200,
+        "title": "Site en construction",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 16944,
+        "renderedWith": "http",
+        "faviconUrl": "http://www.arcadia-app.com/__ovh/common/img/favicon.ico",
+        "faviconSha256": "73366da0141f74ddd220ea53c03c7be935b9794d3befe7b360e0e8fe5de0987a",
+        "textSample": "Site en construction Besoin d'assistance ou d'informations ? Guides Forum Contact Espace Client &copy; Copyright 1999 OVHcloud a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12 a13 a14 a15 a16 a17 a18 a19 a20 a21 a22 a23 a24 a25 a26 a27 a28 a29 a30 a31 a32 a33 a34 a35 a36 a37 a38 a39 a40 a41 a42 a43 a44 a45 a4"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia-official.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadia-official.com",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia-official.com/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/arcadia-official.com?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia-official.com/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia-official.com.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/arcadia-official.com?\" on this server. Reference #18.8a3c655f.1793544750.4f525079 https://errors.edgesuite.net/18.8a3c655f.1793544750.4f525079"
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaswap.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaswap.com",
+        "registered": true,
+        "a": [
+          "52.20.84.62"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.atom.com",
+          "ns1.atom.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiaswap.com/",
+        "finalUrl": "https://domains.atom.com/lpd/name/arcadiaswap.com",
+        "status": 403,
+        "title": "ArcadiaSwap.com — Domain For Sale | Atom",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "For Sale"
+          ],
+          "cryptoContext": [
+            "crypto"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5830,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://domains.atom.com/favicon.ico",
+        "faviconSha256": "7eda937d9cabb3e3b4da756c81226e3431f9b0751e9247b9e9b24c4f50ba3b97",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadiaswap.com.jpg",
+        "textSample": "We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy and Privacy Policy . You can change your cook"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "portalarcadia.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "portalarcadia.com",
+        "registered": true,
+        "a": [
+          "91.195.240.94"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns4fpy.name.com",
+          "ns2nsw.name.com",
+          "ns1kwy.name.com",
+          "ns3ghw.name.com"
+        ]
+      },
+      "page": {
+        "url": "https://portalarcadia.com/",
+        "finalUrl": "https://portalarcadia.com/",
+        "status": 200,
+        "title": "portalarcadia.com - portalarcadia Zasoby i informacje.",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "Zasoby i informacje"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 3061,
+        "renderedWith": "http",
+        "faviconUrl": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "faviconSha256": "95c427fa3143b1896faf42a6406686ce7602cb39052081bb32d12b51c9e047e4",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia-event.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadia-event.com",
+        "registered": true,
+        "a": [
+          "122.219.45.231",
+          "122.219.45.132"
+        ],
+        "aaaa": [],
+        "mx": [
+          "bs-mail-mta01.weblife.me",
+          "bs-mail-mta02.weblife.me"
+        ],
+        "ns": [
+          "bs-ns-user01.bindcloud.jp",
+          "bs-ns-user02.bindcloud.jp",
+          "bs-ns-user03.bindcloud.jp",
+          "bs-ns-user04.bindcloud.jp"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia-event.com/",
+        "finalUrl": "https://arcadia-event.com/",
+        "status": 200,
+        "title": "イベント制作会社 アルカディア",
+        "scriptUrls": [
+          "https://arcadia-event.com/_module/lib/lib.js?v=17.0.8",
+          "https://arcadia-event.com/_module/scripts/bind.js?v=17.0.8",
+          "https://arcadia-event.com/_module/lib/html5shiv.min.js?v=17.0.8"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 15649,
+        "renderedWith": "http",
+        "faviconUrl": "https://arcadia-event.com/favicon.ico",
+        "textSample": "アルカディアについて 事業について Instagram パフォーマンスschool ActionClass 会社案内 お問い合わせ アルカディアについて 事業について Instagram パフォーマンスSchool Actionclass 会社案内 お問い合わせ 永遠に残る、 瞬間を創る。 運営に関する確かな知識と技術で、お客様の心に残るひと時をご提供いたします。 Instagram ,,,{\"instagramId\":\"16136\",\"widgetType\":\"board\",\"thumbSize\":300,\"thumbUnit\":\"px\",\"layoutX\":3,\"layoutY\":3,\"b"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadiaevent.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "arcadiaevent.com",
+        "registered": true,
+        "a": [
+          "207.207.210.36",
+          "207.207.210.50",
+          "207.207.210.23"
+        ],
+        "aaaa": [],
+        "mx": [
+          "fwd1.porkbun.com",
+          "fwd2.porkbun.com"
+        ],
+        "ns": [
+          "salvador.ns.porkbun.com",
+          "curitiba.ns.porkbun.com",
+          "fortaleza.ns.porkbun.com",
+          "maceio.ns.porkbun.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadiaevent.com/",
+        "finalUrl": "https://arcadiaevent-com.l.ink/",
+        "status": 200,
+        "title": "A Brand New Domain!",
+        "scriptUrls": [
+          "https://code.jquery.com/jquery-3.6.0.min.js",
+          "https://arcadiaevent-com.l.ink/js/main.js?version=BlackLotus_0.5",
+          "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 6929,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://easy-links.s3.us-west-2.amazonaws.com/avatars/porkbun-logo-600x600.png",
+        "faviconSha256": "0500d7944e98c88e4f73de0f7ff63a343230de39796d67781c52201cc9144546",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadiaevent.com.jpg",
+        "textSample": "A Brand New Domain! Brought to you by Porkbun. Get your own domain name and website! Powered by Porkbun"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (103 chars of text, title \"A Brand New Domain!\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.org",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.org",
+        "registered": true,
+        "a": [
+          "104.198.14.52"
+        ],
+        "aaaa": [],
+        "mx": [
+          "arcadia-org.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns50.worldnic.com",
+          "ns49.worldnic.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.org/",
+        "finalUrl": "https://arcadia.org/",
+        "status": 200,
+        "title": "Arcadia.org",
+        "scriptUrls": [
+          "https://arcadia.org/js/vendor/get_matomo.js",
+          "https://arcadia.org/app-6019d1b9cc558e9a72e8.js",
+          "https://arcadia.org/09de0da2-7283a6de280db640fc00.js",
+          "https://arcadia.org/acb27fce-1b5da649652191328c07.js",
+          "https://arcadia.org/4992cbfd-88f4a35cfb99473f33c6.js",
+          "https://arcadia.org/7a3b1961-d783c6dec3f50b11bf4d.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 41964,
+        "renderedWith": "http",
+        "faviconUrl": "https://arcadia.org/favicon.ico",
+        "textSample": "Residences At Home Home Care Adult Day Care Skilled Nursing News Videos Careers Contact Menu Senior Living Redefined Looking for the right senior living option for you or your loved one? We offer a full spectrum of services for Hawaii&#x27;s seniors Start Here Retirement Residences Your Terms, Your "
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 22,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.net",
+        "registered": true,
+        "a": [
+          "52.204.167.0"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx.hover.com.cust.hostedemail.com"
+        ],
+        "ns": [
+          "ns1.hover.com",
+          "ns2.hover.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.net/",
+        "finalUrl": "https://arcadia.net/MUD/",
+        "status": 200,
+        "title": "Arcadia MUD",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 6314,
+        "renderedWith": "http",
+        "faviconUrl": "https://arcadia.net/favicon.ico",
+        "faviconSha256": "a09ab688bc04da23f0f18852225ca083344a927ad41964021080d7495fc6864a",
+        "textSample": "Arcadia MUD Destinations Arcadia: play arcadia home Services: public page for access to online help, who list, note spool, and the bedlam client discussion board for our forum games and discussions Information: general info game guides FAQ rules Improvements: clan upgrades player housing Et Cetera: "
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 22,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.xyz",
+        "registered": true,
+        "a": [
+          "44.232.173.249",
+          "52.40.42.113"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "launch1.spaceship.net",
+          "launch2.spaceship.net"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.xyz/",
+        "finalUrl": "https://arcadia.xyz/",
+        "status": 200,
+        "title": "Arcadia.xyz for sale | Spaceship.com",
+        "scriptUrls": [
+          "https://forsale.spaceship-cdn.com/static/latest/5.latest/main.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "for sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 23822,
+        "renderedWith": "http",
+        "faviconUrl": "https://forsale.spaceship-cdn.com/static/latest/5.latest/assets/fonts/apple-touch-icon-57x57.png",
+        "faviconSha256": "774ab776c49cdd5d993e4da9e6216af9ece952135eb022ef0c7df223ff66989c",
+        "textSample": "Domain for sale Arcadia.xyz Free transaction support Secure payments Spaceship reliability Listed with spaceship.com get this domain Buy now $298,795 Make offer $ Please enter an offer amount up to 9 digits. Your offer must be higher than the seller’s minimum price. Next Please select one of the opt"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 22,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Official name on a different TLD",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.com",
+        "registered": true,
+        "a": [
+          "184.192.52.239",
+          "32.198.205.199"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt3.aspmx.l.google.com"
+        ],
+        "ns": [
+          "ns-623.awsdns-13.net",
+          "ns-187.awsdns-23.com",
+          "ns-1789.awsdns-31.co.uk",
+          "ns-1026.awsdns-00.org"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.com/",
+        "finalUrl": "https://www.arcadia.com/",
+        "status": 200,
+        "title": "Arcadia: The leading energy intelligence platform | Arcadia",
+        "scriptUrls": [
+          "https://www.arcadia.com/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+          "https://www.arcadia.com/_next/static/chunks/5334.4d2c4616c63695fa.js",
+          "https://www.arcadia.com/_next/static/chunks/3918.9722c59ab621519a.js",
+          "https://www.arcadia.com/_next/static/chunks/9731.b5cd15130df04377.js",
+          "https://www.arcadia.com/_next/static/chunks/8272.fdf3984fa882f5b1.js",
+          "https://www.arcadia.com/_next/static/chunks/1684.7b1935220df518bc.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 294348,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.arcadia.com/favicon/apple-touch-icon.png",
+        "faviconSha256": "81682f7a88158eadae9ebc6e05e92a3e60afb40e775fa199d646b6c20d0095d0",
+        "textSample": "Skip to content Products Solutions Partners Resources Sign in Contact us Energy management to save money, mitigate risk, and cut carbon. Arcadia is the energy intelligence platform for businesses. One place to pay utility bills, buy energy, and advance sustainability. We combine unified data, AI-pow"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 21,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.app",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.app",
+        "registered": true,
+        "a": [
+          "52.60.87.163"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns5.101domain.com",
+          "ns2.101domain.com",
+          "ns1.101domain.com"
+        ]
+      },
+      "page": {
+        "url": "http://arcadia.app/",
+        "finalUrl": "http://arcadia.app/",
+        "status": 200,
+        "title": "Future home of arcadia.app",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 18330,
+        "renderedWith": "http",
+        "faviconUrl": "https://park.101datacenter.net/images/vendor-1/icon/101domain.ico",
+        "faviconSha256": "3d0a5ee5deaec0215d8b18f5d3bc2720192fbc867c37db581c48fd2f8665701f",
+        "textSample": "The future home of... arcadia.app Is this domain name yours? Yes, this is my domain. Sign in to manage your domain and account. Sign In To Account No, this is not my domain. But I would like it to be. Inquire to Purchase Check out our products A collection of collaboration tools including your go-to"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 21,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.info",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.info",
+        "registered": true,
+        "a": [
+          "35.190.31.54",
+          "35.227.194.51",
+          "34.160.81.203",
+          "34.149.120.3"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "aspmx2.googlemail.com",
+          "aspmx2.googlemail.com",
+          "aspmx4.googlemail.com",
+          "aspmx3.googlemail.com"
+        ],
+        "ns": [
+          "ns2.siteground.net",
+          "ns1.siteground.net"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.info/",
+        "finalUrl": "https://arcadia.info/",
+        "status": 200,
+        "title": "Arcadia Productions – theatre in English in Italy",
+        "scriptUrls": [
+          "https://cdn-cookieyes.com/client_data/58b92c7cc3bec92b19d455e8/script.js",
+          "https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/jquery.min.js",
+          "https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://arcadia.info/wp-content/themes/customizr/assets/front/js/libs/modernizr.min.js?ver=4.4.24",
+          "https://c0.wp.com/c/7.1.4/wp-includes/js/underscore.min.js",
+          "https://arcadia.info/wp-content/themes/customizr/assets/front/js/tc-scripts.min.js?ver=4.4.24"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 104385,
+        "renderedWith": "http",
+        "faviconUrl": "https://i0.wp.com/arcadia.info/wp-content/uploads/2014/05/cropped-Arcadia-symbol-2016.jpg?fit=32%2C32&#038;ssl=1",
+        "faviconSha256": "28d446639b51de06184c1c5ad8e94c00330def34073620e27edcf319ede6f485",
+        "textSample": "Passa al contenuto theatre in English in Italy Calendario SPETTACOLI 6-12 anni RAINBOW TOWN – the adventures of ROBBIE THE ROBOT STORYBOOK WILLIAM THE CONQUEROR WILLIAM AND THE SEA PEOPLE SPETTACOLI 11-14 anni FRANKENSTEIN THE GREAT BRITAIN SHOW I LOVE LONDON THE TIME MACHINE WELCOME TO AMERICA Down"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 21,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.me",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.me",
+        "registered": true,
+        "a": [
+          "172.67.199.58",
+          "104.21.50.15"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt3.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com"
+        ],
+        "ns": [
+          "vin.ns.cloudflare.com",
+          "rachel.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.me/",
+        "finalUrl": "https://arcadia.me/",
+        "status": 200,
+        "title": "ARCADIA – Early Music Academy – Early Music Academy",
+        "scriptUrls": [
+          "https://arcadia.me/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8",
+          "https://arcadia.me/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+          "https://arcadia.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+          "https://arcadia.me/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.6",
+          "https://arcadia.me/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.6",
+          "https://arcadia.me/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 45203,
+        "renderedWith": "http",
+        "faviconUrl": "https://arcadia.me/favicon.ico",
+        "textSample": "Home For whom Courses Team Venues Media General info Our history Former Courses What is Arcadia? Application Contacts Home Home For whom Courses Team Venues Media General info Our history Former Courses What is Arcadia? Application Contacts TE DEUM 18-25 August 2020, Koszęcin (Poland) Charpentier & "
+      },
+      "similarity": {
+        "title": 0.09,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 21,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.fi",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.fi",
+        "registered": true,
+        "a": [
+          "212.6.54.17"
+        ],
+        "aaaa": [],
+        "mx": [
+          "arcadia-fi.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "net-watch.mpmol.fi",
+          "name.mpmol.fi"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.fi/",
+        "finalUrl": "https://www.arcadia.fi/",
+        "status": 200,
+        "title": "Etusivu | Arcadia",
+        "scriptUrls": [
+          "https://www.arcadia.fi/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+          "https://www.arcadia.fi/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1",
+          "https://www.arcadia.fi/wp-content/themes/default/js/build/production/app.js?ver=3.1.1",
+          "https://www.arcadia.fi/wp-includes/js/wp-embed.min.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 27751,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.arcadia.fi/wp-content/themes/default/images/favicon/apple-touch-icon-57x57.png",
+        "faviconSha256": "4f9da21423c1b66e1414f1e2614322386d96c1b7ff29cf30c163d70667edc500",
+        "textSample": "Yritys Referenssit Yhteystiedot Yritys Referenssit Yhteystiedot Yhteys Arcadia Oy arkkitehtitoimisto Niskakatu 16 B, 80100 Joensuu arcadia@arcadia.fi p. 010 423 4280 Katso kaikki yhteystiedot ARCADIA Oy ARKKITEHTITOIMISTO Lisäarvoa laadukkaalla suunnittelulla 08.09.2025 Varia Vehkalan uusi kampus av"
+      },
+      "similarity": {
+        "title": 0.12,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 21,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.io",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.io",
+        "registered": true,
+        "a": [
+          "185.178.196.3"
+        ],
+        "aaaa": [],
+        "mx": [
+          "arcadia-io.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns-241-a.gandi.net",
+          "ns-59-b.gandi.net",
+          "ns-92-c.gandi.net"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.io/",
+        "finalUrl": "https://arcadia.io/",
+        "status": 403,
+        "title": "Arcadia | Healthcare Data and Analytics Platform",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "token"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5731,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.io/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.io.jpg",
+        "textSample": "We value your privacy We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies. Customise Reject All Accept All Customise Consent Preferences We use cookies to help you navigate efficie"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.co",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.co",
+        "registered": true,
+        "a": [
+          "52.217.90.235",
+          "16.15.253.192",
+          "16.15.255.160",
+          "52.217.170.117",
+          "52.217.171.229",
+          "16.182.103.157",
+          "16.15.229.250",
+          "16.15.183.168"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-1053.awsdns-03.org",
+          "ns-128.awsdns-16.com",
+          "ns-747.awsdns-29.net",
+          "ns-1883.awsdns-43.co.uk"
+        ]
+      },
+      "page": {
+        "url": "http://arcadia.co/",
+        "finalUrl": "https://www.semana.com/cultura/",
+        "status": 200,
+        "title": "Cultura: noticias y tendencias artísticas - Semana",
+        "scriptUrls": [
+          "https://cdn.consentmanager.net/delivery/autoblocking/de0eb68bf209b.js",
+          "https://www.semana.com/pf/dist/engine/polyfill.js?d=8209&mxId=00000000",
+          "https://www.semana.com/pf/dist/engine/react.js?d=8209&amp;mxId=00000000",
+          "https://www.semana.com/pf/dist/components/combinations/default.js?d=8209&amp;mxId=00000000"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 620947,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.semana.com/pf/resources/icons/semana/favicon.ico?d=8209",
+        "faviconSha256": "d98ad1b00af089717ed485d3c1593c4bfc67a26563c188342aac2d9e488f2cf8",
+        "textSample": "Domingo, 1 de noviembre de 2026 ISSN 2745-2794 Suscríbete Últimas noticias Política Nación Dinero Deportes Opinión Impresa Jet Set Foros Semana Mejor Colombia Semana Play Mundo Confidenciales Semana TV Gente Especiales Arcadia Tecnología Turismo Estados Unidos Vehículos Semana Sostenible Finanzas Pe"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.network",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.network",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns2.afternic.com",
+          "ns1.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.network/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/arcadia.network?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.network/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.network.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/arcadia.network?\" on this server. Reference #18.8a3c655f.1793544755.4f528209 https://errors.edgesuite.net/18.8a3c655f.1793544755.4f528209"
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.live",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.live",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.live/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/arcadia.live?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.live/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.live.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/arcadia.live?\" on this server. Reference #18.8a3c655f.1793544757.4f529541 https://errors.edgesuite.net/18.8a3c655f.1793544757.4f529541"
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.top",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.top",
+        "registered": true,
+        "a": [
+          "216.150.1.65",
+          "216.150.1.1"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.vercel-dns.com",
+          "ns1.vercel-dns.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.top/",
+        "finalUrl": "https://arcadia.top/",
+        "status": 402,
+        "title": "Deployment Paused",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 1592,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.top/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.top.jpg",
+        "textSample": "This deployment is temporarily paused arn1::f772r-1793544719020-5e6820c0806b"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (76 chars of text, title \"Deployment Paused\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.cc",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.cc",
+        "registered": true,
+        "a": [
+          "59.106.173.112"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns2.name-services.com",
+          "dns1.name-services.com",
+          "dns5.name-services.com",
+          "dns4.name-services.com",
+          "dns3.name-services.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.cc/",
+        "finalUrl": "https://arcadia.cc/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "Connect Timeout Error (attempted address: arcadia.cc:443, timeout: 10000ms); http: Connect Timeout Error (attempted address: arcadia.cc:80, timeout: 10000ms)",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page not reachable: Connect Timeout Error (attempted address: arcadia.cc:443, timeout: 10000ms); htt"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.us",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.us",
+        "registered": true,
+        "a": [
+          "64.190.63.111"
+        ],
+        "aaaa": [],
+        "mx": [
+          "localhost"
+        ],
+        "ns": [
+          "ns2.sedoparking.com",
+          "ns1.sedoparking.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.us/",
+        "finalUrl": "https://arcadia.us/",
+        "status": 403,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 58,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.us/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.us.jpg",
+        "textSample": "The content of the page cannot be displayed <!--CSTDT_3-->"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (58 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.dev",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.dev",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns2.afternic.com",
+          "ns1.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.dev/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/arcadia.dev?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.dev/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.dev.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/arcadia.dev?\" on this server. Reference #18.8a3c655f.1793544760.4f52b572 https://errors.edgesuite.net/18.8a3c655f.1793544760.4f52b572"
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.tech",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.tech",
+        "registered": true,
+        "a": [
+          "94.130.56.15"
+        ],
+        "aaaa": [],
+        "mx": [
+          "545.hu"
+        ],
+        "ns": [
+          "ns6.545.hu",
+          "ns7.545.hu"
+        ]
+      },
+      "page": {
+        "url": "http://arcadia.tech/",
+        "finalUrl": "http://arcadia.tech/",
+        "status": 500,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://arcadia.tech/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.tech.jpg",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.club",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.club",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns3.my-ndns.com",
+          "ns4.my-ndns.com"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.vip",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.vip",
+        "registered": true,
+        "a": [
+          "15.197.148.33",
+          "3.33.130.190"
+        ],
+        "aaaa": [],
+        "mx": [
+          "arcadia-vip.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns07.domaincontrol.com",
+          "ns08.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.vip/",
+        "finalUrl": "https://arcadia.vip/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "parked",
+            "Related Searches"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.vip/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.vip.jpg",
+        "textSample": "arcadia.vip is parked free, courtesy of GoDaddy.com. Get This Domain Related Searches arcadia Copyright © 1999-2026 GoDaddy, LLC. All rights reserved. Privacy Policy Disclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC and do not cons"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Official name on a different TLD",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.cloud",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.cloud",
+        "registered": true,
+        "a": [
+          "89.46.107.252"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx.arcadia.cloud"
+        ],
+        "ns": [
+          "dns2.technorail.com",
+          "dns4.arubadns.cz",
+          "dns3.arubadns.net",
+          "dns.technorail.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.cloud/",
+        "finalUrl": "https://www.arcadia.cloud/",
+        "status": 200,
+        "title": "ADA Cloud | Home page",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 385,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.arcadia.cloud/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.cloud.jpg",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"ADA Cloud | Home page\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.world",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.world",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns1.dan.com",
+          "ns2.dan.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.world/",
+        "finalUrl": "https://arcadia.world/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.world/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.world.jpg",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.foundation",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.foundation",
+        "registered": true,
+        "a": [
+          "104.21.40.24",
+          "172.67.174.150"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "anirban.ns.cloudflare.com",
+          "frida.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.foundation/",
+        "finalUrl": "https://arcadia.foundation/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "redirect count exceeded; http: redirect count exceeded",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page not reachable: redirect count exceeded; http: redirect count exceeded"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.digital",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.digital",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns2.afternic.com",
+          "ns1.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.digital/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/arcadia.digital?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.digital/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.digital.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/arcadia.digital?\" on this server. Reference #18.8a3c655f.1793544764.4f52e17a https://errors.edgesuite.net/18.8a3c655f.1793544764.4f52e17a"
+      },
+      "similarity": {
+        "title": 0.15,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.website",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.website",
+        "registered": true,
+        "a": [
+          "15.197.148.33",
+          "3.33.130.190"
+        ],
+        "aaaa": [],
+        "mx": [
+          "smtp.secureserver.net",
+          "mailstore1.secureserver.net"
+        ],
+        "ns": [
+          "ns02.domaincontrol.com",
+          "ns01.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.website/",
+        "finalUrl": "https://arcadia.website/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "parked",
+            "Related Searches"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://arcadia.website/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.website.jpg",
+        "textSample": "arcadia.website is parked free, courtesy of GoDaddy.com. Get This Domain Related Searches arcadia web_site Copyright © 1999-2026 GoDaddy, LLC. All rights reserved. Privacy Policy Disclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC an"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Official name on a different TLD",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.biz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.biz",
+        "registered": true,
+        "a": [
+          "185.30.32.114"
+        ],
+        "aaaa": [],
+        "mx": [
+          "s114.goserver.host",
+          "s114.goserver.host"
+        ],
+        "ns": [
+          "ns3.webgo.de",
+          "ns4.webgo.de",
+          "ns2.webgo.de",
+          "ns1.webgo.de"
+        ]
+      },
+      "page": {
+        "url": "http://arcadia.biz/",
+        "finalUrl": "http://arcadia.biz/",
+        "status": 200,
+        "title": "Neue Domain bei der webgo GmbH",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2681,
+        "renderedWith": "http",
+        "faviconUrl": "http://arcadia.biz/favicon.ico",
+        "textSample": "Diese Domain wurde bei webgo f&uuml;r einen Kunden registriert. Wenn Sie diese Seite sehen, ist Ihre Domain erreichbar. Im webgo Webspace Admin unter \"Paket-Verwaltung\" - \"Domainverwaltung\" sehen Sie, in welchen Ordner Ihre Domain aktuell zeigt. Sollten Sie Inhaber dieser Domain sein, l&ouml;schen S"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.ai",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.ai",
+        "registered": true,
+        "a": [
+          "217.70.184.55"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-73-b.gandi.net",
+          "ns-24-a.gandi.net",
+          "ns-246-c.gandi.net"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.ai/",
+        "finalUrl": "https://arcadia.io/",
+        "status": 403,
+        "title": "Arcadia | Healthcare Data and Analytics Platform",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "token"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5756,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.arcadia.io/favicon.ico",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.ai.jpg",
+        "textSample": "We value your privacy We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies. Customise Reject All Accept All Customise Consent Preferences We use cookies to help you navigate efficie"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "arcadia.gg",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "arcadia.gg",
+        "registered": true,
+        "a": [
+          "188.114.96.11",
+          "188.114.97.11"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "aspmx5.googlemail.com",
+          "aspmx2.googlemail.com",
+          "aspmx3.googlemail.com",
+          "aspmx4.googlemail.com"
+        ],
+        "ns": [
+          "ram.ns.cloudflare.com",
+          "sue.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://arcadia.gg/",
+        "finalUrl": "https://shop.mcdmproductions.com/",
+        "status": 404,
+        "title": "MCDM Shop",
+        "scriptUrls": [
+          "https://country-blocker.zend-apps.com/scripts/6083/7a685d9edd95508471a9d3d6fcace432.js",
+          "https://shop.mcdmproductions.com/cdn/shop/t/13/assets/size-chart-data.js?v=57791839240285518601646898285",
+          "https://shop.mcdmproductions.com/checkouts/internal/preloads.js?locale=en-PL&default_configuration_id=298680343",
+          "https://shop.app/checkouts/internal/preloads.js?locale=en-PL&default_configuration_id=298680343&shop_id=1287159908",
+          "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js",
+          "https://shop.mcdmproductions.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 134019,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://shop.mcdmproductions.com/cdn/shop/files/MCDM_squareWordmark_256_32x32.png?v=1614329423",
+        "faviconSha256": "7e5c1525f31607e84ede9cc807d953583a38e47c4d74bc05d263028328e17da6",
+        "screenshot": "out/scans/arcadia-finance-2026-11-01/shots/arcadia.gg.jpg",
+        "textSample": "Cookies & Privacy Preferences Our website uses cookies and similar technologies, which provide some conveniences like keeping you logged in as you browse or remembering what's in your cart if you leave and come back. However, there are also tracking cookies that can influence the kind Privacy Policy"
+      },
+      "similarity": {
+        "title": 0.07,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.02
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page returned HTTP 404"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    }
+  ],
+  "tokens": [
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x8ef5cdc7aBB4d412c8B7D006762bD666c9C33455",
+      "name": "Abundanté FAÍRÈY",
+      "symbol": "444",
+      "firstBlock": 53042385,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 70,
+        "homoglyph": true,
+        "why": "same symbol as the official token (444) (uses lookalike characters)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x8ef5cdc7aBB4d412c8B7D006762bD666c9C33455",
+      "score": 32,
+      "severity": "low",
+      "label": "copycat-token",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (444) (uses lookalike characters)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (60/100): Tradeable but risky: Exit liquidity only ~$0."
+      ],
+      "action": "Monitor: no meaningful liquidity yet. Warn the community if it gets liquidity or is promoted.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 60,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0x34dE22d52cF0278Eb3e6cc940719bd3A990185E3",
+        "ageSeconds": 670660,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Pool uses an unrecognized Uniswap v4 hook that can alter swaps.",
+          "Buy and sell simulated OK; round trip costs 2.0%.",
+          "Owner 0x660eAaEdEBc968f8f3694354FA8EC0b4c5Ba8D12 has not renounced (owner()).",
+          "Token is 7.8 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x26c3e0913e5D7f23Fcba936f5aF2c033898Bd4CC",
+      "name": "Aero Allocator",
+      "symbol": "AAA",
+      "firstBlock": 53055367,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x26c3e0913e5D7f23Fcba936f5aF2c033898Bd4CC",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$1)",
+        "Canisell verdict CAUTION (45/100): Tradeable but risky: Exit liquidity only ~$1.",
+        "Launched via clanker",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 45,
+        "summary": "Tradeable but risky: Exit liquidity only ~$1.",
+        "liquidityUsd": 1,
+        "launchpad": "clanker",
+        "canSell": true,
+        "creator": "0x179A862703a4adfb29896552DF9e307980D19285",
+        "ageSeconds": 644696,
+        "reasons": [
+          "Exit liquidity only ~$1.",
+          "Buying then selling loses 22.2%. Simulated as a same-transaction buy then sell through a v4 hook; some anti-MEV hooks penalize this more than a later sale.",
+          "Liquidity is locked by the clanker launchpad.",
+          "Owner 0x179A862703a4adfb29896552DF9e307980D19285 has not renounced (admin()).",
+          "Token is 7.5 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0xe82fBE8Fdac26d620DEcF27F2a10b1F20D2e85Cc",
+      "name": "444",
+      "symbol": "444",
+      "firstBlock": 53042594,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (444)"
+      },
+      "explorerUrl": "https://basescan.org/token/0xe82fBE8Fdac26d620DEcF27F2a10b1F20D2e85Cc",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (444)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (70/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Launched via zora",
+        "Same ticker only: may be an unrelated project (possible false positive)",
+        "Zora content coin: often a fan post rather than a scam, review before reporting"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 70,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": "zora",
+        "canSell": true,
+        "creator": "0x34dE22d52cF0278Eb3e6cc940719bd3A990185E3",
+        "ageSeconds": 670246,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "Buy and sell simulated OK; round trip costs 1.8%.",
+          "Liquidity is locked by the zora launchpad.",
+          "Token is 7.8 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x41403e18C65E5C045eD2f69D6080f694660F7D7e",
+      "name": "AAA Clan",
+      "symbol": "AAA",
+      "firstBlock": 52862268,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x41403e18C65E5C045eD2f69D6080f694660F7D7e",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (65/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 65,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Buy and sell simulated OK; round trip costs 0.0%.",
+          "Token is older than 30 days."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0xC5cE5e8E16A129cfb240Ac75D1aad3525Dc49f20",
+      "name": "Aaa by Virtuals",
+      "symbol": "AAA",
+      "firstBlock": 52965017,
+      "source": "uniswap-v2",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0xC5cE5e8E16A129cfb240Ac75D1aad3525Dc49f20",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (unpriced)",
+        "Canisell verdict DANGER (0/100): Avoid: No pool found on Uniswap v2/v3/v4 or Aerodrome: cannot be traded on supported DEXes.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "DANGER",
+        "score": 0,
+        "summary": "Avoid: No pool found on Uniswap v2/v3/v4 or Aerodrome: cannot be traded on supported DEXes.",
+        "liquidityUsd": null,
+        "launchpad": null,
+        "creator": "0xEF6D8B24430a9E2f15c203aa27DFD6748CF2CC87",
+        "ageSeconds": 825401,
+        "reasons": [
+          "No pool found on Uniswap v2/v3/v4 or Aerodrome: cannot be traded on supported DEXes.",
+          "Creator wallet is fresh (1 transactions).",
+          "Owner 0xE220329659D41B2a9F26E83816B424bDAcF62567 has not renounced (owner()).",
+          "Token is 9.6 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x75495115Fa97864aaA18c5726164aEEeC30b822A",
+      "name": "Americanized Art Attacks",
+      "symbol": "AAA",
+      "firstBlock": 52825390,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x75495115Fa97864aaA18c5726164aEEeC30b822A",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (65/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Launched via zora",
+        "Same ticker only: may be an unrelated project (possible false positive)",
+        "Zora content coin: often a fan post rather than a scam, review before reporting"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 65,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": "zora",
+        "canSell": true,
+        "creator": "0x9659Bbc7a3e69c16Da9DD2dB133b2353eB894768",
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Buy and sell simulated OK; round trip costs 1.4%.",
+          "Token is older than 30 days."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0xb2000000000000000000004e280Ade3b7b5FE1cF",
+      "name": "Aaaa",
+      "symbol": "AAA",
+      "firstBlock": 52444596,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0xb2000000000000000000004e280Ade3b7b5FE1cF",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (55/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 55,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0x284036c93a43f8cAc2D9Ca08178e1FfE2285165C",
+        "ageSeconds": 1866247,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Pool uses an unrecognized Uniswap v4 hook that can alter swaps.",
+          "Creator wallet is fresh (3 transactions).",
+          "Buy and sell simulated OK; round trip costs 2.0%.",
+          "Token is 21.6 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x411d478489e9265a8A24e307ccA78803a44ff2db",
+      "name": "4_44",
+      "symbol": "4_44",
+      "firstBlock": 52408692,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (4_44)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x411d478489e9265a8A24e307ccA78803a44ff2db",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (4_44)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (70/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Launched via zora",
+        "Same ticker only: may be an unrelated project (possible false positive)",
+        "Zora content coin: often a fan post rather than a scam, review before reporting"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 70,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": "zora",
+        "canSell": true,
+        "creator": "0x2B52043d57F27988f26358850bA57DDeFEa0cadB",
+        "ageSeconds": 1938056,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "Buy and sell simulated OK; round trip costs 2.0%.",
+          "Liquidity is locked by the zora launchpad.",
+          "Token is 22.4 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x33fa2DC234e590D7EB6244217c738f0710227a27",
+      "name": "axaxax",
+      "symbol": "AAA",
+      "firstBlock": 52327645,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x33fa2DC234e590D7EB6244217c738f0710227a27",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (unpriced)",
+        "Canisell verdict DANGER (0/100): Avoid: No pool found on Uniswap v2/v3/v4 or Aerodrome: cannot be traded on supported DEXes.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "DANGER",
+        "score": 0,
+        "summary": "Avoid: No pool found on Uniswap v2/v3/v4 or Aerodrome: cannot be traded on supported DEXes.",
+        "liquidityUsd": null,
+        "launchpad": null,
+        "reasons": [
+          "No pool found on Uniswap v2/v3/v4 or Aerodrome: cannot be traded on supported DEXes."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x7c6467B2C2B51CbD93Ed117e95C7BdD64bB5c73B",
+      "name": "aaa",
+      "symbol": "AAA",
+      "firstBlock": 52215723,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x7c6467B2C2B51CbD93Ed117e95C7BdD64bB5c73B",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (65/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 65,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0xF96CeDEA07bE869E023B09651d29d610ddB25580",
+        "ageSeconds": 2323996,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Buy and sell simulated OK; round trip costs 2.2%.",
+          "Token is 26.9 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0xE009741E8BFf9c5fdEa8a3928308321b2F2e3f41",
+      "name": "aaa",
+      "symbol": "AAA",
+      "firstBlock": 52215729,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0xE009741E8BFf9c5fdEa8a3928308321b2F2e3f41",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (65/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 65,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0xF96CeDEA07bE869E023B09651d29d610ddB25580",
+        "ageSeconds": 2323988,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Buy and sell simulated OK; round trip costs 2.2%.",
+          "Token is 26.9 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0xdb6a41c9C1A9d0e5130482A032056dc6773Cc204",
+      "name": "Arcadia",
+      "symbol": "AAA",
+      "firstBlock": 52129091,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0xdb6a41c9C1A9d0e5130482A032056dc6773Cc204",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (45/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 45,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0xc6C7696eA8473526EA818f212A77450e42959C69",
+        "ageSeconds": 2497267,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "Creator holds 20.0% of supply.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Buy and sell simulated OK; round trip costs 2.2%.",
+          "Token is 28.9 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x5EB1D5973F8DA941ad00EC5B4612E2b5277fD701",
+      "name": "aaa",
+      "symbol": "AAA",
+      "firstBlock": 52208210,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (AAA)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x5EB1D5973F8DA941ad00EC5B4612E2b5277fD701",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (AAA)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (60/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 60,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0xB3e2c25741859ba07F5E27868198B68CD5D45FF4",
+        "ageSeconds": 2339029,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Pool uses an unrecognized Uniswap v4 hook that can alter swaps.",
+          "Buy and sell simulated OK; round trip costs 2.0%.",
+          "Owner 0x660eAaEdEBc968f8f3694354FA8EC0b4c5Ba8D12 has not renounced (owner()).",
+          "Token is 27.1 days old."
+        ]
+      }
+    }
+  ],
+  "errors": []
+}

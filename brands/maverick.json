@@ -1,0 +1,27 @@
+{
+  "name": "Maverick Protocol",
+  "officialDomains": [
+    "mav.xyz"
+  ],
+  "referenceUrl": "https://www.mav.xyz/",
+  "officialTokens": [
+    {
+      "chain": "ethereum",
+      "address": "0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD",
+      "symbol": "MAV",
+      "name": "Maverick Token"
+    }
+  ],
+  "officialSocials": {
+    "x": "mavprotocol"
+  },
+  "keywords": [
+    "mavprotocol",
+    "maverickprotocol",
+    "maverick-protocol"
+  ],
+  "tokenChains": [
+    "ethereum"
+  ],
+  "notes": "Profile built from public info (DefiLlama, project site) on 2026-11-01. No relationship with the project."
+}

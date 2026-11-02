@@ -1,0 +1,4198 @@
+{
+  "brand": {
+    "name": "Hydrex",
+    "officialDomains": [
+      "hydrex.fi"
+    ],
+    "referenceUrl": "https://www.hydrex.fi/",
+    "officialTokens": [],
+    "officialSocials": {
+      "x": "hydrexfi"
+    },
+    "keywords": [
+      "hydrex"
+    ],
+    "allowlist": [],
+    "tokenChains": [
+      "base"
+    ]
+  },
+  "startedAt": "2026-11-01T14:46:39.346Z",
+  "finishedAt": "2026-11-01T14:49:54.104Z",
+  "periodDays": 30,
+  "official": {
+    "url": "https://www.hydrex.fi/",
+    "title": "Hydrex",
+    "faviconSha256": "ea5edde27aa63b94191ba02d498f6ac030a3d98157e5ecf4c1ed6a048a441fc9"
+  },
+  "stats": {
+    "permutations": 1352,
+    "permutationsRegistered": 25,
+    "ctHosts": 26,
+    "nrdHits": 1,
+    "candidates": 50,
+    "pagesFetched": 44,
+    "pagesRendered": 26,
+    "tokensIndexed": {},
+    "tokenMatches": 0
+  },
+  "coverage": {
+    "ct": [
+      {
+        "q": "hydrex%",
+        "rows": 390
+      },
+      {
+        "q": "hydrex.%",
+        "rows": 450
+      },
+      {
+        "q": "hydrex-%",
+        "rows": 2
+      },
+      {
+        "q": "%hydrex%",
+        "rows": 0,
+        "error": "HTTP 502"
+      }
+    ],
+    "nrd": [
+      {
+        "day": "2026-10-31",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-30",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-29",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-28",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-27",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-26",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-25",
+        "domains": 70000
+      }
+    ],
+    "tokens": [],
+    "blocklists": [
+      "metamask",
+      "scamsniffer"
+    ]
+  },
+  "domains": [
+    {
+      "kind": "domain",
+      "host": "portal-hydrex.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "portal-hydrex.xyz",
+        "registered": true,
+        "a": [
+          "188.114.96.11",
+          "188.114.97.11"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "brian.ns.cloudflare.com",
+          "ivy.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://portal-hydrex.xyz/",
+        "finalUrl": "https://portal-hydrex.xyz/",
+        "status": 200,
+        "title": "Hydrex",
+        "scriptUrls": [
+          "https://portal-hydrex.xyz/vue-4.16.5.slim.js",
+          "https://portal-hydrex.xyz/5684a1cb.js",
+          "https://portal-hydrex.xyz/b85f7def.js",
+          "https://portal-hydrex.xyz/codex-animations.js?v=8"
+        ],
+        "signals": {
+          "walletPrompt": [
+            "Connect your wallet",
+            "walletconnect",
+            "reown.com",
+            "window.ethereum"
+          ],
+          "seedPhrase": [],
+          "secretForm": true,
+          "lure": [
+            "claim",
+            "Rewards"
+          ],
+          "drainerJs": [
+            "obfuscated-js(300 _0x identifiers)"
+          ],
+          "parked": [],
+          "cryptoContext": [
+            "token",
+            "swap",
+            "Liquidity",
+            "Wallet",
+            "ETH",
+            "USDC"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 8,
+        "brandInTitle": true,
+        "bytes": 1538657,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://app-hydrexvote.today/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/portal-hydrex.xyz.jpg",
+        "textSample": "0 Connect Trade Accounts Earn Vote Analytics Trade Accounts Earn Vote Analytics 0 Connect Accounts Trade Earn Vote Season 1 | Holder Rewards $HYDX Holder Crates are Live! Hold $HYDX through the snapshot, open your Crate, and claim your allocation. Open your Crate Best swap rates on Base. Hydrex guar"
+      },
+      "similarity": {
+        "title": 1,
+        "text": 0.2,
+        "favicon": false,
+        "overall": 0.49
+      },
+      "listedOn": [],
+      "score": 89,
+      "severity": "critical",
+      "label": "phishing-likely",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page title resembles the official title (100%)",
+        "Page text overlaps the official site (20% shingles)",
+        "Brand named on the page (8x), including the title",
+        "Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com",
+        "Drainer-style JS: obfuscated-js(300 _0x identifiers)",
+        "Lure text: claim, Rewards"
+      ],
+      "action": "After client approval: file registrar + host abuse reports, Google Safe Browsing / Netcraft, and wallet blocklist submissions (drafts attached).",
+      "alreadyBlocked": false,
+      "rdap": {
+        "domain": "portal-hydrex.xyz",
+        "registrar": "Dynadot Inc",
+        "ianaId": "472",
+        "abuse": {
+          "name": "Abuse Contact",
+          "email": "abuse@dynadot.com",
+          "phone": "+1.6502620100"
+        },
+        "registered": "2026-09-23T17:00:44.0Z",
+        "expires": "2027-09-23T23:59:59.0Z",
+        "status": [
+          "server transfer prohibited",
+          "client transfer prohibited"
+        ],
+        "source": "https://rdap.centralnic.com/xyz/domain/portal-hydrex.xyz"
+      },
+      "hosting": {
+        "ip": "188.114.96.11",
+        "network": "CLOUDFLARENET-EU",
+        "org": "MNT-CLOUDFLARE",
+        "abuse": {
+          "name": "Cloudflare Abuse Contact",
+          "email": "abuse@cloudflare.com",
+          "form": "https://abuse.cloudflare.com/"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to Dynadot Inc",
+          "to": "abuse@dynadot.com",
+          "subject": "Phishing / brand impersonation: portal-hydrex.xyz impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Dynadot Inc abuse team,\n\nThe domain portal-hydrex[.]xyz (registered with you on 2026-09-23) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://portal-hydrex[.]xyz/\n- Brand name plus a phishing lure word\n- Page title resembles the official title (100%)\n- Page text overlaps the official site (20% shingles)\n- Brand named on the page (8x), including the title\n- Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com\n- Drainer-style JS: obfuscated-js(300 _0x identifiers)\n- Lure text: claim, Rewards\n- Resolves to 188.114.96.11, 188.114.97.11\n- Page title: \"Hydrex\"\n- Screenshot: shots/portal-hydrex.xyz.jpg (attach)\n\nWe are not affiliated with the operator of portal-hydrex[.]xyz. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 472, abuse phone +1.6502620100"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to MNT-CLOUDFLARE",
+          "to": "https://abuse.cloudflare.com/",
+          "subject": "Phishing site hosted on your network: portal-hydrex.xyz (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello MNT-CLOUDFLARE,\n\nhxxps://portal-hydrex[.]xyz/ (188.114.96.11, 188.114.97.11) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Brand name plus a phishing lure word\n- Page title resembles the official title (100%)\n- Page text overlaps the official site (20% shingles)\n- Brand named on the page (8x), including the title\n- Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com\n- Drainer-style JS: obfuscated-js(300 _0x identifiers)\n- Lure text: claim, Rewards\n- Resolves to 188.114.96.11, 188.114.97.11\n- Page title: \"Hydrex\"\n- Screenshot: shots/portal-hydrex.xyz.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Email alternative: abuse@cloudflare.com"
+          ]
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fportal-hydrex.xyz%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://portal-hydrex.xyz/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%)."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%).",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://portal-hydrex.xyz/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%).",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%).",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "metamask-issue",
+          "title": "MetaMask eth-phishing-detect: blocklist addition issue",
+          "to": "https://github.com/MetaMask/eth-phishing-detect/issues/new?template=01-blocklist-addition.yaml",
+          "fields": {
+            "Malicious domains, IPs, IPFS hashes, or IPNS names": "https://portal-hydrex.xyz/",
+            "Please explain why this content is malicious": "Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%). Observed 2026-11-01. Reported on behalf of Hydrex.",
+            "Is this a duplicate request?": "Search open issues for the domain first, then tick the box"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%)."
+        },
+        {
+          "channel": "metamask-pr",
+          "title": "MetaMask eth-phishing-detect: alternative PR (slower; most merges are bot syncs)",
+          "to": "https://github.com/MetaMask/eth-phishing-detect",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\ngit checkout -b block-portal-hydrex.xyz\nyarn add:blocklist portal-hydrex.xyz\n\nPR title: Block portal-hydrex.xyz (Hydrex impersonation)\nPR body: Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%)."
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] portal-hydrex.xyz - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: portal-hydrex.xyz\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Brand name plus a phishing lure word\n- Page title resembles the official title (100%)\n- Page text overlaps the official site (20% shingles)\n- Brand named on the page (8x), including the title\n- Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com\n- Drainer-style JS: obfuscated-js(300 _0x identifiers)\n- Lure text: claim, Rewards\n- Resolves to 188.114.96.11, 188.114.97.11\n- Page title: \"Hydrex\"\n- Screenshot: shots/portal-hydrex.xyz.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.blocktronics.xyz",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-18T10:59:31",
+      "ctIssuer": "WE1",
+      "dns": {
+        "domain": "hydrex.blocktronics.xyz",
+        "registered": true,
+        "a": [
+          "188.114.96.3",
+          "188.114.97.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": []
+      },
+      "page": {
+        "url": "https://hydrex.blocktronics.xyz/",
+        "finalUrl": "https://hydrex.blocktronics.xyz/",
+        "status": 200,
+        "title": "Hydrex · LP Profitability Scan",
+        "scriptUrls": [
+          "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"
+        ],
+        "signals": {
+          "walletPrompt": [
+            "Connect wallet",
+            "WalletConnect",
+            "reown.com",
+            "eth_requestAccounts",
+            "window.ethereum"
+          ],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [
+            "rewards"
+          ],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "liquidity",
+            "wallet",
+            "USDC"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 4,
+        "brandInTitle": true,
+        "bytes": 82752,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.blocktronics.xyz/favicon.ico",
+        "faviconSha256": "f087ce78965eb4b6188133b58c2c536e399210b9d2eb5b9198f35d1fd711274f",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.blocktronics.xyz.jpg",
+        "textSample": "Powered by BLOCKTRONICS From numbers to actionable insights LP Profitability Scanner True profit/loss for your liquidity on Hydrex — both manual Algebra concentrated-liquidity positions and ICHI vaults, with fees, Merkl rewards, ROI and money-weighted IRR. Connect wallet Unlimited LP scans · 2.5 USD"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 62,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-18 (Certificate Transparency)",
+        "Page title resembles the official title (80%)",
+        "Brand named on the page (4x), including the title",
+        "Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com",
+        "Lure text: rewards"
+      ],
+      "action": "After client approval: file registrar + host abuse reports, Google Safe Browsing / Netcraft, and wallet blocklist submissions (drafts attached).",
+      "alreadyBlocked": false,
+      "rdap": {
+        "domain": "blocktronics.xyz",
+        "registrar": "GoDaddy.com, LLC",
+        "ianaId": "146",
+        "abuse": {
+          "name": "Abuse Contact",
+          "email": "abuse@godaddy.com",
+          "phone": "+1.4805058800"
+        },
+        "registered": "2026-03-21T13:30:54.0Z",
+        "expires": "2027-03-21T23:59:59.0Z",
+        "status": [
+          "client renew prohibited",
+          "client transfer prohibited",
+          "client update prohibited",
+          "client delete prohibited"
+        ],
+        "source": "https://rdap.centralnic.com/xyz/domain/blocktronics.xyz"
+      },
+      "hosting": {
+        "ip": "188.114.96.3",
+        "network": "CLOUDFLARENET-EU",
+        "org": "MNT-CLOUDFLARE",
+        "abuse": {
+          "name": "Cloudflare Abuse Contact",
+          "email": "abuse@cloudflare.com",
+          "form": "https://abuse.cloudflare.com/"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to GoDaddy.com, LLC",
+          "to": "abuse@godaddy.com",
+          "subject": "Phishing / brand impersonation: hydrex.blocktronics.xyz impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello GoDaddy.com, LLC abuse team,\n\nThe domain hydrex[.]blocktronics[.]xyz (registered with you on 2026-03-21) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://hydrex[.]blocktronics[.]xyz/\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-18 (Certificate Transparency)\n- Page title resembles the official title (80%)\n- Brand named on the page (4x), including the title\n- Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com\n- Lure text: rewards\n- Resolves to 188.114.96.3, 188.114.97.3\n- Page title: \"Hydrex · LP Profitability Scan\"\n- Screenshot: shots/hydrex.blocktronics.xyz.jpg (attach)\n\nWe are not affiliated with the operator of hydrex[.]blocktronics[.]xyz. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 146, abuse phone +1.4805058800"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to MNT-CLOUDFLARE",
+          "to": "https://abuse.cloudflare.com/",
+          "subject": "Phishing site hosted on your network: hydrex.blocktronics.xyz (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello MNT-CLOUDFLARE,\n\nhxxps://hydrex[.]blocktronics[.]xyz/ (188.114.96.3, 188.114.97.3) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-18 (Certificate Transparency)\n- Page title resembles the official title (80%)\n- Brand named on the page (4x), including the title\n- Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com\n- Lure text: rewards\n- Resolves to 188.114.96.3, 188.114.97.3\n- Page title: \"Hydrex · LP Profitability Scan\"\n- Screenshot: shots/hydrex.blocktronics.xyz.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Email alternative: abuse@cloudflare.com"
+          ]
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fhydrex.blocktronics.xyz%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://hydrex.blocktronics.xyz/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com; Page title resembles the official title (80%); Brand named on the page (4x), including the title; Lure text: rewards."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com; Page title resembles the official title (80%); Brand named on the page (4x), including the title; Lure text: rewards.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://hydrex.blocktronics.xyz/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com; Page title resembles the official title (80%); Brand named on the page (4x), including the title; Lure text: rewards.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com; Page title resembles the official title (80%); Brand named on the page (4x), including the title; Lure text: rewards.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "metamask-issue",
+          "title": "MetaMask eth-phishing-detect: blocklist addition issue",
+          "to": "https://github.com/MetaMask/eth-phishing-detect/issues/new?template=01-blocklist-addition.yaml",
+          "fields": {
+            "Malicious domains, IPs, IPFS hashes, or IPNS names": "https://hydrex.blocktronics.xyz/",
+            "Please explain why this content is malicious": "Impersonates Hydrex (official: https://hydrex.fi). Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com; Page title resembles the official title (80%); Brand named on the page (4x), including the title; Lure text: rewards. Observed 2026-11-01. Reported on behalf of Hydrex.",
+            "Is this a duplicate request?": "Search open issues for the domain first, then tick the box"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com; Page title resembles the official title (80%); Brand named on the page (4x), including the title; Lure text: rewards."
+        },
+        {
+          "channel": "metamask-pr",
+          "title": "MetaMask eth-phishing-detect: alternative PR (slower; most merges are bot syncs)",
+          "to": "https://github.com/MetaMask/eth-phishing-detect",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\ngit checkout -b block-hydrex.blocktronics.xyz\nyarn add:blocklist hydrex.blocktronics.xyz\n\nPR title: Block hydrex.blocktronics.xyz (Hydrex impersonation)\nPR body: Impersonates Hydrex (official: https://hydrex.fi). Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com; Page title resembles the official title (80%); Brand named on the page (4x), including the title; Lure text: rewards."
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] hydrex.blocktronics.xyz - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: hydrex.blocktronics.xyz\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-18 (Certificate Transparency)\n- Page title resembles the official title (80%)\n- Brand named on the page (4x), including the title\n- Wallet-connect prompt/library: Connect wallet, WalletConnect, reown.com\n- Lure text: rewards\n- Resolves to 188.114.96.3, 188.114.97.3\n- Page title: \"Hydrex · LP Profitability Scan\"\n- Screenshot: shots/hydrex.blocktronics.xyz.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "rewards-hydrex.app",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "rewards-hydrex.app",
+        "registered": true,
+        "a": [
+          "172.67.141.105",
+          "104.21.33.52"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "meera.ns.cloudflare.com",
+          "kip.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://rewards-hydrex.app/",
+        "finalUrl": "https://rewards-hydrex.app/",
+        "status": 403,
+        "title": "Just a moment...",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [
+            "rewards"
+          ],
+          "drainerJs": [
+            "obfuscated-js(6435 _0x identifiers)"
+          ],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Just a moment..."
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5589,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://rewards-hydrex.app/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/rewards-hydrex.app.jpg",
+        "textSample": "rewards-hydrex.app Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Verification successful. Waiting for rewards-hydrex.app to respond Ray ID: a53bb4fd49e357b7 Performance and"
+      },
+      "similarity": {
+        "title": 0.09,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [
+        "metamask"
+      ],
+      "score": 50,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ],
+      "action": "Already blocked (metamask). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "rewards-hydrex.app",
+        "registrar": "NICENIC INTERNATIONAL GROUP CO., LIMITED",
+        "ianaId": "3765",
+        "abuse": {
+          "name": "NICENIC INTERNATIONAL GROUP CO., LIMITED",
+          "email": "abuse@nicenic.net",
+          "phone": "+1.4006228300"
+        },
+        "registered": "2026-07-15T16:08:30.996Z",
+        "expires": "2027-07-15T16:08:30.996Z",
+        "status": [
+          "client delete prohibited",
+          "client transfer prohibited"
+        ],
+        "source": "https://pubapi.registry.google/rdap/domain/rewards-hydrex.app"
+      },
+      "hosting": {
+        "ip": "172.67.141.105",
+        "network": "CLOUDFLARENET",
+        "org": "Cloudflare, Inc.",
+        "abuse": {
+          "name": "Abuse",
+          "email": "abuse@cloudflare.com",
+          "phone": "+1-650-319-8930",
+          "form": "https://abuse.cloudflare.com/"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to NICENIC INTERNATIONAL GROUP CO., LIMITED",
+          "to": "abuse@nicenic.net",
+          "subject": "Phishing / brand impersonation: rewards-hydrex.app impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello NICENIC INTERNATIONAL GROUP CO., LIMITED abuse team,\n\nThe domain rewards-hydrex[.]app (registered with you on 2026-07-15) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://rewards-hydrex[.]app/\n- Brand name plus a phishing lure word\n- Already on public wallet blocklist(s): metamask\n- Bot challenge or redirect stub (\"Just a moment...\"): real content not visible\n- Resolves to 172.67.141.105, 104.21.33.52\n- Page title: \"Just a moment...\"\n- Screenshot: shots/rewards-hydrex.app.jpg (attach)\n\nWe are not affiliated with the operator of rewards-hydrex[.]app. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 3765, abuse phone +1.4006228300"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to Cloudflare, Inc.",
+          "to": "https://abuse.cloudflare.com/",
+          "subject": "Phishing site hosted on your network: rewards-hydrex.app (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Cloudflare, Inc.,\n\nhxxps://rewards-hydrex[.]app/ (172.67.141.105, 104.21.33.52) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Brand name plus a phishing lure word\n- Already on public wallet blocklist(s): metamask\n- Bot challenge or redirect stub (\"Just a moment...\"): real content not visible\n- Resolves to 172.67.141.105, 104.21.33.52\n- Page title: \"Just a moment...\"\n- Screenshot: shots/rewards-hydrex.app.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Email alternative: abuse@cloudflare.com"
+          ]
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Frewards-hydrex.app%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://rewards-hydrex.app/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://rewards-hydrex.app/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] rewards-hydrex.app - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: rewards-hydrex.app\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Brand name plus a phishing lure word\n- Already on public wallet blocklist(s): metamask\n- Bot challenge or redirect stub (\"Just a moment...\"): real content not visible\n- Resolves to 172.67.141.105, 104.21.33.52\n- Page title: \"Just a moment...\"\n- Screenshot: shots/rewards-hydrex.app.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex-japan.info",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-10T03:17:48",
+      "ctIssuer": "YR1",
+      "dns": {
+        "domain": "hydrex-japan.info",
+        "registered": true,
+        "a": [
+          "183.181.82.149"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns1.xserver.jp",
+          "ns5.xserver.jp",
+          "ns4.xserver.jp",
+          "ns2.xserver.jp",
+          "ns3.xserver.jp"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex-japan.info/",
+        "finalUrl": "https://hydrex-japan.info/",
+        "status": 200,
+        "title": "Hydrexで健康的な毎日を",
+        "scriptUrls": [
+          "https://hydrex-japan.info/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://hydrex-japan.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://hydrex-japan.info/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.11.10",
+          "https://hydrex-japan.info/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.31.3",
+          "https://hydrex-japan.info/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.31.3",
+          "https://hydrex-japan.info/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 71,
+        "brandInTitle": true,
+        "bytes": 271622,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex-japan.info/wp-content/uploads/2025/08/cropped-250916-%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-32x32.png",
+        "faviconSha256": "7bdd2afb98c8a897a0025db1c41d1ea2fefc97abf0ff97f39f8c1b209b7152f1",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex-japan.info.jpg",
+        "textSample": "内容をスキップ 「最近、なんだか体が重い…」 それ、年齢のせいじゃないかもしれません。 疲れが抜けない。 朝起きるのがつらい。 肌の調子もなんだか冴えない。 ──そんな不調、あなたも感じたことがありませんか？ もちろん、サプリやマッサージ、運動、温泉、エステ… 手を尽くしている方も多いと思います。 でも、正直に言って 「根本的には変わらない」 と感じていませんか？ それもそのはず。 今、多くの人を悩ませている体調不良の原因は、表面的な疲れではなく ──もっと深いところ、 「細胞レベルの酸化」 にあるからです。 あなたのカラダをむしばむ“目に見えない敵”──それが悪玉活性酸素 私たちは1日におよ"
+      },
+      "similarity": {
+        "title": 1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.35
+      },
+      "listedOn": [],
+      "score": 47,
+      "severity": "high",
+      "label": "impersonation",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Page title resembles the official title (100%)",
+        "Brand named on the page (71x), including the title"
+      ],
+      "action": "Review the screenshot. If it impersonates the brand, file registrar + host reports (drafts attached).",
+      "alreadyBlocked": false,
+      "rdap": {
+        "domain": "hydrex-japan.info",
+        "registrar": "XServer, Inc.",
+        "ianaId": "1557",
+        "abuse": {
+          "email": "registrar-abuse@registrar.xserver.co.jp",
+          "phone": "+81.662928811"
+        },
+        "registered": "2025-06-13T02:30:22.226Z",
+        "expires": "2027-06-13T02:30:22.226Z",
+        "status": [
+          "client transfer prohibited"
+        ],
+        "source": "https://rdap.identitydigital.services/rdap/domain/hydrex-japan.info"
+      },
+      "hosting": {
+        "ip": "183.181.82.149",
+        "network": "XSERVER",
+        "abuse": {
+          "name": "IRT-JPNIC-JP",
+          "email": "hostmaster@nic.ad.jp",
+          "phone": "+81-3-5297-2311"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to XServer, Inc.",
+          "to": "registrar-abuse@registrar.xserver.co.jp",
+          "subject": "Phishing / brand impersonation: hydrex-japan.info impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello XServer, Inc. abuse team,\n\nThe domain hydrex-japan[.]info (registered with you on 2025-06-13) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://hydrex-japan[.]info/\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-10 (Certificate Transparency)\n- Page title resembles the official title (100%)\n- Brand named on the page (71x), including the title\n- Resolves to 183.181.82.149\n- Page title: \"Hydrexで健康的な毎日を\"\n- Screenshot: shots/hydrex-japan.info.jpg (attach)\n\nWe are not affiliated with the operator of hydrex-japan[.]info. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 1557, abuse phone +81.662928811"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report",
+          "to": "hostmaster@nic.ad.jp",
+          "subject": "Phishing site hosted on your network: hydrex-japan.info (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Abuse Team,\n\nhxxps://hydrex-japan[.]info/ (183.181.82.149) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-10 (Certificate Transparency)\n- Page title resembles the official title (100%)\n- Brand named on the page (71x), including the title\n- Resolves to 183.181.82.149\n- Page title: \"Hydrexで健康的な毎日を\"\n- Screenshot: shots/hydrex-japan.info.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": []
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fhydrex-japan.info%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://hydrex-japan.info/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Page title resembles the official title (100%); Brand named on the page (71x), including the title."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page title resembles the official title (100%); Brand named on the page (71x), including the title.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://hydrex-japan.info/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Page title resembles the official title (100%); Brand named on the page (71x), including the title.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page title resembles the official title (100%); Brand named on the page (71x), including the title.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "metamask-issue",
+          "title": "MetaMask eth-phishing-detect: blocklist addition issue",
+          "to": "https://github.com/MetaMask/eth-phishing-detect/issues/new?template=01-blocklist-addition.yaml",
+          "fields": {
+            "Malicious domains, IPs, IPFS hashes, or IPNS names": "https://hydrex-japan.info/",
+            "Please explain why this content is malicious": "Impersonates Hydrex (official: https://hydrex.fi). Page title resembles the official title (100%); Brand named on the page (71x), including the title. Observed 2026-11-01. Reported on behalf of Hydrex.",
+            "Is this a duplicate request?": "Search open issues for the domain first, then tick the box"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page title resembles the official title (100%); Brand named on the page (71x), including the title."
+        },
+        {
+          "channel": "metamask-pr",
+          "title": "MetaMask eth-phishing-detect: alternative PR (slower; most merges are bot syncs)",
+          "to": "https://github.com/MetaMask/eth-phishing-detect",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\ngit checkout -b block-hydrex-japan.info\nyarn add:blocklist hydrex-japan.info\n\nPR title: Block hydrex-japan.info (Hydrex impersonation)\nPR body: Impersonates Hydrex (official: https://hydrex.fi). Page title resembles the official title (100%); Brand named on the page (71x), including the title."
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] hydrex-japan.info - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: hydrex-japan.info\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-10 (Certificate Transparency)\n- Page title resembles the official title (100%)\n- Brand named on the page (71x), including the title\n- Resolves to 183.181.82.149\n- Page title: \"Hydrexで健康的な毎日を\"\n- Screenshot: shots/hydrex-japan.info.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.pro",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.pro",
+        "registered": true,
+        "a": [
+          "188.114.97.3",
+          "188.114.96.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "celeste.ns.cloudflare.com",
+          "ryan.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.pro/",
+        "finalUrl": "https://hydrex.pro/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "This operation was aborted; http: This operation was aborted",
+        "textSample": ""
+      },
+      "listedOn": [
+        "metamask"
+      ],
+      "score": 45,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ],
+      "action": "Already blocked (metamask). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "hydrex.pro",
+        "registrar": "NICENIC INTERNATIONAL GROUP CO., LIMITED",
+        "ianaId": "3765",
+        "abuse": {
+          "email": "abuse@nicenic.net",
+          "phone": "+852.68584411"
+        },
+        "registered": "2026-05-21T19:06:13.702Z",
+        "expires": "2027-05-21T19:06:13.702Z",
+        "status": [
+          "client delete prohibited",
+          "client transfer prohibited"
+        ],
+        "source": "https://rdap.identitydigital.services/rdap/domain/hydrex.pro"
+      },
+      "hosting": {
+        "ip": "188.114.97.3",
+        "network": "CLOUDFLARENET-EU",
+        "org": "MNT-CLOUDFLARE",
+        "abuse": {
+          "name": "Cloudflare Abuse Contact",
+          "email": "abuse@cloudflare.com",
+          "form": "https://abuse.cloudflare.com/"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to NICENIC INTERNATIONAL GROUP CO., LIMITED",
+          "to": "abuse@nicenic.net",
+          "subject": "Phishing / brand impersonation: hydrex.pro impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello NICENIC INTERNATIONAL GROUP CO., LIMITED abuse team,\n\nThe domain hydrex[.]pro (registered with you on 2026-05-21) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://hydrex[.]pro/\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Page not reachable: This operation was aborted; http: This operation was aborted\n- Resolves to 188.114.97.3, 188.114.96.3\n\nWe are not affiliated with the operator of hydrex[.]pro. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 3765, abuse phone +852.68584411"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to MNT-CLOUDFLARE",
+          "to": "https://abuse.cloudflare.com/",
+          "subject": "Phishing site hosted on your network: hydrex.pro (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello MNT-CLOUDFLARE,\n\nhxxps://hydrex[.]pro/ (188.114.97.3, 188.114.96.3) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Page not reachable: This operation was aborted; http: This operation was aborted\n- Resolves to 188.114.97.3, 188.114.96.3\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Email alternative: abuse@cloudflare.com"
+          ]
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fhydrex.pro%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://hydrex.pro/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Page not reachable: This operation was aborted; http: This operation was aborted."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Page not reachable: This operation was aborted; http: This operation was aborted.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://hydrex.pro/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Page not reachable: This operation was aborted; http: This operation was aborted.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Page not reachable: This operation was aborted; http: This operation was aborted.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] hydrex.pro - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: hydrex.pro\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Page not reachable: This operation was aborted; http: This operation was aborted\n- Resolves to 188.114.97.3, 188.114.96.3",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.top",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.top",
+        "registered": true,
+        "a": [
+          "172.67.160.12",
+          "104.21.9.132"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "elmo.ns.cloudflare.com",
+          "courtney.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "http://hydrex.top/",
+        "finalUrl": "http://hydrex.top/",
+        "status": 409,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 21,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://hydrex.top/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.top.jpg",
+        "textSample": "Check domain settings"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [
+        "metamask"
+      ],
+      "score": 45,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (21 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Already blocked (metamask). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "hydrex.top",
+        "registrar": "NICENIC INTERNATIONAL GROUP CO., LIMITED",
+        "ianaId": "3765",
+        "abuse": {
+          "name": "Helen H",
+          "email": "abuse@nicenic.net",
+          "phone": "85268581006"
+        },
+        "registered": "2026-05-27T12:56:17.0Z",
+        "expires": "2027-05-27T12:56:17.0Z",
+        "status": [
+          "client delete prohibited",
+          "client transfer prohibited"
+        ],
+        "source": "https://rdap.zdnsgtld.com/top/domain/hydrex.top"
+      },
+      "hosting": {
+        "ip": "172.67.160.12",
+        "network": "CLOUDFLARENET",
+        "org": "Cloudflare, Inc.",
+        "abuse": {
+          "name": "Abuse",
+          "email": "abuse@cloudflare.com",
+          "phone": "+1-650-319-8930",
+          "form": "https://abuse.cloudflare.com/"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to NICENIC INTERNATIONAL GROUP CO., LIMITED",
+          "to": "abuse@nicenic.net",
+          "subject": "Phishing / brand impersonation: hydrex.top impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello NICENIC INTERNATIONAL GROUP CO., LIMITED abuse team,\n\nThe domain hydrex[.]top (registered with you on 2026-05-27) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxp://hydrex[.]top/\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Almost empty page (21 chars of text, title \"\"): content not visible\n- Resolves to 172.67.160.12, 104.21.9.132\n- Screenshot: shots/hydrex.top.jpg (attach)\n\nWe are not affiliated with the operator of hydrex[.]top. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 3765, abuse phone 85268581006"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to Cloudflare, Inc.",
+          "to": "https://abuse.cloudflare.com/",
+          "subject": "Phishing site hosted on your network: hydrex.top (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Cloudflare, Inc.,\n\nhxxp://hydrex[.]top/ (172.67.160.12, 104.21.9.132) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Almost empty page (21 chars of text, title \"\"): content not visible\n- Resolves to 172.67.160.12, 104.21.9.132\n- Screenshot: shots/hydrex.top.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Email alternative: abuse@cloudflare.com"
+          ]
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=http%3A%2F%2Fhydrex.top%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "http://hydrex.top/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (21 chars of text, title \"\"): content not visible."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (21 chars of text, title \"\"): content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "http://hydrex.top/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (21 chars of text, title \"\"): content not visible.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (21 chars of text, title \"\"): content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] hydrex.top - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: hydrex.top\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Almost empty page (21 chars of text, title \"\"): content not visible\n- Resolves to 172.67.160.12, 104.21.9.132\n- Screenshot: shots/hydrex.top.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.cloud",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.cloud",
+        "registered": true,
+        "a": [
+          "192.162.199.139"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns3.my-ndns.com",
+          "ns4.my-ndns.com"
+        ]
+      },
+      "page": {
+        "url": "http://hydrex.cloud/",
+        "finalUrl": "http://hydrex.cloud/",
+        "status": 200,
+        "title": "Sorry, the website has been stopped",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 58286,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://hydrex.cloud/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.cloud.jpg",
+        "textSample": "Website not found Sorry, Please confirm that this domain name has been bound to your website."
+      },
+      "similarity": {
+        "title": 0.07,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.02
+      },
+      "listedOn": [
+        "metamask"
+      ],
+      "score": 45,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible"
+      ],
+      "action": "Already blocked (metamask). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "hydrex.cloud",
+        "registrar": "NICENIC INTERNATIONAL GROUP CO., LIMITED",
+        "ianaId": "3765",
+        "abuse": {
+          "email": "support@nicenic.net",
+          "phone": "+86.13539583645"
+        },
+        "registered": "2026-07-29T15:51:12.615Z",
+        "expires": "2027-07-29T15:51:12.615Z",
+        "status": [
+          "client transfer prohibited",
+          "client delete prohibited"
+        ],
+        "source": "https://rdap.registry.cloud/rdap/domain/hydrex.cloud"
+      },
+      "hosting": {
+        "ip": "192.162.199.139",
+        "network": "FEMO",
+        "org": "FEMOITSOLUTIONS-mnt",
+        "abuse": {
+          "name": "FEMO IT SOLUTIONS LIMITED",
+          "email": "abuse@as214351.com"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to NICENIC INTERNATIONAL GROUP CO., LIMITED",
+          "to": "support@nicenic.net",
+          "subject": "Phishing / brand impersonation: hydrex.cloud impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello NICENIC INTERNATIONAL GROUP CO., LIMITED abuse team,\n\nThe domain hydrex[.]cloud (registered with you on 2026-07-29) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxp://hydrex[.]cloud/\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible\n- Resolves to 192.162.199.139\n- Page title: \"Sorry, the website has been stopped\"\n- Screenshot: shots/hydrex.cloud.jpg (attach)\n\nWe are not affiliated with the operator of hydrex[.]cloud. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 3765, abuse phone +86.13539583645"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to FEMOITSOLUTIONS-mnt",
+          "to": "abuse@as214351.com",
+          "subject": "Phishing site hosted on your network: hydrex.cloud (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello FEMOITSOLUTIONS-mnt,\n\nhxxp://hydrex[.]cloud/ (192.162.199.139) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible\n- Resolves to 192.162.199.139\n- Page title: \"Sorry, the website has been stopped\"\n- Screenshot: shots/hydrex.cloud.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": []
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=http%3A%2F%2Fhydrex.cloud%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "http://hydrex.cloud/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "http://hydrex.cloud/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Official name on a different TLD; Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] hydrex.cloud - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: hydrex.cloud\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Official name on a different TLD\n- Already on public wallet blocklist(s): metamask\n- Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible\n- Resolves to 192.162.199.139\n- Page title: \"Sorry, the website has been stopped\"\n- Screenshot: shots/hydrex.cloud.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrextge.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-10T19:46:17",
+      "ctIssuer": "WE1",
+      "dns": {
+        "domain": "hydrextge.com",
+        "registered": true,
+        "a": [
+          "172.67.189.187",
+          "104.21.49.95"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "reza.ns.cloudflare.com",
+          "anton.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrextge.com/",
+        "finalUrl": "https://hydrextge.com/",
+        "status": 403,
+        "title": "Just a moment...",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [
+            "obfuscated-js(6932 _0x identifiers)"
+          ],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Just a moment..."
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5584,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrextge.com/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrextge.com.jpg",
+        "textSample": "hydrextge.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Verification successful. Waiting for hydrextge.com to respond Ray ID: a53bb50e8a0c736b Performance and Security "
+      },
+      "similarity": {
+        "title": 0.09,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [
+        "metamask"
+      ],
+      "score": 40,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ],
+      "action": "Already blocked (metamask). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "hydrextge.com",
+        "registrar": "Global Domain Group LLC",
+        "ianaId": "3956",
+        "abuse": {
+          "email": "abuse@globaldomaingroup.com",
+          "phone": "+1 (805) 394-3992"
+        },
+        "registered": "2026-06-14T16:13:07Z",
+        "expires": "2027-06-14T16:13:07Z",
+        "status": [
+          "client transfer prohibited"
+        ],
+        "source": "https://rdap.verisign.com/com/v1/domain/hydrextge.com"
+      },
+      "hosting": {
+        "ip": "172.67.189.187",
+        "network": "CLOUDFLARENET",
+        "org": "Cloudflare, Inc.",
+        "abuse": {
+          "name": "Abuse",
+          "email": "abuse@cloudflare.com",
+          "phone": "+1-650-319-8930",
+          "form": "https://abuse.cloudflare.com/"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to Global Domain Group LLC",
+          "to": "abuse@globaldomaingroup.com",
+          "subject": "Phishing / brand impersonation: hydrextge.com impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Global Domain Group LLC abuse team,\n\nThe domain hydrextge[.]com (registered with you on 2026-06-14) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://hydrextge[.]com/\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-10 (Certificate Transparency)\n- Already on public wallet blocklist(s): metamask\n- Bot challenge or redirect stub (\"Just a moment...\"): real content not visible\n- Resolves to 172.67.189.187, 104.21.49.95\n- Page title: \"Just a moment...\"\n- Screenshot: shots/hydrextge.com.jpg (attach)\n\nWe are not affiliated with the operator of hydrextge[.]com. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 3956, abuse phone +1 (805) 394-3992"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to Cloudflare, Inc.",
+          "to": "https://abuse.cloudflare.com/",
+          "subject": "Phishing site hosted on your network: hydrextge.com (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Cloudflare, Inc.,\n\nhxxps://hydrextge[.]com/ (172.67.189.187, 104.21.49.95) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-10 (Certificate Transparency)\n- Already on public wallet blocklist(s): metamask\n- Bot challenge or redirect stub (\"Just a moment...\"): real content not visible\n- Resolves to 172.67.189.187, 104.21.49.95\n- Page title: \"Just a moment...\"\n- Screenshot: shots/hydrextge.com.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Email alternative: abuse@cloudflare.com"
+          ]
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fhydrextge.com%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://hydrextge.com/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://hydrextge.com/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Bot challenge or redirect stub (\"Just a moment...\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] hydrextge.com - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: hydrextge.com\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-10 (Certificate Transparency)\n- Already on public wallet blocklist(s): metamask\n- Bot challenge or redirect stub (\"Just a moment...\"): real content not visible\n- Resolves to 172.67.189.187, 104.21.49.95\n- Page title: \"Just a moment...\"\n- Screenshot: shots/hydrextge.com.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexfi.top",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-09T11:21:06",
+      "ctIssuer": "WE1",
+      "dns": {
+        "domain": "hydrexfi.top",
+        "registered": true,
+        "a": [
+          "188.114.96.3",
+          "188.114.97.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "zara.ns.cloudflare.com",
+          "uriah.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexfi.top/",
+        "finalUrl": "https://hydrexfi.top/",
+        "status": 502,
+        "title": "hydrexfi.top | 502: Bad gateway",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 6390,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrexfi.top/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrexfi.top.jpg",
+        "textSample": "Bad gateway Error code 502 Visit cloudflare.com for more information. 2026-11-01 14:48:41 UTC You Browser Working Warsaw Cloudflare Working hydrexfi.top Host Error What happened? The web server reported a bad gateway error. What can I do? Please try again in a few minutes. Cloudflare Ray ID: a53bb39"
+      },
+      "similarity": {
+        "title": 0.25,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.09
+      },
+      "listedOn": [
+        "metamask"
+      ],
+      "score": 40,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-09 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Page returned HTTP 502"
+      ],
+      "action": "Already blocked (metamask). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "hydrexfi.top",
+        "registrar": "Dynadot LLC",
+        "ianaId": "472",
+        "abuse": {
+          "name": "Dynadot LLC",
+          "email": "abuse@dynadot.com",
+          "phone": "6502620100"
+        },
+        "registered": "2026-06-13T11:25:25.0Z",
+        "expires": "2027-06-13T11:25:25.0Z",
+        "status": [
+          "client transfer prohibited"
+        ],
+        "source": "https://rdap.zdnsgtld.com/top/domain/hydrexfi.top"
+      },
+      "hosting": {
+        "ip": "188.114.96.3",
+        "network": "CLOUDFLARENET-EU",
+        "org": "MNT-CLOUDFLARE",
+        "abuse": {
+          "name": "Cloudflare Abuse Contact",
+          "email": "abuse@cloudflare.com",
+          "form": "https://abuse.cloudflare.com/"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to Dynadot LLC",
+          "to": "abuse@dynadot.com",
+          "subject": "Phishing / brand impersonation: hydrexfi.top impersonates Hydrex",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Dynadot LLC abuse team,\n\nThe domain hydrexfi[.]top (registered with you on 2026-06-13) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://hydrexfi[.]top/\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-09 (Certificate Transparency)\n- Already on public wallet blocklist(s): metamask\n- Page returned HTTP 502\n- Resolves to 188.114.96.3, 188.114.97.3\n- Page title: \"hydrexfi.top | 502: Bad gateway\"\n- Screenshot: shots/hydrexfi.top.jpg (attach)\n\nWe are not affiliated with the operator of hydrexfi[.]top. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 472, abuse phone 6502620100"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to MNT-CLOUDFLARE",
+          "to": "https://abuse.cloudflare.com/",
+          "subject": "Phishing site hosted on your network: hydrexfi.top (Hydrex impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello MNT-CLOUDFLARE,\n\nhxxps://hydrexfi[.]top/ (188.114.96.3, 188.114.97.3) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-09 (Certificate Transparency)\n- Already on public wallet blocklist(s): metamask\n- Page returned HTTP 502\n- Resolves to 188.114.96.3, 188.114.97.3\n- Page title: \"hydrexfi.top | 502: Bad gateway\"\n- Screenshot: shots/hydrexfi.top.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Email alternative: abuse@cloudflare.com"
+          ]
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fhydrexfi.top%2F",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://hydrexfi.top/",
+            "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Page returned HTTP 502."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Page returned HTTP 502.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://hydrexfi.top/",
+            "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Page returned HTTP 502.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Already on public wallet blocklist(s): metamask; Page returned HTTP 502.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "scamsniffer-issue",
+          "title": "ScamSniffer scam-database issue",
+          "to": "https://github.com/scamsniffer/scam-database/issues/new",
+          "subject": "[Phishing] hydrexfi.top - Hydrex impersonation",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: hydrexfi.top\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-09 (Certificate Transparency)\n- Already on public wallet blocklist(s): metamask\n- Page returned HTTP 502\n- Resolves to 188.114.96.3, 188.114.97.3\n- Page title: \"hydrexfi.top | 502: Bad gateway\"\n- Screenshot: shots/hydrexfi.top.jpg (attach)",
+          "notes": [
+            "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "hydrox.fi",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "vowel-swap",
+      "dns": {
+        "domain": "hydrox.fi",
+        "registered": true,
+        "a": [
+          "3.174.230.109",
+          "3.174.230.112",
+          "3.174.230.40",
+          "3.174.230.35"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-895.awsdns-47.net",
+          "ns-1678.awsdns-17.co.uk",
+          "ns-214.awsdns-26.com",
+          "ns-1124.awsdns-12.org"
+        ]
+      },
+      "page": {
+        "url": "https://hydrox.fi/",
+        "finalUrl": "https://www.hydrox.fi/",
+        "status": 200,
+        "title": "HydroX - Decentralized Perpetual Exchange on Cardano",
+        "scriptUrls": [
+          "https://www.hydrox.fi/_next/static/chunks/fd9d1056-2be78ece700495fe.js",
+          "https://www.hydrox.fi/_next/static/chunks/938-80a7fac142131aa6.js",
+          "https://www.hydrox.fi/_next/static/chunks/main-app-d23eae44e0ecefae.js",
+          "https://www.hydrox.fi/_next/static/chunks/10-612ff6032a07ee9c.js",
+          "https://www.hydrox.fi/_next/static/chunks/430-70c7477927784364.js",
+          "https://www.hydrox.fi/_next/static/chunks/612-11c5f0a055a01d3a.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "Crypto",
+            "wallet",
+            "DEX",
+            "ETH"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 42437,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.hydrox.fi/icon.jpg?ace6feded4f8635e",
+        "faviconSha256": "e47f0711ba97a00c0c3c2566a3e10fd7008face24d40816589e8dcef3248507c",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrox.fi.jpg",
+        "textSample": "Toggle Menu HydroX HydroX Features GitHub View Demo 🌊 Decentralized Perpetual Exchange on Cardano Trade Major Cryptos On Cardano Trade BTC, ETH, SOL, XRP and more perpetuals without leaving Cardano. Stablecoin-based collateral, leverage trading, and CEX-level experience — all decentralized. Launchi"
+      },
+      "similarity": {
+        "title": 0.13,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 37,
+      "severity": "low",
+      "label": "lookalike-other-crypto",
+      "evidence": [
+        "Typosquat (vowel-swap) of the official domain",
+        "Lookalike of your domain serving other crypto content (Crypto, wallet, DEX)"
+      ],
+      "action": "Review: traffic for a lookalike of your name goes to other crypto content (a competitor, an affiliate, or a phishing kit for another brand). Report if it misleads your users.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrax.fi",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "bitsquatting",
+      "dns": {
+        "domain": "hydrax.fi",
+        "registered": true,
+        "a": [
+          "157.230.98.187"
+        ],
+        "aaaa": [],
+        "mx": [
+          "spool.mail.gandi.net",
+          "fb.mail.gandi.net"
+        ],
+        "ns": [
+          "ns-170-b.gandi.net",
+          "ns-147-a.gandi.net",
+          "ns-9-c.gandi.net"
+        ]
+      },
+      "page": {
+        "url": "https://hydrax.fi/",
+        "finalUrl": "https://hydrax.fi/",
+        "status": 200,
+        "title": "Hydrax",
+        "scriptUrls": [
+          "https://plausible.io/js/pa-_61PPubHjbUS7DTBcAkhu.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 39825,
+        "renderedWith": "playwright",
+        "faviconUrl": "data:;base64,iVBORw0KGgo=",
+        "faviconSha256": "4c4b6a3be1314ab86138bef4314dde022e600960d8689a2c8f8631802d20dab6",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrax.fi.jpg",
+        "textSample": "Hydrax Product FAQ Contact Patent pending Fix Sunken Sprinklers Without Digging See how HYDRAX uses controlled water pressure to lift and lock sprinkler heads precisely, eliminating excavation, turf damage, and repeated adjustments. Contact us The Hidden Cost of Sunken Sprinklers A sunken sprinkler "
+      },
+      "similarity": {
+        "title": 0.83,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.29
+      },
+      "listedOn": [],
+      "score": 35,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "Page title resembles the official title (83%)",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.com",
+        "registered": true,
+        "a": [
+          "35.215.74.6"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx10.antispam.mailspamprotection.com",
+          "mx20.antispam.mailspamprotection.com",
+          "mx30.antispam.mailspamprotection.com"
+        ],
+        "ns": [
+          "ns2.siteground.net",
+          "ns1.siteground.net"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.com/",
+        "finalUrl": "https://hydrex.com/",
+        "status": 200,
+        "title": "Hydrex Pest Control of California",
+        "scriptUrls": [
+          "https://hydrex.com/scripts/quote.js",
+          "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 3,
+        "brandInTitle": true,
+        "bytes": 7204,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.com/favicon.ico",
+        "faviconSha256": "814bb26c3b03c5c7c8a8469e1a9873975f3140f310fc20b7370224f79dc088ee",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.com.jpg",
+        "textSample": "Family Owned and Operated since 1946 80th Anniversary For Better Health and Happier Living Menu Free Estimates Services Learning Center Franchise Opportunities About Us Welcome Independently owned and operated Hydrex Pest Control franchises provide professional service to over 2000 communities throu"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 30,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (3x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.net",
+        "registered": true,
+        "a": [
+          "64.190.63.111"
+        ],
+        "aaaa": [],
+        "mx": [
+          "localhost"
+        ],
+        "ns": [
+          "ns2.sedoparking.com",
+          "ns1.sedoparking.com"
+        ]
+      },
+      "page": {
+        "url": "http://hydrex.net/",
+        "finalUrl": "http://hydrex.net/",
+        "status": 200,
+        "title": "hydrex.net - Ta strona jest na sprzedaż! - hydrex Zasoby i informacje.",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "na sprzedaż",
+            "Zasoby i informacje"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 1,
+        "brandInTitle": true,
+        "bytes": 3041,
+        "renderedWith": "http",
+        "faviconUrl": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "faviconSha256": "95c427fa3143b1896faf42a6406686ce7602cb39052081bb32d12b51c9e047e4",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 30,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page title resembles the official title (80%)",
+        "Parked / for-sale page",
+        "Brand word used without any crypto context (1x): probably an unrelated business"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.us",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.us",
+        "registered": true,
+        "a": [
+          "217.19.237.54"
+        ],
+        "aaaa": [],
+        "mx": [
+          "hydrex-us.mail.protection.outlook.com",
+          "mx1.emailsrvr.com",
+          "mx2.emailsrvr.com"
+        ],
+        "ns": [
+          "ns3.european-server.com",
+          "ns4.european-server.com",
+          "ns1.european-server.eu"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.us/",
+        "finalUrl": "https://hydrex.be/",
+        "status": 200,
+        "title": "Home - Hydrex",
+        "scriptUrls": [
+          "https://hydrex.be/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://hydrex.be/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://hydrex.be/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.3.5",
+          "https://hydrex.be/wp-content/themes/astra/assets/js/minified/style.min.js?ver=4.14.2",
+          "https://hydrex.be/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-consent-mode-5ef17bce870a966299fc.js",
+          "https://hydrex.be/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.5"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": true,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 50,
+        "brandInTitle": true,
+        "bytes": 228183,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.be/wp-content/uploads/2020/04/Hydrex_Favicon.png",
+        "faviconSha256": "e7429bdda388929126327d7979340e6ed70b2746323b80c824732230d7c6d4fa",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.us.jpg",
+        "textSample": "Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behaviour or unique IDs on this site. Not consenting or withdrawing consent, may adversely affec"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 30,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (50x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.space",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.space",
+        "registered": true,
+        "a": [
+          "188.114.97.3",
+          "188.114.96.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "jacob.ns.cloudflare.com",
+          "mimi.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.space/",
+        "finalUrl": "https://hydrex.space/",
+        "status": 200,
+        "title": "Hydrex · A private community",
+        "scriptUrls": [
+          "https://hydrex.space/_next/static/chunks/3srfjz42u14tx.js",
+          "https://hydrex.space/_next/static/chunks/0d66q46efh1wk.js",
+          "https://hydrex.space/_next/static/chunks/2oi9n3b4syua3.js",
+          "https://hydrex.space/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+          "https://hydrex.space/_next/static/chunks/22mw4rat0xz-1.js",
+          "https://hydrex.space/_next/static/chunks/3nf91s-utcmqr.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 9,
+        "brandInTitle": true,
+        "bytes": 41197,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.space/icon.svg?icon.2_3g18zqmb3t1.svg",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.space.jpg",
+        "textSample": "hydrex About Contact Sign in Create account Private community This is Hydrex. A private community started by @ theromanhydra , for people who like to explore, build and make things. It’s invite only, and it’s meant to stay that way. About Hydrex Member sign in Got an invite? Enter your code to join."
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0.01,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 30,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (9x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hdyrex.fi",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "transposition",
+      "dns": {
+        "domain": "hdyrex.fi",
+        "registered": true,
+        "a": [
+          "104.168.139.237"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns1.icedns.is",
+          "dns2.icedns.is"
+        ]
+      },
+      "page": {
+        "url": "http://hdyrex.fi/",
+        "finalUrl": "http://hdyrex.fi/",
+        "status": 403,
+        "title": "HTTP Server Test Page powered by CentOS",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 199691,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://www.centos.org/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hdyrex.fi.jpg",
+        "textSample": "HTTP Server Test Page This page is used to test the proper operation of the HTTP server after it has been installed. If you can read this page it means that this site is working properly. This server is powered by CentOS . If you are a member of the general public: The website you just visited is ei"
+      },
+      "similarity": {
+        "title": 0.09,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Typosquat (transposition) of the official domain",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hyrdex.fi",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "transposition",
+      "dns": {
+        "domain": "hyrdex.fi",
+        "registered": true,
+        "a": [
+          "192.119.111.20"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "3-get.njalla.fo",
+          "1-you.njalla.no",
+          "2-can.njalla.in"
+        ]
+      },
+      "page": {
+        "url": "https://hyrdex.fi/",
+        "finalUrl": "https://hyrdex.fi/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "Connect Timeout Error (attempted address: hyrdex.fi:443, timeout: 10000ms); http: Connect Timeout Error (attempted address: hyrdex.fi:80, timeout: 10000ms)",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Typosquat (transposition) of the official domain",
+        "Page not reachable: Connect Timeout Error (attempted address: hyrdex.fi:443, timeout: 10000ms); http"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "app-hydrex.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "app-hydrex.xyz",
+        "registered": true,
+        "a": [
+          "188.114.96.3",
+          "188.114.97.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "sima.ns.cloudflare.com",
+          "tate.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://app-hydrex.xyz/",
+        "finalUrl": "https://app-hydrex.xyz/",
+        "status": 403,
+        "title": "Just a moment...",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [
+            "obfuscated-js(6274 _0x identifiers)"
+          ],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Just a moment..."
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5696,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://app-hydrex.xyz/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/app-hydrex.xyz.jpg",
+        "textSample": "app-hydrex.xyz Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Verification successful. Waiting for app-hydrex.xyz to respond Ray ID: a53bb4aedb4fb60d Performance and Securit"
+      },
+      "similarity": {
+        "title": 0.09,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex-eos.pages.dev",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-13T00:00:00",
+      "ctIssuer": "Sectigo Public Server Authentication CA DV E36",
+      "dns": {
+        "domain": "hydrex-eos.pages.dev",
+        "registered": true,
+        "a": [
+          "188.114.96.11",
+          "188.114.97.11"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "lara.ns.cloudflare.com",
+          "ricardo.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex-eos.pages.dev/",
+        "finalUrl": "https://hydrex-eos.pages.dev/",
+        "status": 200,
+        "title": "Hydrex GmbH | Hydraulik. Kompetenz. Lösungen.",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 5,
+        "brandInTitle": true,
+        "bytes": 56261,
+        "renderedWith": "http",
+        "faviconUrl": "https://hydrex-eos.pages.dev/favicon.ico",
+        "textSample": "DE EN FR IT HYDREX GMBH · SPEZIALISIERTER HYDRAULIKDIENSTLEISTER Hydraulik. Kompetenz. Lösungen. Unsere neue Webseite entsteht. Wir überarbeiten unseren Internetauftritt und freuen uns, Ihnen schon bald unsere Dienstleistungen sowie das Hydraulik-Toolcenter vorzustellen. Fluidy Unser Hydraulikassist"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "platform": "Cloudflare Pages",
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-13 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (5x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexandcompany.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-10T02:45:16",
+      "ctIssuer": "GoDaddy TLS Intermediate CA DV - R1v1",
+      "dns": {
+        "domain": "hydrexandcompany.com",
+        "registered": true,
+        "a": [
+          "15.197.225.128",
+          "3.33.251.168"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns74.domaincontrol.com",
+          "ns73.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexandcompany.com/",
+        "finalUrl": "https://www.hydrexsupplements.com/",
+        "status": 200,
+        "title": "HYDREX & CO: HYDREX, ZEOTOX , & MINERAL-X",
+        "scriptUrls": [
+          "https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js",
+          "https://static.cdn-website.com/mnlt/production/6892/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js",
+          "https://static.cdn-website.com/mnlt/production/6892/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 22,
+        "brandInTitle": true,
+        "bytes": 164535,
+        "renderedWith": "http",
+        "faviconUrl": "https://irp.cdn-website.com/dcf07c05/dms3rep/multi/Hydrex+-+Co+TM+logo-01.png",
+        "faviconSha256": "32d12e1c5240171449fa7c93edbe170a04d166a5048a3d9691adec17621e8097",
+        "textSample": "Home Store Supplements Hydrex Downloads Product Bundles Product Bundles Become a Patient About Us Meet The Team Our Founder Advisory Board Privacy Policy Terms and Conditions FDA Disclaimer Athletes Blog/Podcasts Testimonials Contact Get in touch 973-746-8007 Join e-Mail List Home Store Supplements "
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (22x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.direct.quickconnect.to",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-05T22:10:27",
+      "ctIssuer": "YE1",
+      "dns": {
+        "domain": "hydrex.direct.quickconnect.to",
+        "registered": true,
+        "a": [
+          "58.136.26.41"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": []
+      },
+      "page": {
+        "url": "http://hydrex.direct.quickconnect.to/",
+        "finalUrl": "http://hydrex.direct.quickconnect.to/",
+        "status": 200,
+        "title": "RouterOS",
+        "scriptUrls": [
+          "http://hydrex.direct.quickconnect.to/assets/script-582e5506ba67.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 1319,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://hydrex.direct.quickconnect.to/favicon.png",
+        "faviconSha256": "6e08f1f90e778da22f07537040dfcdab9c29ac443d8386ba5be71fcbc418ff47",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.direct.quickconnect.to.jpg",
+        "textSample": "Login Password Apps Graphs License Help © MikroTik"
+      },
+      "similarity": {
+        "title": 0.13,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Almost empty page (50 chars of text, title \"RouterOS\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexeco.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-03T06:10:26",
+      "ctIssuer": "YE1",
+      "dns": {
+        "domain": "hydrexeco.com",
+        "registered": true,
+        "a": [
+          "77.37.53.218",
+          "77.37.83.151"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx.zoho.com",
+          "mx2.zoho.com",
+          "mx3.zoho.com"
+        ],
+        "ns": [
+          "hermes.dns-parking.com",
+          "artemis.dns-parking.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexeco.com/",
+        "finalUrl": "https://hydrexeco.com/",
+        "status": 200,
+        "title": "Wastewater Treatment Systems Manufacturer | Hydrex Eco",
+        "scriptUrls": [
+          "https://hydrexeco.com/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1791015392",
+          "https://hydrexeco.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://hydrexeco.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://hydrexeco.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.3.5",
+          "https://hydrexeco.com/wp-content/uploads/burst/js/burst.min.js?ver=1793431885",
+          "https://hydrexeco.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=4.14.0"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 6,
+        "brandInTitle": true,
+        "bytes": 216162,
+        "renderedWith": "http",
+        "faviconUrl": "https://hydrexeco.com/wp-content/uploads/2026/06/cropped-ChatGPT-Image-2026%E5%B9%B46%E6%9C%888%E6%97%A5-10_41_31-1-2-32x32.png",
+        "faviconSha256": "dd27264b1dabb25e2d4ee13696a3040fc5ffc603f0e618e50fbc84568f217780",
+        "textSample": "Skip to content Hydrex Eco Home Solutions Products Industries Municipal Hotels & Resorts Hospital Food Processing Textile Mining Camp Projects Company About Us Blog Get an Estimate Careers Home Solutions Products Industries Municipal Hotels & Resorts Hospital Food Processing Textile Mining Camp Proj"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (6x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexbereda.pl",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-03T03:58:25",
+      "ctIssuer": "YE1",
+      "dns": {
+        "domain": "hydrexbereda.pl",
+        "registered": true,
+        "a": [
+          "185.208.164.2"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mail.hydrexbereda.pl"
+        ],
+        "ns": [
+          "ns2.cyberfolks.pl",
+          "ns3.cyberfolks.pl",
+          "ns1.cyberfolks.pl"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexbereda.pl/",
+        "finalUrl": "https://www.hydrexbereda.pl/",
+        "status": 200,
+        "title": "HYDREX Emil Bereda - usługi hydrauliczne - wynajem sprzętu budowlanego",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 3,
+        "brandInTitle": true,
+        "bytes": 9710,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.hydrexbereda.pl/favicon.ico",
+        "textSample": "Zadzwoń: 609-742-251 ul. Ostrowska 6 05-240 Miąse Napisz do nas: Strona główna O firmie Usługi Wypożyczalnia Galeria Kontakt Przewierty sterowane HDD Wykonujemy usługi metodą Horizontal Directional Drilling, która znajduje zastosowanie w wielu dziedzinach, gdzie istnieje potrzeba precyzyjnego i kont"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (3x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexmachinery.co.uk",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-11T00:37:11",
+      "ctIssuer": "YE2",
+      "dns": {
+        "domain": "hydrexmachinery.co.uk",
+        "registered": true,
+        "a": [
+          "91.108.98.224",
+          "77.37.53.100"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx1.titan.email",
+          "mx2.titan.email"
+        ],
+        "ns": [
+          "ns2.dns-parking.com",
+          "ns1.dns-parking.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexmachinery.co.uk/",
+        "finalUrl": "https://hydrexmachinery.com/",
+        "status": 200,
+        "title": "Hydrex Machinery | Trusted Supplier of Industrial Machinery & Parts | Hydrex Machinery",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 7,
+        "brandInTitle": true,
+        "bytes": 195021,
+        "renderedWith": "http",
+        "faviconUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=48,h=48,fit=crop,f=png/dWxy0GMzQ5cp485V/android-chrome-512x512-m5Kwr3lO92Cb0JrD.png",
+        "faviconSha256": "10878bad3ae1085384640c4049cf03c6ddbec277ef9dda7111c618f676c3df21",
+        "textSample": "Home Home New And Used Machinery For Every Industry Extensive Inventory of CNC Machines, Lathes, Printers, Agricultural Equipment, and More New & Used Machinery “Offering an extensive selection of CNC machines, lathes, commercial printers, and more.” Sell Machines On Commission Parts And Accessories"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-11 (Certificate Transparency)",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (7x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.uk",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-08T10:21:10",
+      "ctIssuer": "YE2",
+      "dns": {
+        "domain": "hydrex.uk",
+        "registered": true,
+        "a": [
+          "188.114.97.3",
+          "188.114.96.3"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "jack.ns.cloudflare.com",
+          "kira.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.uk/",
+        "finalUrl": "https://hydrex.uk/",
+        "status": 200,
+        "title": "HYDREX | Window & Exterior Cleaning Derby | From £14",
+        "scriptUrls": [
+          "https://hydrex.uk/js/main.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 9,
+        "brandInTitle": true,
+        "bytes": 39085,
+        "renderedWith": "http",
+        "faviconUrl": "https://hydrex.uk/assets/brand/favicon.svg",
+        "textSample": "Skip to main content HYDRE X WINDOW & EXTERIOR CLEANING Window Cleaning Exterior Services Why HYDREX Contact 07552 907206 GET MY PRICE Derby & Surrounding Areas Window Cleaning From £14 Across Derby. Choose a 4 or 8-weekly clean. Glass, frames & sills are included, and you can see your price in a fe"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Page title resembles the official title (80%)",
+        "Brand word used without any crypto context (9x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexpert.creation-appli.fr",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-11T02:12:59",
+      "ctIssuer": "YR2",
+      "dns": {
+        "domain": "hydrexpert.creation-appli.fr",
+        "registered": true,
+        "a": [
+          "128.65.193.138"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx00.ionos.fr",
+          "mx01.ionos.fr"
+        ],
+        "ns": []
+      },
+      "page": {
+        "url": "https://hydrexpert.creation-appli.fr/",
+        "finalUrl": "https://hydrexpert.creation-appli.fr/login",
+        "status": 200,
+        "title": "HYDREXPERT",
+        "scriptUrls": [
+          "https://code.jquery.com/jquery-3.6.0.slim.min.js",
+          "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",
+          "https://hydrexpert.creation-appli.fr/js/adminlte.min.js",
+          "https://hydrexpert.creation-appli.fr/sw.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 2,
+        "brandInTitle": true,
+        "bytes": 4204,
+        "renderedWith": "http",
+        "faviconUrl": "https://hydrexpert.creation-appli.fr/logo.png",
+        "faviconSha256": "d9949e4923c76c4bff3c91e05b18e70b25c5f7dd12dda6c897bb38c79b4a527d",
+        "textSample": "HYDREXPERT Se souvenir Se connecter"
+      },
+      "similarity": {
+        "title": 0.6,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.21
+      },
+      "listedOn": [],
+      "score": 22,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-11 (Certificate Transparency)",
+        "Page title resembles the official title (60%)",
+        "Brand word used without any crypto context (2x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.org",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.org",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "http://hydrex.org/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/hydrex.org?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://hydrex.org/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.org.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/hydrex.org?\" on this server. Reference #18.8a3c655f.1793544566.4f4a6bf6 https://errors.edgesuite.net/18.8a3c655f.1793544566.4f4a6bf6"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/hydrex.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.xyz/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/hydrex.xyz?\" on this server. Reference #18.8a3c655f.1793544566.4f4a6ecf https://errors.edgesuite.net/18.8a3c655f.1793544566.4f4a6ecf"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.co",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.co",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.co/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/hydrex.co?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.co/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.co.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/hydrex.co?\" on this server. Reference #18.8a3c655f.1793544569.4f4a9234 https://errors.edgesuite.net/18.8a3c655f.1793544569.4f4a9234"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.finance",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.finance",
+        "registered": true,
+        "a": [
+          "54.215.31.113"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.dyna-ns.net",
+          "ns1.dyna-ns.net"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.finance/",
+        "finalUrl": "https://hypurfi.com/",
+        "status": 200,
+        "title": "CloudFlare - Verify that you are a human",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Verify that you are a human"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4851,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.cloudflare.com/favicon.ico",
+        "faviconSha256": "5414bc6e4b3f6e10f99b5d37abf4420da4dcaece66f8f2c08e090e87267adbc5",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.finance.jpg",
+        "textSample": "Please complete the following CAPTCHA security challenge to continue! I am not a bot Why do I see CAPTCHA challenges? Due to current firewall security rules, you need to complete the CAPTCHA security challenge to continue access! Event ID: 3d9e54820d20788d • Your IP: 194.42.118.8"
+      },
+      "similarity": {
+        "title": 0.13,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Verify that you are a human\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.cc",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.cc",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [
+          "mx1.spacemail.com",
+          "mx2.spacemail.com"
+        ],
+        "ns": [
+          "launch1.spaceship.net",
+          "launch2.spaceship.net"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.info",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.info",
+        "registered": true,
+        "a": [
+          "52.11.37.152",
+          "34.224.10.110"
+        ],
+        "aaaa": [],
+        "mx": [
+          "alt2.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt3.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com",
+          "hydrex.info"
+        ],
+        "ns": [
+          "ns18.domaincontrol.com",
+          "ns17.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.info/",
+        "finalUrl": "https://www.hydrex.info/",
+        "status": 403,
+        "title": "Petaluma Pest Control | Hydrex Pest Control",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": true,
+          "lure": [],
+          "drainerJs": [
+            "obfuscated-js(371 _0x identifiers)"
+          ],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 12,
+        "brandInTitle": true,
+        "bytes": 5842,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.hydrex.info/favicon.ico",
+        "faviconSha256": "795a20a5c47a9202e1d1ad5a813c88edebdf6c95c9cd006fb3ca8d3806737431",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.info.jpg",
+        "textSample": "Skip To Main Content This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press \"shift + =\". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled \"Explore"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.me",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.me",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.me/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/hydrex.me?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.me/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.me.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/hydrex.me?\" on this server. Reference #18.8a3c655f.1793544572.4f4ab6a4 https://errors.edgesuite.net/18.8a3c655f.1793544572.4f4ab6a4"
+      },
+      "similarity": {
+        "title": 0.17,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.tech",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.tech",
+        "registered": true,
+        "a": [
+          "216.150.1.193",
+          "216.150.16.129"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.vercel-dns.com",
+          "ns1.vercel-dns.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.tech/",
+        "finalUrl": "https://hydrex.tech/",
+        "status": 404,
+        "title": "404: NOT_FOUND",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 7917,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.tech/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.tech.jpg",
+        "textSample": "This page doesn’t exist It may have been moved, removed, or never existed. Go back 404 DEPLOYMENT_NOT_FOUND arn1::dvzf4-1793544525261-3369c5b4cabc View Documentation Copy Debug Prompt"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (183 chars of text, title \"404: NOT_FOUND\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.vip",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.vip",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [
+          "eforward2.registrar-servers.com",
+          "eforward1.registrar-servers.com",
+          "eforward3.registrar-servers.com",
+          "eforward4.registrar-servers.com",
+          "eforward5.registrar-servers.com"
+        ],
+        "ns": [
+          "lady.ns.cloudflare.com",
+          "yahir.ns.cloudflare.com"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.store",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.store",
+        "registered": true,
+        "a": [
+          "23.227.38.70"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx.hydrex.store.cust.b.hostedemail.com"
+        ],
+        "ns": [
+          "ns-cloud-a4.googledomains.com",
+          "ns-cloud-a2.googledomains.com",
+          "ns-cloud-a3.googledomains.com",
+          "ns-cloud-a1.googledomains.com"
+        ]
+      },
+      "page": {
+        "url": "http://hydrex.store/",
+        "finalUrl": "http://hydrex.store/",
+        "status": 409,
+        "title": "DNS resolution error | hydrex.store | Cloudflare",
+        "scriptUrls": [
+          "https://performance.radar.cloudflare.com/beacon.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 7865,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://hydrex.store/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.store.jpg",
+        "textSample": "Please enable cookies. Error 1001 Ray ID: a53bb3c67b57bb99 &bull; 2026-11-01 14:48:45 UTC DNS resolution error What happened? You've requested a page on a website (hydrex.store) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (hydrex.store). There a"
+      },
+      "similarity": {
+        "title": 0.8,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.28
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page returned HTTP 409"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.biz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "hydrex.biz",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [
+          "mx1.efwd.spaceship.net",
+          "mx2.efwd.spaceship.net"
+        ],
+        "ns": [
+          "launch2.spaceship.net",
+          "launch1.spaceship.net"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexafrica.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-08T02:35:15",
+      "ctIssuer": "WR1",
+      "dns": {
+        "domain": "hydrexafrica.com",
+        "registered": true,
+        "a": [
+          "198.71.233.46"
+        ],
+        "aaaa": [],
+        "mx": [
+          "hydrexafrica-com.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns53.domaincontrol.com",
+          "ns54.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexafrica.com/",
+        "finalUrl": "https://hydrexafrica.com/",
+        "status": 200,
+        "title": "Home - Hydrexafrica",
+        "scriptUrls": [
+          "https://hydrexafrica.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://hydrexafrica.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://cdn.trustedsite.com/js/1.js",
+          "https://hydrexafrica.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.17",
+          "https://hydrexafrica.com/wp-content/plugins/coblocks/dist/js/vendors/tiny-swiper.js?ver=3.1.17",
+          "https://hydrexafrica.com/wp-content/plugins/coblocks/dist/js/coblocks-tinyswiper-initializer.js?ver=3.1.17"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 2,
+        "brandInTitle": true,
+        "bytes": 85395,
+        "renderedWith": "http",
+        "faviconUrl": "https://hydrexafrica.com/wp-content/uploads/2020/03/cropped-cropped-Hydrex-Water-Storage-Supplier-South-Africa-1.jpg",
+        "faviconSha256": "1c85676685871b76afb27af48ab1eefa00afe6628c12157c4b6a7d967d207b24",
+        "textSample": "Skip to content Home About Us Solutions Project Planning Water Sanitation Construction Petrochemical Reticulation News Covid-19 Updates Careers Contact Us Home About Us Solutions Project Planning Water Sanitation Construction Petrochemical Reticulation News Covid-19 Updates Careers Contact Us Hydrex"
+      },
+      "similarity": {
+        "title": 0.38,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.13
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Brand word used without any crypto context (2x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexcell.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-04T18:58:02",
+      "ctIssuer": "YR2",
+      "dns": {
+        "domain": "hydrexcell.com",
+        "registered": true,
+        "a": [
+          "162.241.218.70"
+        ],
+        "aaaa": [],
+        "mx": [
+          "hydrexcell.com"
+        ],
+        "ns": [
+          "ns1.bluehost.com",
+          "ns2.bluehost.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexcell.com/",
+        "finalUrl": "https://hydrexcell.com/index.html",
+        "status": 200,
+        "title": "Home",
+        "scriptUrls": [
+          "https://hydrexcell.com/gdpr/gdprscript.js?buildTime=1775857119&hasRemindMe=true&stealth=false",
+          "https://cdn2.editmysite.com/js/jquery-1.8.3.min.js",
+          "https://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234&",
+          "https://cdn2.editmysite.com/js/site/main.js?buildTime=1775857119",
+          "https://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1775857119&",
+          "https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildtime=1775857119"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 16170,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.weebly.com/uploads/reseller/assets/1014-favicon.ico",
+        "faviconSha256": "1ae4fad7ee108e525d431f5228aa1fe67315438636b29234524ae6493939379f",
+        "textSample": "Blank Title Home Water is life. Energy is the lifeblood of modern civilization. According to the United Nations : - At least 450 million people in 29 countries suffer from water shortages. - By 2025, two out of every three people will live in water-stressed areas . - 20% of the global population lac"
+      },
+      "similarity": {
+        "title": 0.33,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.12
+      },
+      "listedOn": [],
+      "score": 19,
+      "severity": "info",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Brand word used without any crypto context (1x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexcell.jchiniara.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-04T18:58:02",
+      "ctIssuer": "YR2",
+      "dns": {
+        "domain": "hydrexcell.jchiniara.com",
+        "registered": true,
+        "a": [
+          "162.241.218.70"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": []
+      },
+      "page": {
+        "url": "https://hydrexcell.jchiniara.com/",
+        "finalUrl": "https://hydrexcell.com/index.html",
+        "status": 200,
+        "title": "Home",
+        "scriptUrls": [
+          "https://hydrexcell.com/gdpr/gdprscript.js?buildTime=1775857119&hasRemindMe=true&stealth=false",
+          "https://cdn2.editmysite.com/js/jquery-1.8.3.min.js",
+          "https://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234&",
+          "https://cdn2.editmysite.com/js/site/main.js?buildTime=1775857119",
+          "https://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1775857119&",
+          "https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildtime=1775857119"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 16170,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.weebly.com/uploads/reseller/assets/1014-favicon.ico",
+        "faviconSha256": "1ae4fad7ee108e525d431f5228aa1fe67315438636b29234524ae6493939379f",
+        "textSample": "Blank Title Home Water is life. Energy is the lifeblood of modern civilization. According to the United Nations : - At least 450 million people in 29 countries suffer from water shortages. - By 2025, two out of every three people will live in water-stressed areas . - 20% of the global population lac"
+      },
+      "similarity": {
+        "title": 0.33,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.12
+      },
+      "listedOn": [],
+      "score": 19,
+      "severity": "info",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Brand word used without any crypto context (1x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexkft.hu",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-07T22:04:25",
+      "ctIssuer": "Actalis Domain Validated TLS Server RSA CA 2025",
+      "dns": {
+        "domain": "hydrexkft.hu",
+        "registered": true,
+        "a": [
+          "81.2.195.60"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mxavas.forpsi.com"
+        ],
+        "ns": [
+          "ns.forpsi.it",
+          "ns.forpsi.net",
+          "ns.forpsi.cz"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexkft.hu/",
+        "finalUrl": "https://hydrexkft.hu/",
+        "status": 200,
+        "title": "Home",
+        "scriptUrls": [
+          "https://hydrexkft.hu/assets/popper/popper.min.js",
+          "https://hydrexkft.hu/assets/web/assets/jquery/jquery.min.js",
+          "https://hydrexkft.hu/assets/bootstrap/js/bootstrap.min.js",
+          "https://hydrexkft.hu/assets/web/assets/cookies-alert-plugin/cookies-alert-core.js",
+          "https://hydrexkft.hu/assets/web/assets/cookies-alert-plugin/cookies-alert-script.js",
+          "https://hydrexkft.hu/assets/tether/tether.min.js"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 8,
+        "brandInTitle": false,
+        "bytes": 40082,
+        "renderedWith": "http",
+        "faviconUrl": "https://hydrexkft.hu/assets/images/logo-945x945.png",
+        "faviconSha256": "bd15c5c58176d1d0d916adcc62fea748e84c3f717769907c674c56cb6efaa5c1",
+        "textSample": "HYDREX KFT. Home Bemutatkozás Alpintechnika Termékek Prospektusok Adatvédelem (GDPR) Kapcsolat BETA PROMÓCIÓ Previous Next A HYDREX SIKER A Hydrex Kft elődje a Hydrex Gmk 1986-ban alakult. Először vízhálózatok fertőtlenítésével és víztartályok, magas-építmények javításával foglalkoztunk. 1989-ben át"
+      },
+      "similarity": {
+        "title": 0.33,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.12
+      },
+      "listedOn": [],
+      "score": 19,
+      "severity": "info",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Brand word used without any crypto context (8x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrextermite.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-08T08:11:27",
+      "ctIssuer": "GoDaddy TLS Intermediate CA DV - R1v1",
+      "dns": {
+        "domain": "hydrextermite.com",
+        "registered": true,
+        "a": [
+          "3.33.251.168",
+          "15.197.225.128"
+        ],
+        "aaaa": [],
+        "mx": [
+          "hydrextermite-com.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns30.domaincontrol.com",
+          "ns29.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrextermite.com/",
+        "finalUrl": "https://www.hydrexglendale.com/",
+        "status": 200,
+        "title": "Termite & Pest Control Company in Glendale, Pasadena, & Burbank",
+        "scriptUrls": [
+          "https://www.hydrexglendale.com/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.hydrexglendale.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://cdn.rlets.com/capture_configs/f0a/6a5/10e/28a4ca38f51f4ada7be6a32.js",
+          "https://cdn.userway.org/widget.js",
+          "https://www.hydrexglendale.com/wp-content/themes/reach.parent/build/js/vendor.min.js?ver=2.37.1",
+          "https://www.hydrexglendale.com/wp-content/themes/reach.parent/build/js/theme.min.js?ver=2.37.1"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 11,
+        "brandInTitle": false,
+        "bytes": 143145,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.hydrexglendale.com/wp-content/uploads/2022/04/cropped-HYDREX-PEST-CONTROL-AMP-TERMITE-CO_favicon-192x192.png",
+        "faviconSha256": "1c1eca7026e45dd277b2b0fb86d50db3a67e8d31316215a08051d30032c934e9",
+        "textSample": "Skip to Content 3252 Foothill Blvd, Glendale, CA 91214 Free Inspection – Give Us a Call | 818-248-5186 My Account menu Termites Drywood Termites Subterranean Termites Pest Control Residential Services Commercial Services Rodent Control Ant Control Bed Bug Removal Cockroach Control Pest Control & Ter"
+      },
+      "similarity": {
+        "title": 0.06,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.02
+      },
+      "listedOn": [],
+      "score": 16,
+      "severity": "info",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Brand word used without any crypto context (11x): probably an unrelated business"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.com.co",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-12T20:12:13",
+      "ctIssuer": "GoDaddy TLS Intermediate CA DV - R1v1",
+      "dns": {
+        "domain": "hydrex.com.co",
+        "registered": true,
+        "a": [
+          "15.197.148.33",
+          "3.33.130.190"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns02.domaincontrol.com",
+          "ns01.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex.com.co/",
+        "finalUrl": "https://hydrex.com.co/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "parked",
+            "Related Searches"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex.com.co/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex.com.co.jpg",
+        "textSample": "hydrex.com.co is parked free, courtesy of GoDaddy.com. Get This Domain Related Searches hydrex Copyright © 1999-2026 GoDaddy, LLC. All rights reserved. Privacy Policy Disclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC and do not con"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "parked",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-12 (Certificate Transparency)",
+        "Parked / for-sale page",
+        "Brand word used without any crypto context (1x): probably an unrelated business"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.com.cn",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-05T19:34:58",
+      "ctIssuer": "Cloudflare TLS Issuing ECC CA 4",
+      "dns": {
+        "domain": "hydrex.com.cn",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [
+          "route1.mx.cloudflare.net",
+          "route3.mx.cloudflare.net",
+          "route2.mx.cloudflare.net"
+        ],
+        "ns": [
+          "harlee.ns.cloudflare.com",
+          "rick.ns.cloudflare.com"
+        ]
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "not-live",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex.printstarnow.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-04T01:31:53",
+      "ctIssuer": "YE1",
+      "dns": {
+        "domain": "hydrex.printstarnow.com",
+        "registered": true,
+        "a": [
+          "65.60.63.98"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": []
+      },
+      "page": {
+        "url": "https://hydrex.printstarnow.com/",
+        "finalUrl": "https://hydrex.printstarnow.com/login",
+        "status": 200,
+        "title": "Login",
+        "scriptUrls": [
+          "https://hydrex.printstarnow.com/Scripts/jquery-3.6.0.min.js",
+          "https://hydrex.printstarnow.com/layout/skins/library/lib/js/library.min.js",
+          "https://hydrex.printstarnow.com/files/skins/3c217a07-041e-4adf-b4c2-54546bd5a7f8/js/jquery.mousewheel.min.js",
+          "https://hydrex.printstarnow.com/files/skins/3c217a07-041e-4adf-b4c2-54546bd5a7f8/js/owl.carousel.min.js",
+          "https://hydrex.printstarnow.com/files/skins/3c217a07-041e-4adf-b4c2-54546bd5a7f8/js/photoswipe-ui-default.min.js",
+          "https://hydrex.printstarnow.com/files/skins/3c217a07-041e-4adf-b4c2-54546bd5a7f8/js/photoswipe.min.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 16007,
+        "renderedWith": "http",
+        "faviconUrl": "https://hydrex.printstarnow.com/files/subscribers/a2d43f14-bcee-45e2-9165-c58314bd2fad/sites/2f231a60-6691-4c5c-b02a-32268ba3f4ce/favicon.ico?stamp=635303345699490000",
+        "faviconSha256": "6a44b3bc44d31237474398d94b17d95061ed458a5bf89ee9011e71386e8e226b",
+        "textSample": "Welcome Login My Account Saved Order History Profile Settings Logout Search 0 items 0 Home Login Login Login Email or Username Password Reset password About Us Established in 1998. We have been in business for over 20 years. We are a San Diego based printing company that services the San Diego commu"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexarai.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-10T01:39:32",
+      "ctIssuer": "WE1",
+      "dns": {
+        "domain": "hydrexarai.com",
+        "registered": true,
+        "a": [
+          "104.219.250.37",
+          "2.59.170.20"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns1.lander.d.parity.domains",
+          "ns2.lander.d.parity.domains"
+        ]
+      },
+      "page": {
+        "url": "http://hydrexarai.com/",
+        "finalUrl": "http://hydrexarai.com/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [
+          "http://hydrexarai.com/assets/index-BuG04mTK.js",
+          "https://lander.parity.domains/js/pa-6FZUe2Iv3m6Yx_KBS2sv2.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4728,
+        "renderedWith": "http",
+        "faviconUrl": "http://hydrexarai.com/favicon.ico",
+        "textSample": "Domain registration has expired. Renewal instructions If you own this domain , you may still be able to renew it through your Namecheap account. To renew: sign in, open Domain List , select this domain , and choose Renew . Sign in · Renewal help · Renewal and redemption fees Renew this domain Want a"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrex-agent.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-08T21:09:10",
+      "ctIssuer": "YR2",
+      "dns": {
+        "domain": "hydrex-agent.com",
+        "registered": true,
+        "a": [
+          "2.25.190.100"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "nebula.dns-parking.com",
+          "aurora.dns-parking.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrex-agent.com/",
+        "finalUrl": "https://hydrex-agent.com/",
+        "status": 404,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 32,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://hydrex-agent.com/favicon.ico",
+        "screenshot": "out/scans/hydrex-2026-11-01/shots/hydrex-agent.com.jpg",
+        "textSample": "{\"ok\":false,\"error\":\"Not found\"}"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Almost empty page (32 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexobe.com",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-08T00:10:04",
+      "ctIssuer": "YE1",
+      "dns": {
+        "domain": "hydrexobe.com",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "boyd.ns.cloudflare.com",
+          "amalia.ns.cloudflare.com"
+        ]
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "not-live",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrexa.shop",
+      "sources": [
+        "ct"
+      ],
+      "ctFirstSeen": "2026-10-06T13:19:49",
+      "ctIssuer": "YR1",
+      "dns": {
+        "domain": "hydrexa.shop",
+        "registered": true,
+        "a": [
+          "198.185.159.144",
+          "198.185.159.145",
+          "198.49.23.144",
+          "198.49.23.145"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-cloud-b3.googledomains.com",
+          "ns-cloud-b1.googledomains.com",
+          "ns-cloud-b4.googledomains.com",
+          "ns-cloud-b2.googledomains.com"
+        ]
+      },
+      "page": {
+        "url": "https://hydrexa.shop/",
+        "finalUrl": "https://www.hydrexa.shop/",
+        "status": 200,
+        "title": "SL in Tan Spot",
+        "scriptUrls": [
+          "https://assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-70c095566385eee0-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2dbade1c2d524017-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5b1fd9aed201e910-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-88f72d5f001c770b-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-2e71e68f6532e2b6-min.en-US.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 483972,
+        "renderedWith": "http",
+        "faviconUrl": "https://assets.squarespace.com/universal/default-favicon.ico",
+        "faviconSha256": "0d75fa1c9f78745b408f55992519c9bd64dfdd5c1b456c5f48b5dc7c43184a8a",
+        "textSample": "Skip to Content Open Menu Close Menu Ingredient Encyclopedia Home Shop Contact ( 0 ) Cart ( 0 ) Ingredient Encyclopedia Home Shop Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Ingredient Encyclopedia Home Shop Contact Shop Now"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-06 (Certificate Transparency)",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "hydrjx.com.cn",
+      "sources": [
+        "nrd"
+      ],
+      "nrdDate": "2026-10-31",
+      "dns": {
+        "domain": "hydrjx.com.cn",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns1.nowcndns.com",
+          "ns2.nowcndns.com"
+        ]
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "not-live",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Newly registered domain (WhoisDS daily list)"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    }
+  ],
+  "tokens": [],
+  "errors": []
+}

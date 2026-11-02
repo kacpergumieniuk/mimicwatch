@@ -1,0 +1,143 @@
+{
+  "policy": "Only 'approved' entries and entries already listed by an independent wallet blocklist (MetaMask eth-phishing-detect, ScamSniffer) are exported to the open dataset. 'watch' and 'rejected' stay out. Nothing is reported to a blocklist without a person's approval.",
+  "reviewers": {
+    "claude-agent": "AI agent (Claude, Anthropic) that runs the scans and does the first review pass",
+    "kacpergumieniuk": "Kacper Gumieniuk, human maintainer; approves every report before it is filed"
+  },
+  "decisions": [
+    {
+      "host": "aerodrome.financial",
+      "brand": "Aerodrome",
+      "decision": "approved",
+      "reason": "Copy of the Aerodrome app: same favicon, 82% text overlap, wallet-connect libraries and setApprovalForAll in its JS. Still live and on no wallet blocklist on 2026-11-02.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "host": "portal-hydrex.xyz",
+      "brand": "Hydrex",
+      "decision": "approved",
+      "reason": "Static mirror of the Hydrex app with a 'Holder Crates' claim lure the official site does not use; 65 asset links to app-hydrexvote.today, which MetaMask already blocklists. Evidence: evidence/hydrex/.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01",
+      "reportedTo": ["https://github.com/MetaMask/eth-phishing-detect/issues/308466"],
+      "reportedBy": "kacpergumieniuk",
+      "reportedAt": "2026-11-02"
+    },
+    {
+      "host": "moonwelldefi.pages.dev",
+      "brand": "Moonwell",
+      "decision": "approved",
+      "reason": "Copy of the Moonwell app with the identical title, all links stripped and routed to one heavily obfuscated external script. Evidence: evidence/moonwell/.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01",
+      "reportedTo": ["https://github.com/MetaMask/eth-phishing-detect/issues/308466"],
+      "reportedBy": "kacpergumieniuk",
+      "reportedAt": "2026-11-02"
+    },
+    {
+      "host": "uniswapv4.com",
+      "brand": "Uniswap",
+      "decision": "watch",
+      "reason": "Registered 2026-10-05, title 'Uniswap V4', fake exchange copy with a wallet prompt. Probable impersonation; needs a human check of what it asks users to sign.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "host": "finance-aerodromee-en--us.pages.dev",
+      "brand": "Aerodrome",
+      "decision": "watch",
+      "reason": "SEO-style page titled 'Aerodrome Finance ... Login, Exchange & FAQs' mentioning WalletConnect and seed phrases. Needs a human check of where its links lead.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "host": "aerodrome-slipstream-us-en.pages.dev",
+      "brand": "Aerodrome",
+      "decision": "watch",
+      "reason": "SEO-style page titled 'Aerodrome Slipstream'. Needs a human check of where its links lead.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "host": "aerodrome-slipstream-uploaded-en.pages.dev",
+      "brand": "Aerodrome",
+      "decision": "watch",
+      "reason": "SEO-style page using the Aerodrome Slipstream name. Needs a human check of where its links lead.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "host": "aerodrome-financial-en-us.pages.dev",
+      "brand": "Aerodrome",
+      "decision": "watch",
+      "reason": "SEO-style page titled 'Aerodrome Finance'. Needs a human check of where its links lead.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "host": "uniswap-wallet-review.pages.dev",
+      "brand": "Uniswap",
+      "decision": "rejected",
+      "reason": "Looks like an affiliate review site, not a copy of Uniswap.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    },
+    {
+      "host": "clamker.world",
+      "brand": "Clanker",
+      "decision": "rejected",
+      "reason": "Redirects to another launchpad (a competitor), not a clone. 'clanker' is a generic word.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    },
+    {
+      "host": "clanker-wallet.xyz",
+      "brand": "Clanker",
+      "decision": "rejected",
+      "reason": "'clanker' is a generic meme word for AI bots; no Clanker impersonation seen.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    },
+    {
+      "host": "clankertoken.org",
+      "brand": "Clanker",
+      "decision": "rejected",
+      "reason": "'clanker' is a generic meme word for AI bots; no Clanker impersonation seen.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    },
+    {
+      "host": "clankers.world",
+      "brand": "Clanker",
+      "decision": "rejected",
+      "reason": "'clanker' is a generic meme word for AI bots; no Clanker impersonation seen.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    },
+    {
+      "host": "hydrex.blocktronics.xyz",
+      "brand": "Hydrex",
+      "decision": "rejected",
+      "reason": "Third-party LP analytics tool ('Hydrex · LP Profitability Scan').",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    },
+    {
+      "host": "hydrex-japan.info",
+      "brand": "Hydrex",
+      "decision": "rejected",
+      "reason": "Unrelated Japanese supplement site.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    },
+    {
+      "host": "moonwell-frontend-claimsite.moonwell.workers.dev",
+      "brand": "Moonwell",
+      "decision": "rejected",
+      "reason": "Legacy Moonbeam/Moonriver site in a 'moonwell' workers.dev account that also holds other Moonwell staging workers: likely the team's own.",
+      "reviewer": "claude-agent",
+      "reviewedAt": "2026-11-01"
+    }
+  ]
+}

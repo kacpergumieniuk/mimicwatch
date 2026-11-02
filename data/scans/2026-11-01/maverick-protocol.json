@@ -1,0 +1,155 @@
+{
+  "brand": {
+    "name": "Maverick Protocol",
+    "officialDomains": [
+      "mav.xyz"
+    ],
+    "referenceUrl": "https://www.mav.xyz/",
+    "officialTokens": [
+      {
+        "chain": "ethereum",
+        "address": "0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD",
+        "symbol": "MAV",
+        "name": "Maverick Token"
+      }
+    ],
+    "officialSocials": {
+      "x": "mavprotocol"
+    },
+    "keywords": [
+      "mavprotocol",
+      "maverickprotocol",
+      "maverick-protocol"
+    ],
+    "allowlist": [],
+    "tokenChains": [
+      "ethereum"
+    ]
+  },
+  "startedAt": "2026-11-01T15:14:05.427Z",
+  "finishedAt": "2026-11-01T15:26:24.715Z",
+  "periodDays": 30,
+  "official": {
+    "url": "https://www.mav.xyz/?panels=solutions,ecosystem,about,community",
+    "title": "Maverick Protocol",
+    "faviconSha256": "61f014c1c92df658d22c5f6e1c39fafc36a5d99cd31eef2f7a06c16bb522aefc"
+  },
+  "stats": {
+    "permutations": 0,
+    "permutationsRegistered": 0,
+    "ctHosts": 0,
+    "nrdHits": 0,
+    "candidates": 0,
+    "pagesFetched": 0,
+    "pagesRendered": 0,
+    "tokensIndexed": {
+      "ethereum": 778
+    },
+    "tokenMatches": 0
+  },
+  "coverage": {
+    "ct": [
+      {
+        "q": "mavprotocol%",
+        "rows": 4
+      },
+      {
+        "q": "mavprotocol.%",
+        "rows": 4
+      },
+      {
+        "q": "mavprotocol-%",
+        "rows": 0
+      },
+      {
+        "q": "%mavprotocol%",
+        "rows": 0
+      },
+      {
+        "q": "maverickprotocol%",
+        "rows": 0,
+        "error": "HTTP 502"
+      },
+      {
+        "q": "maverickprotocol.%",
+        "rows": 0,
+        "error": "HTTP 502"
+      },
+      {
+        "q": "maverickprotocol-%",
+        "rows": 0,
+        "error": "HTTP 502"
+      },
+      {
+        "q": "%maverickprotocol%",
+        "rows": 0,
+        "error": "HTTP 502"
+      },
+      {
+        "q": "maverick-protocol%",
+        "rows": 0
+      },
+      {
+        "q": "maverick-protocol.%",
+        "rows": 0
+      },
+      {
+        "q": "maverick-protocol-%",
+        "rows": 0
+      },
+      {
+        "q": "%maverick-protocol%",
+        "rows": 0
+      }
+    ],
+    "nrd": [
+      {
+        "day": "2026-10-31",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-30",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-29",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-28",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-27",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-26",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-25",
+        "domains": 70000
+      }
+    ],
+    "tokens": [
+      {
+        "chain": "ethereum",
+        "coveredDays": 1.4,
+        "head": 26320806,
+        "errors": [
+          "logs 26300807-26310806: Invalid parameters were provided to the RPC method.",
+          "logs 26290807-26300806: Invalid parameters were provided to the RPC method.",
+          "logs 26280807-26290806: Invalid parameters were provided to the RPC method."
+        ]
+      }
+    ],
+    "blocklists": [
+      "metamask",
+      "scamsniffer"
+    ]
+  },
+  "domains": [],
+  "tokens": [],
+  "errors": []
+}

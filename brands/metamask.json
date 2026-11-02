@@ -1,0 +1,12 @@
+{
+  "name": "MetaMask",
+  "notes": "Demo profile built from public info on 2026-11-01. mUSD is MetaMask's stablecoin (Ethereum). Not a client.",
+  "officialDomains": ["metamask.io", "consensys.io"],
+  "officialTokens": [
+    { "chain": "ethereum", "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA", "symbol": "mUSD", "name": "MetaMask USD" }
+  ],
+  "officialSocials": { "x": "MetaMask", "github": "MetaMask" },
+  "keywords": ["metamask"],
+  "allowlist": ["metamask.github.io"],
+  "tokenChains": ["base", "ethereum"]
+}

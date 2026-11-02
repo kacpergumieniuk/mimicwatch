@@ -1,0 +1,25 @@
+{
+  "name": "Arcadia Finance",
+  "officialDomains": [
+    "arcadia.finance"
+  ],
+  "officialTokens": [
+    {
+      "chain": "base",
+      "address": "0xaaa843fb2916c0B57454270418E121C626402AAa",
+      "symbol": "AAA",
+      "name": "Arcadia"
+    }
+  ],
+  "officialSocials": {
+    "x": "ArcadiaFi"
+  },
+  "keywords": [
+    "arcadiafinance",
+    "arcadia-finance"
+  ],
+  "tokenChains": [
+    "base"
+  ],
+  "notes": "Profile built from public info (DefiLlama, project site) on 2026-11-01. No relationship with the project."
+}

@@ -1,0 +1,203 @@
+{
+  "scanFinishedAt": "2026-11-01T14:49:54.104Z",
+  "official": {
+    "url": "https://www.hydrex.fi/",
+    "title": "Hydrex",
+    "faviconSha256": "ea5edde27aa63b94191ba02d498f6ac030a3d98157e5ecf4c1ed6a048a441fc9"
+  },
+  "finding": {
+    "kind": "domain",
+    "host": "portal-hydrex.xyz",
+    "sources": [
+      "permutation"
+    ],
+    "fuzzer": "dictionary",
+    "dns": {
+      "domain": "portal-hydrex.xyz",
+      "registered": true,
+      "a": [
+        "188.114.96.11",
+        "188.114.97.11"
+      ],
+      "aaaa": [],
+      "mx": [],
+      "ns": [
+        "brian.ns.cloudflare.com",
+        "ivy.ns.cloudflare.com"
+      ]
+    },
+    "page": {
+      "url": "https://portal-hydrex.xyz/",
+      "finalUrl": "https://portal-hydrex.xyz/",
+      "status": 200,
+      "title": "Hydrex",
+      "scriptUrls": [
+        "https://portal-hydrex.xyz/vue-4.16.5.slim.js",
+        "https://portal-hydrex.xyz/5684a1cb.js",
+        "https://portal-hydrex.xyz/b85f7def.js",
+        "https://portal-hydrex.xyz/codex-animations.js?v=8"
+      ],
+      "signals": {
+        "walletPrompt": [
+          "Connect your wallet",
+          "walletconnect",
+          "reown.com",
+          "window.ethereum"
+        ],
+        "seedPhrase": [],
+        "secretForm": true,
+        "lure": [
+          "claim",
+          "Rewards"
+        ],
+        "drainerJs": [
+          "obfuscated-js(300 _0x identifiers)"
+        ],
+        "parked": [],
+        "cryptoContext": [
+          "token",
+          "swap",
+          "Liquidity",
+          "Wallet",
+          "ETH",
+          "USDC"
+        ],
+        "interstitial": [],
+        "challenge": []
+      },
+      "brandMentions": 8,
+      "brandInTitle": true,
+      "bytes": 1538657,
+      "renderedWith": "playwright",
+      "faviconUrl": "https://app-hydrexvote.today/favicon.ico",
+      "textSample": "0 Connect Trade Accounts Earn Vote Analytics Trade Accounts Earn Vote Analytics 0 Connect Accounts Trade Earn Vote Season 1 | Holder Rewards $HYDX Holder Crates are Live! Hold $HYDX through the snapshot, open your Crate, and claim your allocation. Open your Crate Best swap rates on Base. Hydrex guar"
+    },
+    "similarity": {
+      "title": 1,
+      "text": 0.2,
+      "favicon": false,
+      "overall": 0.49
+    },
+    "listedOn": [],
+    "score": 89,
+    "severity": "critical",
+    "label": "phishing-likely",
+    "evidence": [
+      "Brand name plus a phishing lure word",
+      "Page title resembles the official title (100%)",
+      "Page text overlaps the official site (20% shingles)",
+      "Brand named on the page (8x), including the title",
+      "Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com",
+      "Drainer-style JS: obfuscated-js(300 _0x identifiers)",
+      "Lure text: claim, Rewards"
+    ],
+    "action": "After client approval: file registrar + host abuse reports, Google Safe Browsing / Netcraft, and wallet blocklist submissions (drafts attached).",
+    "alreadyBlocked": false,
+    "rdap": {
+      "domain": "portal-hydrex.xyz",
+      "registrar": "Dynadot Inc",
+      "ianaId": "472",
+      "abuse": {
+        "name": "Abuse Contact",
+        "email": "abuse@dynadot.com",
+        "phone": "+1.6502620100"
+      },
+      "registered": "2026-09-23T17:00:44.0Z",
+      "expires": "2027-09-23T23:59:59.0Z",
+      "status": [
+        "server transfer prohibited",
+        "client transfer prohibited"
+      ],
+      "source": "https://rdap.centralnic.com/xyz/domain/portal-hydrex.xyz"
+    },
+    "hosting": {
+      "ip": "188.114.96.11",
+      "network": "CLOUDFLARENET-EU",
+      "org": "MNT-CLOUDFLARE",
+      "abuse": {
+        "name": "Cloudflare Abuse Contact",
+        "email": "abuse@cloudflare.com",
+        "form": "https://abuse.cloudflare.com/"
+      }
+    },
+    "drafts": [
+      {
+        "channel": "registrar-abuse",
+        "title": "Registrar abuse report to Dynadot Inc",
+        "to": "abuse@dynadot.com",
+        "subject": "Phishing / brand impersonation: portal-hydrex.xyz impersonates Hydrex",
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Dynadot Inc abuse team,\n\nThe domain portal-hydrex[.]xyz (registered with you on 2026-09-23) is being used to impersonate Hydrex, a crypto project whose official site is hxxps://hydrex[.]fi. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://portal-hydrex[.]xyz/\n- Brand name plus a phishing lure word\n- Page title resembles the official title (100%)\n- Page text overlaps the official site (20% shingles)\n- Brand named on the page (8x), including the title\n- Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com\n- Drainer-style JS: obfuscated-js(300 _0x identifiers)\n- Lure text: claim, Rewards\n- Resolves to 188.114.96.11, 188.114.97.11\n- Page title: \"Hydrex\"\n- Screenshot: shots/portal-hydrex.xyz.jpg (attach)\n\nWe are not affiliated with the operator of portal-hydrex[.]xyz. Hydrex has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+        "notes": [
+          "Registrar IANA ID 472, abuse phone +1.6502620100"
+        ]
+      },
+      {
+        "channel": "host-abuse",
+        "title": "Hosting abuse report to MNT-CLOUDFLARE",
+        "to": "https://abuse.cloudflare.com/",
+        "subject": "Phishing site hosted on your network: portal-hydrex.xyz (Hydrex impersonation)",
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello MNT-CLOUDFLARE,\n\nhxxps://portal-hydrex[.]xyz/ (188.114.96.11, 188.114.97.11) is hosted on your network and impersonates Hydrex (official: hxxps://hydrex[.]fi).\n\nEvidence (observed 2026-11-01):\n- Brand name plus a phishing lure word\n- Page title resembles the official title (100%)\n- Page text overlaps the official site (20% shingles)\n- Brand named on the page (8x), including the title\n- Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com\n- Drainer-style JS: obfuscated-js(300 _0x identifiers)\n- Lure text: claim, Rewards\n- Resolves to 188.114.96.11, 188.114.97.11\n- Page title: \"Hydrex\"\n- Screenshot: shots/portal-hydrex.xyz.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Hydrex under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+        "notes": [
+          "Email alternative: abuse@cloudflare.com"
+        ]
+      },
+      {
+        "channel": "google-safe-browsing",
+        "title": "Google Safe Browsing report",
+        "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fportal-hydrex.xyz%2F",
+        "fields": {
+          "Report Type": "This page is not safe",
+          "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+          "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+          "URL to report": "https://portal-hydrex.xyz/",
+          "Additional details (max 800)": "Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%)."
+        },
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%).",
+        "notes": [
+          "Web form with reCAPTCHA: a person has to submit it."
+        ]
+      },
+      {
+        "channel": "netcraft",
+        "title": "Netcraft report",
+        "to": "https://report.netcraft.com/report",
+        "fields": {
+          "The URL of the site": "https://portal-hydrex.xyz/",
+          "Further details": "Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%).",
+          "Your email address": "{{REPORTER_EMAIL}}"
+        },
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%).",
+        "notes": [
+          "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+        ]
+      },
+      {
+        "channel": "metamask-issue",
+        "title": "MetaMask eth-phishing-detect: blocklist addition issue",
+        "to": "https://github.com/MetaMask/eth-phishing-detect/issues/new?template=01-blocklist-addition.yaml",
+        "fields": {
+          "Malicious domains, IPs, IPFS hashes, or IPNS names": "https://portal-hydrex.xyz/",
+          "Please explain why this content is malicious": "Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%). Observed 2026-11-01. Reported on behalf of Hydrex.",
+          "Is this a duplicate request?": "Search open issues for the domain first, then tick the box"
+        },
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%)."
+      },
+      {
+        "channel": "metamask-pr",
+        "title": "MetaMask eth-phishing-detect: alternative PR (slower; most merges are bot syncs)",
+        "to": "https://github.com/MetaMask/eth-phishing-detect",
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\ngit checkout -b block-portal-hydrex.xyz\nyarn add:blocklist portal-hydrex.xyz\n\nPR title: Block portal-hydrex.xyz (Hydrex impersonation)\nPR body: Impersonates Hydrex (official: https://hydrex.fi). Page text overlaps the official site (20% shingles); Drainer-style JS: obfuscated-js(300 _0x identifiers); Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com; Page title resembles the official title (100%)."
+      },
+      {
+        "channel": "scamsniffer-issue",
+        "title": "ScamSniffer scam-database issue",
+        "to": "https://github.com/scamsniffer/scam-database/issues/new",
+        "subject": "[Phishing] portal-hydrex.xyz - Hydrex impersonation",
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: portal-hydrex.xyz\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Hydrex (official: https://hydrex.fi)\n\nEvidence (observed 2026-11-01):\n- Brand name plus a phishing lure word\n- Page title resembles the official title (100%)\n- Page text overlaps the official site (20% shingles)\n- Brand named on the page (8x), including the title\n- Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com\n- Drainer-style JS: obfuscated-js(300 _0x identifiers)\n- Lure text: claim, Rewards\n- Resolves to 188.114.96.11, 188.114.97.11\n- Page title: \"Hydrex\"\n- Screenshot: shots/portal-hydrex.xyz.jpg (attach)",
+        "notes": [
+          "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+        ]
+      }
+    ]
+  }
+}

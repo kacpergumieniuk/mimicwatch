@@ -1,0 +1,24 @@
+{
+  "name": "Moonwell",
+  "officialDomains": [
+    "moonwell.fi"
+  ],
+  "officialTokens": [
+    {
+      "chain": "base",
+      "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+      "symbol": "WELL",
+      "name": "Moonwell"
+    }
+  ],
+  "officialSocials": {
+    "x": "MoonwellDeFi"
+  },
+  "keywords": [
+    "moonwell"
+  ],
+  "tokenChains": [
+    "base"
+  ],
+  "notes": "Profile built from public info (DefiLlama, project site) on 2026-11-01. No relationship with the project."
+}

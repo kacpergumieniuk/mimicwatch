@@ -1,0 +1,11 @@
+{
+  "name": "Aerodrome",
+  "notes": "Demo profile built from public info on 2026-11-01 (Base-native DEX). Not a client.",
+  "officialDomains": ["aerodrome.finance"],
+  "officialTokens": [
+    { "chain": "base", "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631", "symbol": "AERO", "name": "Aerodrome" }
+  ],
+  "officialSocials": { "x": "aerodromefi" },
+  "keywords": ["aerodrome"],
+  "tokenChains": ["base"]
+}

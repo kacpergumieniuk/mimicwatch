@@ -1,0 +1,168 @@
+{
+  "scanFinishedAt": "2026-11-01T15:42:39.550Z",
+  "official": {
+    "url": "https://moonwell.fi/",
+    "title": "Moonwell - Lending made simple",
+    "faviconSha256": "de9acbc64cb7b2d1d53053784cba17b867e4ff7343a85b3d30cbeab4196fe837"
+  },
+  "finding": {
+    "kind": "domain",
+    "host": "moonwelldefi.pages.dev",
+    "sources": [
+      "ct"
+    ],
+    "ctFirstSeen": "2026-10-08T16:29:19",
+    "ctIssuer": "YE2",
+    "dns": {
+      "domain": "moonwelldefi.pages.dev",
+      "registered": true,
+      "a": [
+        "172.66.47.24",
+        "172.66.44.232"
+      ],
+      "aaaa": [],
+      "mx": [],
+      "ns": [
+        "logan.ns.cloudflare.com",
+        "ziggy.ns.cloudflare.com"
+      ]
+    },
+    "page": {
+      "url": "https://moonwelldefi.pages.dev/",
+      "finalUrl": "https://moonwelldefi.pages.dev/",
+      "status": 200,
+      "title": "Moonwell - Lending made simple",
+      "scriptUrls": [
+        "https://moonwelldefi.pages.dev/aedef8f1-3faa-46eb-b6da-72b297a512eb.js"
+      ],
+      "signals": {
+        "secretForm": false,
+        "walletPrompt": [],
+        "seedPhrase": [],
+        "lure": [
+          "rewards"
+        ],
+        "drainerJs": [
+          "obfuscated-js(29977 _0x identifiers)"
+        ],
+        "parked": [],
+        "cryptoContext": [
+          "Crypto",
+          "Token",
+          "Wallet",
+          "Stake",
+          "Ethereum",
+          "USDC"
+        ],
+        "interstitial": [],
+        "challenge": []
+      },
+      "brandMentions": 43,
+      "brandInTitle": true,
+      "bytes": 430268,
+      "renderedWith": "http",
+      "faviconUrl": "https://moonwelldefi.pages.dev/favicon.svg",
+      "textSample": "Discover Markets Vaults Stake Transfer Card Portfolio Governance ... Connect Wallet Get Started on Moonwell Try the new Smart Wallet The new Coinbase Wallet lets you access the best apps without installing anything, and gas is free. Try it today! Coinbase Wallet Smart Wallet Create Wallet Explore cb"
+    },
+    "similarity": {
+      "title": 1,
+      "text": 0,
+      "favicon": false,
+      "overall": 0.35
+    },
+    "listedOn": [],
+    "platform": "Cloudflare Pages",
+    "score": 62,
+    "severity": "high",
+    "label": "phishing-likely",
+    "evidence": [
+      "Hostname contains the brand name",
+      "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+      "Hosted on Cloudflare Pages subdomain",
+      "Page title resembles the official title (100%)",
+      "Brand named on the page (43x), including the title",
+      "Drainer-style JS: obfuscated-js(29977 _0x identifiers)",
+      "Lure text: rewards"
+    ],
+    "action": "After client approval: file registrar + host abuse reports, Google Safe Browsing / Netcraft, and wallet blocklist submissions (drafts attached).",
+    "alreadyBlocked": false,
+    "hosting": {
+      "ip": "172.66.47.24",
+      "org": "Cloudflare Pages",
+      "network": "CLOUDFLARENET",
+      "abuse": {
+        "form": "https://abuse.cloudflare.com/",
+        "email": "abuse@cloudflare.com"
+      }
+    },
+    "drafts": [
+      {
+        "channel": "host-abuse",
+        "title": "Hosting abuse report to Cloudflare Pages",
+        "to": "https://abuse.cloudflare.com/",
+        "subject": "Phishing site hosted on your network: moonwelldefi.pages.dev (Moonwell impersonation)",
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Cloudflare Pages,\n\nhxxps://moonwelldefi[.]pages[.]dev/ (172.66.47.24, 172.66.44.232) is hosted on your platform and impersonates Moonwell (official: hxxps://moonwell[.]fi).\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-08 (Certificate Transparency)\n- Hosted on Cloudflare Pages subdomain\n- Page title resembles the official title (100%)\n- Brand named on the page (43x), including the title\n- Drainer-style JS: obfuscated-js(29977 _0x identifiers)\n- Lure text: rewards\n- Resolves to 172.66.47.24, 172.66.44.232\n- Page title: \"Moonwell - Lending made simple\"\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Moonwell under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+        "notes": [
+          "Email alternative: abuse@cloudflare.com"
+        ]
+      },
+      {
+        "channel": "google-safe-browsing",
+        "title": "Google Safe Browsing report",
+        "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fmoonwelldefi.pages.dev%2F",
+        "fields": {
+          "Report Type": "This page is not safe",
+          "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+          "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+          "URL to report": "https://moonwelldefi.pages.dev/",
+          "Additional details (max 800)": "Impersonates Moonwell (official: https://moonwell.fi). Drainer-style JS: obfuscated-js(29977 _0x identifiers); Page title resembles the official title (100%); Brand named on the page (43x), including the title; Lure text: rewards."
+        },
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Moonwell (official: https://moonwell.fi). Drainer-style JS: obfuscated-js(29977 _0x identifiers); Page title resembles the official title (100%); Brand named on the page (43x), including the title; Lure text: rewards.",
+        "notes": [
+          "Web form with reCAPTCHA: a person has to submit it."
+        ]
+      },
+      {
+        "channel": "netcraft",
+        "title": "Netcraft report",
+        "to": "https://report.netcraft.com/report",
+        "fields": {
+          "The URL of the site": "https://moonwelldefi.pages.dev/",
+          "Further details": "Impersonates Moonwell (official: https://moonwell.fi). Drainer-style JS: obfuscated-js(29977 _0x identifiers); Page title resembles the official title (100%); Brand named on the page (43x), including the title; Lure text: rewards.",
+          "Your email address": "{{REPORTER_EMAIL}}"
+        },
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Moonwell (official: https://moonwell.fi). Drainer-style JS: obfuscated-js(29977 _0x identifiers); Page title resembles the official title (100%); Brand named on the page (43x), including the title; Lure text: rewards.",
+        "notes": [
+          "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+        ]
+      },
+      {
+        "channel": "metamask-issue",
+        "title": "MetaMask eth-phishing-detect: blocklist addition issue",
+        "to": "https://github.com/MetaMask/eth-phishing-detect/issues/new?template=01-blocklist-addition.yaml",
+        "fields": {
+          "Malicious domains, IPs, IPFS hashes, or IPNS names": "https://moonwelldefi.pages.dev/",
+          "Please explain why this content is malicious": "Impersonates Moonwell (official: https://moonwell.fi). Drainer-style JS: obfuscated-js(29977 _0x identifiers); Page title resembles the official title (100%); Brand named on the page (43x), including the title; Lure text: rewards. Observed 2026-11-01. Reported on behalf of Moonwell.",
+          "Is this a duplicate request?": "Search open issues for the domain first, then tick the box"
+        },
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Moonwell (official: https://moonwell.fi). Drainer-style JS: obfuscated-js(29977 _0x identifiers); Page title resembles the official title (100%); Brand named on the page (43x), including the title; Lure text: rewards."
+      },
+      {
+        "channel": "metamask-pr",
+        "title": "MetaMask eth-phishing-detect: alternative PR (slower; most merges are bot syncs)",
+        "to": "https://github.com/MetaMask/eth-phishing-detect",
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\ngit checkout -b block-moonwelldefi.pages.dev\nyarn add:blocklist moonwelldefi.pages.dev\n\nPR title: Block moonwelldefi.pages.dev (Moonwell impersonation)\nPR body: Impersonates Moonwell (official: https://moonwell.fi). Drainer-style JS: obfuscated-js(29977 _0x identifiers); Page title resembles the official title (100%); Brand named on the page (43x), including the title; Lure text: rewards."
+      },
+      {
+        "channel": "scamsniffer-issue",
+        "title": "ScamSniffer scam-database issue",
+        "to": "https://github.com/scamsniffer/scam-database/issues/new",
+        "subject": "[Phishing] moonwelldefi.pages.dev - Moonwell impersonation",
+        "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nDomain: moonwelldefi.pages.dev\nReceiving addresses (with chain): {{ADD IF KNOWN, e.g. from a victim's drain tx}}\nImpersonates: Moonwell (official: https://moonwell.fi)\n\nEvidence (observed 2026-11-01):\n- Hostname contains the brand name\n- TLS certificate issued 2026-10-08 (Certificate Transparency)\n- Hosted on Cloudflare Pages subdomain\n- Page title resembles the official title (100%)\n- Brand named on the page (43x), including the title\n- Drainer-style JS: obfuscated-js(29977 _0x identifiers)\n- Lure text: rewards\n- Resolves to 172.66.47.24, 172.66.44.232\n- Page title: \"Moonwell - Lending made simple\"",
+        "notes": [
+          "ScamSniffer asks for issues, not PRs (their JSON is regenerated). Attach the screenshot."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5967 @@
+{
+  "meta": {
+    "name": "Mimicwatch open impersonation dataset (Ethereum + Base)",
+    "license": "MIT",
+    "generatedAt": "2026-11-02T10:41:23.245Z",
+    "scans": [
+      {
+        "brand": "Aerodrome",
+        "startedAt": "2026-11-01T14:17:20.395Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "MetaMask",
+        "startedAt": "2026-11-01T13:58:57.615Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Uniswap",
+        "startedAt": "2026-11-01T14:11:33.610Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Alien Base",
+        "startedAt": "2026-11-01T14:49:55.044Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Arcadia Finance",
+        "startedAt": "2026-11-01T14:46:39.346Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Beefy",
+        "startedAt": "2026-11-01T14:56:12.611Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Clanker",
+        "startedAt": "2026-11-01T15:03:53.200Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Exactly Protocol",
+        "startedAt": "2026-11-01T15:14:05.427Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Extra Finance",
+        "startedAt": "2026-11-01T15:14:05.427Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Harvest Finance",
+        "startedAt": "2026-11-01T14:58:25.055Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Hydrex",
+        "startedAt": "2026-11-01T14:46:39.346Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Maverick Protocol",
+        "startedAt": "2026-11-01T15:14:05.427Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Moonwell",
+        "startedAt": "2026-11-01T15:37:05.801Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Team Finance",
+        "startedAt": "2026-11-01T15:02:26.694Z",
+        "periodDays": 30
+      },
+      {
+        "brand": "Umia",
+        "startedAt": "2026-11-01T14:53:21.473Z",
+        "periodDays": 30
+      }
+    ],
+    "counts": {
+      "entries": 244,
+      "reviewedApproved": 3,
+      "listedElsewhere": 202,
+      "hostWarning": 39
+    },
+    "schema": "docs/DATASET.md"
+  },
+  "entries": [
+    {
+      "type": "domain",
+      "id": "aeeodrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aeeodrome.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aeradrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (vowel-swap) of the official domain",
+        "One of 4 lookalikes on the same DNS account (grace.ns.cloudflare.com + ivan.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (46 chars of text, title \"Index of /\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerdrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerdrome.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerocdrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 70,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (insertion) of the official domain",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aeroddrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (insertion) of the official domain",
+        "One of 18 lookalikes on the same DNS account (ashley.ns.cloudflare.com + darl.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (19 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodeome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerodeome.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrame.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (vowel-swap) of the official domain",
+        "One of 4 lookalikes on the same DNS account (grace.ns.cloudflare.com + ivan.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (21 chars of text, title \"502 Bad Gateway\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrmoe.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (transposition) of the official domain",
+        "One of 18 lookalikes on the same DNS account (ashley.ns.cloudflare.com + darl.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (19 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodroe.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerodroe.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrom.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "critical",
+      "score": 95,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "One of 4 lookalikes on the same DNS account (grace.ns.cloudflare.com + ivan.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page title resembles the official title (100%)",
+        "Page text overlaps the official site (79% shingles)",
+        "Brand named on the page (6x), including the title"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome--slipstream-9af.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T15:00:47",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-4gg.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 72,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-06T15:59:45",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-06 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page title resembles the official title (53%)",
+        "Brand named on the page (10x), including the title",
+        "Lure text: reward"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-6j9.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T23:14:48",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-airdrop.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 70,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T12:45:43",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-app.xyz",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-02T18:08:31",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "TLS certificate issued 2026-10-02 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-claim.com",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 70,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T06:41:20",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-duz.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "critical",
+      "score": 100,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T10:11:18",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page title resembles the official title (100%)",
+        "Brand named on the page (10x), including the title",
+        "Wallet-connect prompt/library: Connect Wallet",
+        "Drainer-style JS: SEAPORT",
+        "Lure text: reward"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-financ-guide.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T20:01:55",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-finance-coai-buy.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-10T11:15:08",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-finance-us-en.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-08T12:29:40",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-financed.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-16T20:35:55",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-16 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-financee-us.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-10T15:44:46",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-financial-xyz.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-18T14:04:55",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-18 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-finannce.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-06T06:11:22",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-06 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v1.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:24:26",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v10.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:35:20",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v11.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:36:32",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v12.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:37:46",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v13.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:38:57",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v14.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:40:09",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v15.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:41:21",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v16.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:42:34",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v17.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:43:47",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v18.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:45:00",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v19.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:46:12",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v2.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:25:39",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v20.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:47:25",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v3.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:26:51",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v4.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:28:03",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v5.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:29:15",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v6.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:30:29",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v7.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:31:41",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v8.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:32:53",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-interface-v9.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T23:34:07",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "One of 20 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-portal.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T07:23:50",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-slipstream-en.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T19:10:56",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-slipstream-wallet.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-06T03:53:29",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-06 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-slipstream-xyz.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T16:43:01",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-slipstreames.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-14T11:08:17",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-14 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-swap.app",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-v1.com",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T01:07:10",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"aerodrome-v1.com\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome-votes.com",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-21T00:00:00",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-21 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome.biz",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T13:15:09",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"aerodrome.biz\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome.credit",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-11T00:04:25",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-11 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome.financial",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "critical",
+      "score": 95,
+      "status": "reviewed-approved",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-08T00:00:00",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Added by hand (--hosts: reported by the client or found by an earlier scan)",
+        "Same favicon as the official site",
+        "Page title resembles the official title (80%)",
+        "Page text overlaps the official site (82% shingles)",
+        "Brand named on the page (6x), including the title",
+        "Wallet-connect prompt/library: connectwallet, walletconnect, Web3Modal",
+        "Drainer-style JS: setApprovalForAll, drainer",
+        "Lure text: rewards"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome.fmance.cam",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-24T00:00:00",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-24 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (183 chars of text, title \"404: NOT_FOUND\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome.trading",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T14:11:48",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"aerodrome.trading\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrome.website",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 65,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-10T07:52:56",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromeapp.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: redirect count exceeded; http: redirect count exceeded"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromefi.events",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-08T00:29:06",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 502"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromefinance.at",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T16:31:40",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: connect ENETUNREACH 87.232.92.118:443; http: connect ENETUNREACH 87.232.92.118:8"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromefinances.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-07T03:51:20",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromeresolve.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-16T19:12:05",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-16 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromeslipstream.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-07T09:50:17",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromevalidate.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T02:44:38",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromme.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (repetition) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerodromme.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodromr.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerodromr.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodrpme.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerodrpme.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerodtome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 18 lookalikes on the same DNS account (ashley.ns.cloudflare.com + darl.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (19 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerorome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerorome.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "aerrodrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (insertion) of the official domain",
+        "One of 16 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"aerrodrome.finance\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "arodrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (19 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "claim-aerodrome.xyz",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "portal-aerodrome.xyz",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Page returned HTTP 502"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "safe--aerodrome-finance.pages.dev",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T01:47:41",
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "v2-aerodrome.finance",
+      "brand": "Aerodrome",
+      "brandOfficial": [
+        "aerodrome.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:17:20.395Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "allenbase.xyz",
+      "brand": "Alien Base",
+      "brandOfficial": [
+        "alienbase.xyz"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 55,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:49:55.044Z",
+      "evidence": [
+        "Homoglyph lookalike of the official domain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "appalienbase.xyz",
+      "brand": "Alien Base",
+      "brandOfficial": [
+        "alienbase.xyz"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:49:55.044Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "beefy-3ho.pages.dev",
+      "brand": "Beefy",
+      "brandOfficial": [
+        "beefy.com",
+        "beefy.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T14:24:13",
+      "observedAt": "2026-11-01T14:56:12.611Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "beefy.digital",
+      "brand": "Beefy",
+      "brandOfficial": [
+        "beefy.com",
+        "beefy.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:56:12.611Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "beefyswap.com",
+      "brand": "Beefy",
+      "brandOfficial": [
+        "beefy.com",
+        "beefy.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 77,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:56:12.611Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Brand named on the page (7x), including the title",
+        "Lure text: eligible, refund",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "harvestfinancerussia.pages.dev",
+      "brand": "Harvest Finance",
+      "brandOfficial": [
+        "harvest.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T02:28:09",
+      "observedAt": "2026-11-01T14:58:25.055Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "hydrex.cloud",
+      "brand": "Hydrex",
+      "brandOfficial": [
+        "hydrex.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:46:39.346Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (93 chars of text, title \"Sorry, the website has been stopped\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "hydrex.pro",
+      "brand": "Hydrex",
+      "brandOfficial": [
+        "hydrex.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:46:39.346Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "hydrex.top",
+      "brand": "Hydrex",
+      "brandOfficial": [
+        "hydrex.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:46:39.346Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (21 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "hydrexfi.top",
+      "brand": "Hydrex",
+      "brandOfficial": [
+        "hydrex.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-09T11:21:06",
+      "observedAt": "2026-11-01T14:46:39.346Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-09 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Page returned HTTP 502"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "hydrextge.com",
+      "brand": "Hydrex",
+      "brandOfficial": [
+        "hydrex.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-10T19:46:17",
+      "observedAt": "2026-11-01T14:46:39.346Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "portal-hydrex.xyz",
+      "brand": "Hydrex",
+      "brandOfficial": [
+        "hydrex.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "critical",
+      "score": 89,
+      "status": "reviewed-approved",
+      "listedOn": [],
+      "reportedTo": [
+        "https://github.com/MetaMask/eth-phishing-detect/issues/308466"
+      ],
+      "observedAt": "2026-11-01T14:46:39.346Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page title resembles the official title (100%)",
+        "Page text overlaps the official site (20% shingles)",
+        "Brand named on the page (8x), including the title",
+        "Wallet-connect prompt/library: Connect your wallet, walletconnect, reown.com",
+        "Drainer-style JS: obfuscated-js(300 _0x identifiers)",
+        "Lure text: claim, Rewards"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "rewards-hydrex.app",
+      "brand": "Hydrex",
+      "brandOfficial": [
+        "hydrex.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:46:39.346Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "app-metamask.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (10 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "claim-metamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: Connect Timeout Error (attempted address: claim-metamask.io:443, timeout: 10000m"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "claimmetamask.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 525"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "connect-metamask.app",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "consensys.app",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Almost empty page (37 chars of text, title \"502 Bad Gateway\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "consensys.world",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "faq-metamask-ext--auth.pages.dev",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-17T05:49:29",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-17 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "help-metamask.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "io-metamask-com--en.pages.dev",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-18T22:26:55",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-18 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "mdtamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "megamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "meramask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"meramask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "meta-mask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (hyphenation) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (153 chars of text, title \"Index of /\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamark.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamasi.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamasj.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"metamasj.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask--login-doc.pages.dev",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-18T19:38:19",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-18 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask--login-en.pages.dev",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-15T00:00:00",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-15 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask-ext--en.pages.dev",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-17T01:14:19",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-17 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask-io--lgin.pages.dev",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-07T05:12:59",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask-official.org",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask-rewards.app",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask-verify.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 409"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask-verify.org",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: 807F20EE01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert interna"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.biz",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.cc",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.claims",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 55,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "One of 5 lookalikes on the same DNS account (ns3.my-ndns.com + ns4.my-ndns.com): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: Connect Timeout Error (attempted address: metamask.claims:443, timeout: 10000ms)"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.cloud",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-28",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Newly registered domain (WhoisDS daily list)",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.co",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "critical",
+      "score": 100,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Same favicon as the official site",
+        "Page title resembles the official title (100%)",
+        "Page text overlaps the official site (78% shingles)",
+        "Brand named on the page (28x), including the title",
+        "Lure text: Eligible, rewards"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.digital",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.me",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.pro",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 46,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.site",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.top",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.us",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamask.xyz",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 56,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask",
+        "Brand named on the page (2x)",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamaska.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (addition) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (76 chars of text, title \"Coming Soon\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamaskairdrop.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamaskhelp.app",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamaskofficial.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Parked / for-sale page",
+        "Brand word used without any crypto context (1x): probably an unrelated business"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamaskrestore.org",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamaskrewards.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamasks.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (addition) of the official domain",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamasksecure.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Almost empty page (91 chars of text, title \"Page Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamasksupport.app",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 5 lookalikes on the same DNS account (ns3.my-ndns.com + ns4.my-ndns.com): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamaskv2.com",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 70,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamasl.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"metamasl.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metamqsk.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metanask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 55,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Homoglyph lookalike of the official domain",
+        "One of 6 lookalikes on the same DNS account (ns1.ns306.parklogic.com + ns2.ns306.parklogic.com): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Redirecting\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metemask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Домен не прикреплен\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metmask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: 807F20EE01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert interna"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metsmask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Almost empty page (0 chars of text, title \"metsmask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "metyamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (insertion) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"metyamask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "meyamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"meyamask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "meytamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (insertion) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"meytamask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "mrtamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"mrtamask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "mwtamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"mwtamask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "netamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 55,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Homoglyph lookalike of the official domain",
+        "One of 15 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"netamask.io\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "portal-metamask-ext--cdn.pages.dev",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-18T13:28:48",
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-18 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "portal-metamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "wallet-metamask.app",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "wallet-metamask.io",
+      "brand": "MetaMask",
+      "brandOfficial": [
+        "metamask.io",
+        "consensys.io"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 70,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T13:58:57.615Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "claims-moonwell.xyz",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwell-app.com",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "critical",
+      "score": 98,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Same favicon as the official site",
+        "Brand named on the page (42x)",
+        "Wallet-connect prompt/library: connect-wallet, Web3modal, RainbowKit",
+        "Drainer-style JS: obfuscated-js(4491 _0x identifiers)",
+        "Lure text: rewards"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwell-claims.xyz",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 3 lookalikes on the same DNS account (ezra.ns.cloudflare.com + poppy.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwell-rewards.xyz",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwell.digital",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 502"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwell.lat",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T15:19:39",
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwell.site",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Page returned HTTP 502"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwell.vip",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 46,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 3 lookalikes on the same DNS account (ezra.ns.cloudflare.com + poppy.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): metamask"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwellapp-vote.today",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-09T10:26:47",
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-09 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (21 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwellapp-vote.xyz",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T07:32:21",
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (21 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwelldefi.pages.dev",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 62,
+      "status": "reviewed-approved",
+      "listedOn": [],
+      "reportedTo": [
+        "https://github.com/MetaMask/eth-phishing-detect/issues/308466"
+      ],
+      "firstSeen": "2026-10-08T16:29:19",
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Page title resembles the official title (100%)",
+        "Brand named on the page (43x), including the title",
+        "Drainer-style JS: obfuscated-js(29977 _0x identifiers)",
+        "Lure text: rewards"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "moonwellvote-app.today",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-07T00:00:00",
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (21 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "reward-moonwell.fi",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 523"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "rewards-moonwell.fi",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "rewards-moonwell.xyz",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "secure-moonwell.app",
+      "brand": "Moonwell",
+      "brandOfficial": [
+        "moonwell.fi"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 51,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T15:37:05.801Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 3 lookalikes on the same DNS account (ezra.ns.cloudflare.com + poppy.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): metamask"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "8eg-jumia86.vip",
+      "brand": "Umia",
+      "brandOfficial": [
+        "umia.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-25",
+      "observedAt": "2026-11-01T14:53:21.473Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Newly registered domain (WhoisDS daily list)",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "app-umiaecosystem.icu",
+      "brand": "Umia",
+      "brandOfficial": [
+        "umia.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-31",
+      "observedAt": "2026-11-01T14:53:21.473Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Newly registered domain (WhoisDS daily list)",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (35 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "rewards-umia.xyz",
+      "brand": "Umia",
+      "brandOfficial": [
+        "umia.finance"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:53:21.473Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "app-uniswap.net",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask",
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask, scamsniffer",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "appuniswap.xyz",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 10 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"appuniswap.xyz\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "portal-uniswap.xyz",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "swap-uniswap.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 61,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 10 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Lookalike of your domain serving other crypto content (swap)"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uinswap.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Typosquat (transposition) of the official domain",
+        "One of 15 lookalikes on the same DNS account (brady.ns.cloudflare.com + mariah.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (19 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "unisvvap.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 55,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Homoglyph lookalike of the official domain",
+        "One of 10 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"unisvvap.org\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswao.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (brady.ns.cloudflare.com + mariah.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (19 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-airdrop.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: Hostname/IP does not match certificate's altnames: Host: uniswap-airdrop.com. is"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-analyze.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T19:37:43",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-bridge.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T21:05:41",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-dashboard-qnj.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "critical",
+      "score": 90,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-07T09:15:00",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Brand named on the page (9x), including the title",
+        "Wallet-connect prompt/library: connect your wallet",
+        "Drainer-style JS: SEAPORT",
+        "Lure text: Claim, Airdrop"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-exchanges.biz",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T02:59:25",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Lookalike of your domain serving other crypto content (wallet), ends at https://goagameslogin.com.co/"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-org-props.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-07T09:42:00",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v1.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:00:05",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v10.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:10:36",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v11.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:11:48",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v12.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:12:58",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v13.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:14:11",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v14.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:46:18",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v15.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:46:21",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v16.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:17:39",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v17.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:18:48",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v18.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:19:58",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v19.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:21:07",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v20.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:22:16",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v3.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:02:24",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v4.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:03:33",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v5.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:04:42",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v6.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:05:54",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v7.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:07:02",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v8.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:08:11",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-protocol-interface-v9.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T17:46:03",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 19 lookalikes on the same DNS account (coco.bunny.net + kiki.bunny.net): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (18 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-rewards.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: connect ECONNREFUSED 54.38.220.85:443; http: Connect Timeout Error (attempted ad"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-rpcdebug.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-06T03:06:43",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-06 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-staging.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 73,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-12T08:14:26",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-12 (Certificate Transparency)",
+        "Same nameservers as the official domain: probably registered by the brand itself",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Brand named on the page (10x), including the title",
+        "Wallet-connect prompt/library: CONNECT_WALLET"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-swap.app",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T13:57:00",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Page not reachable: getaddrinfo ENOTFOUND www.www.uniswap-swap.app; http: getaddrinfo ENOTFOUND www."
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-trading.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-08T01:30:47",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-08 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-v2.xyz",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-v3.io",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 70,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-v3.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 3 lookalikes on the same DNS account (ina1.registrar.eu + ina2.registrar.eu + ina3.registrar.eu): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"uniswap-v3.org\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-v4.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 530"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap-v4.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T23:44:00",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap.club",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 521"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 4 lookalikes on the same DNS account (ns1.atom.com + ns2.atom.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap.fi",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 451"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap.live",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 46,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Parked / for-sale page",
+        "Brand word used without any crypto context (1x): probably an unrelated business"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap.one",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-05T04:51:33",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-05 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: Connect Timeout Error (attempted address: uniswap.one:443, timeout: 10000ms); ht"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap.online",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (101 chars of text, title \"Placeholder - Antagonist\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswap.vip",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Official name on a different TLD",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapairdrop.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 70,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T11:12:17",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapairdrop02.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-07T04:27:40",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Hostname contains a lure word (claim/airdrop/support/...)",
+        "TLS certificate issued 2026-10-07 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 451"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapbase.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-11T17:50:17",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-11 (Certificate Transparency)",
+        "One of 4 lookalikes on the same DNS account (ligia.ns.cloudflare.com + ryan.ns.cloudflare.com): a single operator",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapbase.pro",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-12T00:00:00",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-12 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapc.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Typosquat (addition) of the official domain",
+        "One of 4 lookalikes on the same DNS account (ligia.ns.cloudflare.com + ryan.ns.cloudflare.com): a single operator",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapcex.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-14T04:08:01",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-14 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapconnect.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswaper.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T22:51:03",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "One of 10 lookalikes on the same DNS account (ns1.dyna-ns.net + ns2.dyna-ns.net): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (0 chars of text, title \"uniswaper.org\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapguanwgappxiazai6e.org.cn",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 76,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-25",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Newly registered domain (WhoisDS daily list)",
+        "Already on public wallet blocklist(s): metamask",
+        "Brand named on the page (60x), including the title",
+        "Wallet-connect prompt/library: WalletConnect"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapmultichain.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-04T10:15:59",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-04 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapn.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Typosquat (addition) of the official domain",
+        "One of 4 lookalikes on the same DNS account (ligia.ns.cloudflare.com + ryan.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapp-drg.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 35,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "firstSeen": "2026-10-03T02:33:09",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-03 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapsi.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 40,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-09T23:25:30",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-09 (Certificate Transparency)",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswaptoken.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 75,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Brand named on the page (6x), including the title",
+        "Lure text: eligible, refund",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapwallet.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Parked / for-sale page"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniswapwebsolutions.pages.dev",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 60,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "firstSeen": "2026-10-06T23:01:19",
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Hostname contains the brand name",
+        "TLS certificate issued 2026-10-06 (Certificate Transparency)",
+        "Hosted on Cloudflare Pages subdomain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "uniwswap.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 45,
+      "status": "host-warning",
+      "listedOn": [],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Typosquat (insertion) of the official domain",
+        "Host already shows a phishing warning instead of the site (\"Suspected Phishing | Cloudflare\")"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "unoswap.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Typosquat (replacement) of the official domain",
+        "One of 15 lookalikes on the same DNS account (brady.ns.cloudflare.com + mariah.ns.cloudflare.com): a single operator",
+        "Already on public wallet blocklist(s): metamask",
+        "Almost empty page (19 chars of text, title \"404 Not Found\"): content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "v2-uniswap.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Attention Required\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "v3-uniswap.net",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "metamask"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): metamask",
+        "Bot challenge or redirect stub (\"Attention Required\"): real content not visible"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "v3-uniswap.xyz",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page not reachable: This operation was aborted; http: This operation was aborted"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "v4-uniswap.com",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 530"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "v4-uniswap.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 50,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Page returned HTTP 530"
+      ]
+    },
+    {
+      "type": "domain",
+      "id": "xn--niswap-9lb.org",
+      "brand": "Uniswap",
+      "brandOfficial": [
+        "uniswap.org",
+        "uniswapfoundation.org",
+        "unichain.org"
+      ],
+      "label": "phishing-likely",
+      "severity": "high",
+      "score": 55,
+      "status": "listed-elsewhere",
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "reportedTo": [],
+      "observedAt": "2026-11-01T14:11:33.610Z",
+      "evidence": [
+        "Homoglyph lookalike of the official domain",
+        "One of 3 lookalikes on the same DNS account (ns1.abovedomains.com + ns2.abovedomains.com): a single operator",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Almost empty page (44 chars of text, title \"\"): content not visible"
+      ]
+    }
+  ]
+}

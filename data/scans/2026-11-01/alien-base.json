@@ -1,0 +1,1251 @@
+{
+  "brand": {
+    "name": "Alien Base",
+    "officialDomains": [
+      "alienbase.xyz"
+    ],
+    "referenceUrl": "https://alienbase.xyz",
+    "officialTokens": [
+      {
+        "chain": "base",
+        "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
+        "symbol": "ALB",
+        "name": "AlienBase"
+      }
+    ],
+    "officialSocials": {
+      "x": "AlienBaseDEX"
+    },
+    "keywords": [
+      "alienbase",
+      "alien-base"
+    ],
+    "allowlist": [],
+    "tokenChains": [
+      "base"
+    ]
+  },
+  "startedAt": "2026-11-01T14:49:55.044Z",
+  "finishedAt": "2026-11-01T14:56:11.235Z",
+  "periodDays": 30,
+  "official": {
+    "url": "https://alienbase.xyz/",
+    "title": "Alien Base",
+    "faviconSha256": "c647a735d2576f5719e2d2a38c621c2e9db9cfe0dded58500ba4316297a154a4"
+  },
+  "stats": {
+    "permutations": 1285,
+    "permutationsRegistered": 11,
+    "ctHosts": 3,
+    "nrdHits": 1,
+    "candidates": 12,
+    "pagesFetched": 12,
+    "pagesRendered": 7,
+    "tokensIndexed": {
+      "base": 126319
+    },
+    "tokenMatches": 3
+  },
+  "coverage": {
+    "ct": [
+      {
+        "q": "alienbase%",
+        "rows": 35
+      },
+      {
+        "q": "alienbase.%",
+        "rows": 35
+      },
+      {
+        "q": "alienbase-%",
+        "rows": 0
+      },
+      {
+        "q": "%alienbase%",
+        "rows": 0,
+        "error": "HTTP 502"
+      },
+      {
+        "q": "alien-base%",
+        "rows": 0
+      },
+      {
+        "q": "alien-base.%",
+        "rows": 0
+      },
+      {
+        "q": "alien-base-%",
+        "rows": 0
+      },
+      {
+        "q": "%alien-base%",
+        "rows": 0
+      }
+    ],
+    "nrd": [
+      {
+        "day": "2026-10-31",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-30",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-29",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-28",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-27",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-26",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-25",
+        "domains": 70000
+      }
+    ],
+    "tokens": [
+      {
+        "chain": "base",
+        "coveredDays": 30,
+        "head": 53377806,
+        "errors": []
+      }
+    ],
+    "blocklists": [
+      "metamask",
+      "scamsniffer"
+    ]
+  },
+  "domains": [
+    {
+      "kind": "domain",
+      "host": "allenbase.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "homoglyph",
+      "dns": {
+        "domain": "allenbase.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://allenbase.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/allenbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://allenbase.xyz/favicon.ico",
+        "screenshot": "out/scans/alien-base-2026-11-01/shots/allenbase.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/allenbase.xyz?\" on this server. Reference #18.8a3c655f.1793544953.4f5b5ebf https://errors.edgesuite.net/18.8a3c655f.1793544953.4f5b5ebf"
+      },
+      "similarity": {
+        "title": 0.25,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.09
+      },
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "score": 55,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Homoglyph lookalike of the official domain",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Already blocked (scamsniffer). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "allenbase.xyz",
+        "registrar": "GMO Internet Group, Inc. d/b/a Onamae.com",
+        "ianaId": "49",
+        "abuse": {
+          "name": "Abuse Contact",
+          "email": "abuse@internet.gmo",
+          "phone": "+81.337709199"
+        },
+        "registered": "2026-06-17T03:19:13.0Z",
+        "expires": "2027-06-17T23:59:59.0Z",
+        "status": [
+          "active"
+        ],
+        "source": "https://rdap.centralnic.com/xyz/domain/allenbase.xyz"
+      },
+      "hosting": {
+        "ip": "76.223.54.146",
+        "network": "AMAZO-4",
+        "org": "Amazon.com, Inc.",
+        "abuse": {
+          "name": "Amazon EC2 Abuse",
+          "email": "trustandsafety@support.aws.com",
+          "phone": "+1-206-555-0000"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to GMO Internet Group, Inc. d/b/a Onamae.com",
+          "to": "abuse@internet.gmo",
+          "subject": "Phishing / brand impersonation: allenbase.xyz impersonates Alien Base",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello GMO Internet Group, Inc. d/b/a Onamae.com abuse team,\n\nThe domain allenbase[.]xyz (registered with you on 2026-06-17) is being used to impersonate Alien Base, a crypto project whose official site is hxxps://alienbase[.]xyz. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://forsale[.]godaddy[.]com/forsale/allenbase[.]xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&\n- Homoglyph lookalike of the official domain\n- Already on public wallet blocklist(s): scamsniffer\n- Bot challenge or redirect stub (\"Access Denied\"): real content not visible\n- Resolves to 76.223.54.146, 13.248.169.48\n- Page title: \"Access Denied\"\n- Screenshot: shots/allenbase.xyz.jpg (attach)\n\nWe are not affiliated with the operator of allenbase[.]xyz. Alien Base has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Alien Base under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 49, abuse phone +81.337709199"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to Amazon.com, Inc.",
+          "to": "trustandsafety@support.aws.com",
+          "subject": "Phishing site hosted on your network: allenbase.xyz (Alien Base impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Amazon.com, Inc.,\n\nhxxps://forsale[.]godaddy[.]com/forsale/allenbase[.]xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2& (76.223.54.146, 13.248.169.48) is hosted on your network and impersonates Alien Base (official: hxxps://alienbase[.]xyz).\n\nEvidence (observed 2026-11-01):\n- Homoglyph lookalike of the official domain\n- Already on public wallet blocklist(s): scamsniffer\n- Bot challenge or redirect stub (\"Access Denied\"): real content not visible\n- Resolves to 76.223.54.146, 13.248.169.48\n- Page title: \"Access Denied\"\n- Screenshot: shots/allenbase.xyz.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Alien Base under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": []
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fforsale.godaddy.com%2Fforsale%2Fallenbase.xyz%3Futm_source%3DTDFS_BINNS2%26utm_medium%3Dparkedpages%26utm_campaign%3Dx_corp_tdfs-binns2_base%26traffic_type%3DTDFS_BINNS2%26traffic_id%3Dbinns2%26",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://forsale.godaddy.com/forsale/allenbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+            "Additional details (max 800)": "Impersonates Alien Base (official: https://alienbase.xyz). Homoglyph lookalike of the official domain; Already on public wallet blocklist(s): scamsniffer; Bot challenge or redirect stub (\"Access Denied\"): real content not visible."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Alien Base (official: https://alienbase.xyz). Homoglyph lookalike of the official domain; Already on public wallet blocklist(s): scamsniffer; Bot challenge or redirect stub (\"Access Denied\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://forsale.godaddy.com/forsale/allenbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+            "Further details": "Impersonates Alien Base (official: https://alienbase.xyz). Homoglyph lookalike of the official domain; Already on public wallet blocklist(s): scamsniffer; Bot challenge or redirect stub (\"Access Denied\"): real content not visible.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Alien Base (official: https://alienbase.xyz). Homoglyph lookalike of the official domain; Already on public wallet blocklist(s): scamsniffer; Bot challenge or redirect stub (\"Access Denied\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "metamask-issue",
+          "title": "MetaMask eth-phishing-detect: blocklist addition issue",
+          "to": "https://github.com/MetaMask/eth-phishing-detect/issues/new?template=01-blocklist-addition.yaml",
+          "fields": {
+            "Malicious domains, IPs, IPFS hashes, or IPNS names": "https://forsale.godaddy.com/forsale/allenbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+            "Please explain why this content is malicious": "Impersonates Alien Base (official: https://alienbase.xyz). Homoglyph lookalike of the official domain; Already on public wallet blocklist(s): scamsniffer; Bot challenge or redirect stub (\"Access Denied\"): real content not visible. Observed 2026-11-01. Reported on behalf of Alien Base.",
+            "Is this a duplicate request?": "Search open issues for the domain first, then tick the box"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Alien Base (official: https://alienbase.xyz). Homoglyph lookalike of the official domain; Already on public wallet blocklist(s): scamsniffer; Bot challenge or redirect stub (\"Access Denied\"): real content not visible."
+        },
+        {
+          "channel": "metamask-pr",
+          "title": "MetaMask eth-phishing-detect: alternative PR (slower; most merges are bot syncs)",
+          "to": "https://github.com/MetaMask/eth-phishing-detect",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\ngit checkout -b block-allenbase.xyz\nyarn add:blocklist allenbase.xyz\n\nPR title: Block allenbase.xyz (Alien Base impersonation)\nPR body: Impersonates Alien Base (official: https://alienbase.xyz). Homoglyph lookalike of the official domain; Already on public wallet blocklist(s): scamsniffer; Bot challenge or redirect stub (\"Access Denied\"): real content not visible."
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "appalienbase.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "appalienbase.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://appalienbase.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/appalienbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 1,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://appalienbase.xyz/favicon.ico",
+        "screenshot": "out/scans/alien-base-2026-11-01/shots/appalienbase.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/appalienbase.xyz?\" on this server. Reference #18.8a3c655f.1793544955.4f5b7f8e https://errors.edgesuite.net/18.8a3c655f.1793544955.4f5b7f8e"
+      },
+      "similarity": {
+        "title": 0.25,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.09
+      },
+      "listedOn": [
+        "scamsniffer"
+      ],
+      "score": 50,
+      "severity": "high",
+      "label": "phishing-likely",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Already on public wallet blocklist(s): scamsniffer",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Already blocked (scamsniffer). After client approval: file registrar and host abuse reports so the domain itself goes away (drafts attached).",
+      "alreadyBlocked": true,
+      "rdap": {
+        "domain": "appalienbase.xyz",
+        "registrar": "GMO Internet Group, Inc. d/b/a Onamae.com",
+        "ianaId": "49",
+        "abuse": {
+          "name": "Abuse Contact",
+          "email": "abuse@internet.gmo",
+          "phone": "+81.337709199"
+        },
+        "registered": "2026-09-02T19:03:01.0Z",
+        "expires": "2027-09-02T23:59:59.0Z",
+        "status": [
+          "server transfer prohibited"
+        ],
+        "source": "https://rdap.centralnic.com/xyz/domain/appalienbase.xyz"
+      },
+      "hosting": {
+        "ip": "76.223.54.146",
+        "network": "AMAZO-4",
+        "org": "Amazon.com, Inc.",
+        "abuse": {
+          "name": "Amazon EC2 Abuse",
+          "email": "trustandsafety@support.aws.com",
+          "phone": "+1-206-555-0000"
+        }
+      },
+      "drafts": [
+        {
+          "channel": "registrar-abuse",
+          "title": "Registrar abuse report to GMO Internet Group, Inc. d/b/a Onamae.com",
+          "to": "abuse@internet.gmo",
+          "subject": "Phishing / brand impersonation: appalienbase.xyz impersonates Alien Base",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello GMO Internet Group, Inc. d/b/a Onamae.com abuse team,\n\nThe domain appalienbase[.]xyz (registered with you on 2026-09-02) is being used to impersonate Alien Base, a crypto project whose official site is hxxps://alienbase[.]xyz. We ask you to suspend the domain under your abuse policy and the RAA section 3.18 obligations.\n\nEvidence (observed 2026-11-01, read-only, URLs defanged):\n- URL: hxxps://forsale[.]godaddy[.]com/forsale/appalienbase[.]xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&\n- Brand name plus a phishing lure word\n- Already on public wallet blocklist(s): scamsniffer\n- Bot challenge or redirect stub (\"Access Denied\"): real content not visible\n- Resolves to 76.223.54.146, 13.248.169.48\n- Page title: \"Access Denied\"\n- Screenshot: shots/appalienbase.xyz.jpg (attach)\n\nWe are not affiliated with the operator of appalienbase[.]xyz. Alien Base has not authorised its use of the brand. Screenshots and HTML captures are available on request.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Alien Base under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": [
+            "Registrar IANA ID 49, abuse phone +81.337709199"
+          ]
+        },
+        {
+          "channel": "host-abuse",
+          "title": "Hosting abuse report to Amazon.com, Inc.",
+          "to": "trustandsafety@support.aws.com",
+          "subject": "Phishing site hosted on your network: appalienbase.xyz (Alien Base impersonation)",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nHello Amazon.com, Inc.,\n\nhxxps://forsale[.]godaddy[.]com/forsale/appalienbase[.]xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2& (76.223.54.146, 13.248.169.48) is hosted on your network and impersonates Alien Base (official: hxxps://alienbase[.]xyz).\n\nEvidence (observed 2026-11-01):\n- Brand name plus a phishing lure word\n- Already on public wallet blocklist(s): scamsniffer\n- Bot challenge or redirect stub (\"Access Denied\"): real content not visible\n- Resolves to 76.223.54.146, 13.248.169.48\n- Page title: \"Access Denied\"\n- Screenshot: shots/appalienbase.xyz.jpg (attach)\n\nPlease take the content down under your acceptable use policy.\n\nRegards,\n{{REPORTER_NAME}}\n{{REPORTER_ORG}}, acting for Alien Base under a Letter of Authorisation dated {{LOA_DATE}}\n{{REPORTER_EMAIL}}",
+          "notes": []
+        },
+        {
+          "channel": "google-safe-browsing",
+          "title": "Google Safe Browsing report",
+          "to": "https://safebrowsing.google.com/safebrowsing/report_phish/?url=https%3A%2F%2Fforsale.godaddy.com%2Fforsale%2Fappalienbase.xyz%3Futm_source%3DTDFS_BINNS2%26utm_medium%3Dparkedpages%26utm_campaign%3Dx_corp_tdfs-binns2_base%26traffic_type%3DTDFS_BINNS2%26traffic_id%3Dbinns2%26",
+          "fields": {
+            "Report Type": "This page is not safe",
+            "Threat Type": "Social engineering (phishing) - pick the closest option shown",
+            "Threat Category": "Pick the closest option shown (impersonation / phishing)",
+            "URL to report": "https://forsale.godaddy.com/forsale/appalienbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+            "Additional details (max 800)": "Impersonates Alien Base (official: https://alienbase.xyz). Already on public wallet blocklist(s): scamsniffer; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Access Denied\"): real content not visible."
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Alien Base (official: https://alienbase.xyz). Already on public wallet blocklist(s): scamsniffer; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Access Denied\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA: a person has to submit it."
+          ]
+        },
+        {
+          "channel": "netcraft",
+          "title": "Netcraft report",
+          "to": "https://report.netcraft.com/report",
+          "fields": {
+            "The URL of the site": "https://forsale.godaddy.com/forsale/appalienbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+            "Further details": "Impersonates Alien Base (official: https://alienbase.xyz). Already on public wallet blocklist(s): scamsniffer; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Access Denied\"): real content not visible.",
+            "Your email address": "{{REPORTER_EMAIL}}"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Alien Base (official: https://alienbase.xyz). Already on public wallet blocklist(s): scamsniffer; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Access Denied\"): real content not visible.",
+          "notes": [
+            "Web form with reCAPTCHA. Netcraft feeds many browser and registrar blocklists."
+          ]
+        },
+        {
+          "channel": "metamask-issue",
+          "title": "MetaMask eth-phishing-detect: blocklist addition issue",
+          "to": "https://github.com/MetaMask/eth-phishing-detect/issues/new?template=01-blocklist-addition.yaml",
+          "fields": {
+            "Malicious domains, IPs, IPFS hashes, or IPNS names": "https://forsale.godaddy.com/forsale/appalienbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+            "Please explain why this content is malicious": "Impersonates Alien Base (official: https://alienbase.xyz). Already on public wallet blocklist(s): scamsniffer; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Access Denied\"): real content not visible. Observed 2026-11-01. Reported on behalf of Alien Base.",
+            "Is this a duplicate request?": "Search open issues for the domain first, then tick the box"
+          },
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\nImpersonates Alien Base (official: https://alienbase.xyz). Already on public wallet blocklist(s): scamsniffer; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Access Denied\"): real content not visible."
+        },
+        {
+          "channel": "metamask-pr",
+          "title": "MetaMask eth-phishing-detect: alternative PR (slower; most merges are bot syncs)",
+          "to": "https://github.com/MetaMask/eth-phishing-detect",
+          "body": "DRAFT - NOT FILED. File only after the brand owner approves it and has signed a Letter of Authorisation.\n\ngit checkout -b block-appalienbase.xyz\nyarn add:blocklist appalienbase.xyz\n\nPR title: Block appalienbase.xyz (Alien Base impersonation)\nPR body: Impersonates Alien Base (official: https://alienbase.xyz). Already on public wallet blocklist(s): scamsniffer; Brand name plus a phishing lure word; Bot challenge or redirect stub (\"Access Denied\"): real content not visible."
+        }
+      ]
+    },
+    {
+      "kind": "domain",
+      "host": "alienbased.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "addition",
+      "dns": {
+        "domain": "alienbased.xyz",
+        "registered": true,
+        "a": [
+          "15.197.148.33",
+          "3.33.130.190"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns31.domaincontrol.com",
+          "ns32.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://alienbased.xyz/",
+        "finalUrl": "https://alienbased.xyz/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "parked",
+            "Related Searches"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://alienbased.xyz/favicon.ico",
+        "screenshot": "out/scans/alien-base-2026-11-01/shots/alienbased.xyz.jpg",
+        "textSample": "alienbased.xyz is parked free, courtesy of GoDaddy.com. Get This Domain Related Searches alien based Copyright © 1999-2026 GoDaddy, LLC. All rights reserved. Privacy Policy Disclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC and do n"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Typosquat (addition) of the official domain",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "aliencase.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "bitsquatting",
+      "dns": {
+        "domain": "aliencase.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://aliencase.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/aliencase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://aliencase.xyz/favicon.ico",
+        "screenshot": "out/scans/alien-base-2026-11-01/shots/aliencase.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/aliencase.xyz?\" on this server. Reference #18.8a3c655f.1793544950.4f5b3ad6 https://errors.edgesuite.net/18.8a3c655f.1793544950.4f5b3ad6"
+      },
+      "similarity": {
+        "title": 0.25,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.09
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alenbase.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "omission",
+      "dns": {
+        "domain": "alenbase.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://alenbase.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/alenbase.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://alenbase.xyz/favicon.ico",
+        "screenshot": "out/scans/alien-base-2026-11-01/shots/alenbase.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/alenbase.xyz?\" on this server. Reference #18.8a3c655f.1793544950.4f5b3ad0 https://errors.edgesuite.net/18.8a3c655f.1793544950.4f5b3ad0"
+      },
+      "similarity": {
+        "title": 0.25,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.09
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alienbase.com",
+      "sources": [
+        "permutation",
+        "ct"
+      ],
+      "fuzzer": "tld-swap",
+      "ctFirstSeen": "2026-10-15T00:00:00",
+      "ctIssuer": "Encryption Everywhere DV TLS CA - G2",
+      "dns": {
+        "domain": "alienbase.com",
+        "registered": true,
+        "a": [
+          "64.190.63.222"
+        ],
+        "aaaa": [],
+        "mx": [
+          "localhost"
+        ],
+        "ns": [
+          "ns2.sedoparking.com",
+          "ns1.sedoparking.com"
+        ]
+      },
+      "page": {
+        "url": "https://alienbase.com/",
+        "finalUrl": "https://alienbase.com/",
+        "status": 200,
+        "title": "alienbase.com - alienbase Zasoby i informacje.",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "Zasoby i informacje"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 1,
+        "brandInTitle": true,
+        "bytes": 3033,
+        "renderedWith": "http",
+        "faviconUrl": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "faviconSha256": "95c427fa3143b1896faf42a6406686ce7602cb39052081bb32d12b51c9e047e4",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0.24,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.08
+      },
+      "listedOn": [],
+      "score": 23,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Official name on a different TLD",
+        "TLS certificate issued 2026-10-15 (Certificate Transparency)",
+        "Parked / for-sale page",
+        "Brand word used without any crypto context (1x): probably an unrelated business"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alienbase.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "alienbase.net",
+        "registered": true,
+        "a": [
+          "198.202.29.51"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mail.alienbase.net"
+        ],
+        "ns": [
+          "ns0.cet.com",
+          "ns1.cet.com"
+        ]
+      },
+      "page": {
+        "url": "https://alienbase.net/",
+        "finalUrl": "https://alienbase.net/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "Connect Timeout Error (attempted address: alienbase.net:443, timeout: 10000ms); http: Connect Timeout Error (attempted address: alienbase.net:80, timeout: 10000ms)",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page not reachable: Connect Timeout Error (attempted address: alienbase.net:443, timeout: 10000ms); "
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alienbase.finance",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "alienbase.finance",
+        "registered": true,
+        "a": [
+          "3.33.130.190",
+          "15.197.148.33"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns22.domaincontrol.com",
+          "ns21.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://alienbase.finance/",
+        "finalUrl": "https://alienbase.finance/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "parked",
+            "Related Searches"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://alienbase.finance/favicon.ico",
+        "screenshot": "out/scans/alien-base-2026-11-01/shots/alienbase.finance.jpg",
+        "textSample": "alienbase.finance is parked free, courtesy of GoDaddy.com. Get This Domain Related Searches alien base finance Copyright © 1999-2026 GoDaddy, LLC. All rights reserved. Privacy Policy Disclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LL"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Official name on a different TLD",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alienbase.us",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "alienbase.us",
+        "registered": true,
+        "a": [
+          "172.13.166.108"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt3.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com"
+        ],
+        "ns": [
+          "ns-cloud-d1.googledomains.com",
+          "ns-cloud-d4.googledomains.com",
+          "ns-cloud-d3.googledomains.com",
+          "ns-cloud-d2.googledomains.com"
+        ]
+      },
+      "page": {
+        "url": "https://alienbase.us/",
+        "finalUrl": "https://alienbase.us/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "Connect Timeout Error (attempted address: alienbase.us:443, timeout: 10000ms); http: Connect Timeout Error (attempted address: alienbase.us:80, timeout: 10000ms)",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Page not reachable: Connect Timeout Error (attempted address: alienbase.us:443, timeout: 10000ms); h"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alienbase.tech",
+      "sources": [
+        "permutation",
+        "ct"
+      ],
+      "fuzzer": "tld-swap",
+      "ctFirstSeen": "2026-10-10T21:47:34",
+      "ctIssuer": "YE2",
+      "dns": {
+        "domain": "alienbase.tech",
+        "registered": true,
+        "a": [
+          "187.124.51.185"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx1.hostinger.com",
+          "mx2.hostinger.com"
+        ],
+        "ns": [
+          "horizon.dns-parking.com",
+          "orbit.dns-parking.com"
+        ]
+      },
+      "page": {
+        "url": "https://alienbase.tech/",
+        "finalUrl": "https://alienbase.tech/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "other side closed; http: other side closed",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "TLS certificate issued 2026-10-10 (Certificate Transparency)",
+        "Page not reachable: other side closed; http: other side closed"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alienbase.exchange",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "alienbase.exchange",
+        "registered": true,
+        "a": [
+          "192.64.119.118"
+        ],
+        "aaaa": [],
+        "mx": [
+          "eforward3.registrar-servers.com",
+          "eforward2.registrar-servers.com",
+          "eforward1.registrar-servers.com",
+          "eforward4.registrar-servers.com",
+          "eforward5.registrar-servers.com"
+        ],
+        "ns": [
+          "dns2.registrar-servers.com",
+          "dns1.registrar-servers.com"
+        ]
+      },
+      "page": {
+        "url": "http://alienbase.exchange/",
+        "finalUrl": "https://www.alienbase.exchange/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [
+          "https://www.alienbase.exchange/assets/index-BuG04mTK.js",
+          "https://lander.parity.domains/js/pa-6FZUe2Iv3m6Yx_KBS2sv2.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2963,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.alienbase.exchange/favicon.ico",
+        "textSample": "has been recently registered with namecheap.com Want a domain name like this? Discover domains on auction now See all auctions Download the Namecheap Auctions app Take auctions with you wherever you go"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "alienbash.com",
+      "sources": [
+        "nrd"
+      ],
+      "nrdDate": "2026-10-28",
+      "dns": {
+        "domain": "alienbash.com",
+        "registered": true,
+        "a": [
+          "198.185.159.145",
+          "198.185.159.144",
+          "198.49.23.144",
+          "198.49.23.145"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "nsc4.squarespacedns.com",
+          "nsc3.squarespacedns.com",
+          "nsc1.squarespacedns.com",
+          "nsc2.squarespacedns.com"
+        ]
+      },
+      "page": {
+        "url": "https://alienbash.com/",
+        "finalUrl": "https://alienbash.com/",
+        "status": 200,
+        "title": "Coming Soon",
+        "scriptUrls": [
+          "https://assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2dbade1c2d524017-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5b1fd9aed201e910-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-88f72d5f001c770b-min.en-US.js",
+          "https://assets.squarespace.com/universal/scripts-compressed/parking-page-6c7860981554f7db-min.en-US.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2999,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://alienbash.com/favicon.ico",
+        "faviconSha256": "0d75fa1c9f78745b408f55992519c9bd64dfdd5c1b456c5f48b5dc7c43184a8a",
+        "screenshot": "out/scans/alien-base-2026-11-01/shots/alienbash.com.jpg",
+        "textSample": "alienbash.com We're under construction. Please check back for an update soon."
+      },
+      "similarity": {
+        "title": 0.1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 15,
+      "severity": "info",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Hostname contains the brand name",
+        "Newly registered domain (WhoisDS daily list)",
+        "Almost empty page (77 chars of text, title \"Coming Soon\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    }
+  ],
+  "tokens": [
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0xb2000000000000000000006203C9Cb7aA67c44aA",
+      "name": "AlienBase Token",
+      "symbol": "ALB",
+      "firstBlock": 52132752,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "clone",
+        "score": 95,
+        "homoglyph": false,
+        "why": "symbol ALB and brand word \"alienbase\" in the name"
+      },
+      "explorerUrl": "https://basescan.org/token/0xb2000000000000000000006203C9Cb7aA67c44aA",
+      "score": 47,
+      "severity": "medium",
+      "label": "copycat-token",
+      "evidence": [
+        "Name/symbol match: symbol ALB and brand word \"alienbase\" in the name",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (45/100): Tradeable but risky: Exit liquidity only ~$0."
+      ],
+      "action": "Monitor: no meaningful liquidity yet. Warn the community if it gets liquidity or is promoted.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 45,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0xD9925DB85373725eA0514152651D6B952F97496d",
+        "ageSeconds": 2490115,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "Creator holds 20.0% of supply.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Buy and sell simulated OK; round trip costs 2.2%.",
+          "Token is 28.8 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0xB20000000000000000000099110B5e29953dE6EA",
+      "name": "AlienBase Token",
+      "symbol": "ALB",
+      "firstBlock": 52092106,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "clone",
+        "score": 95,
+        "homoglyph": false,
+        "why": "symbol ALB and brand word \"alienbase\" in the name"
+      },
+      "explorerUrl": "https://basescan.org/token/0xB20000000000000000000099110B5e29953dE6EA",
+      "score": 47,
+      "severity": "medium",
+      "label": "copycat-token",
+      "evidence": [
+        "Name/symbol match: symbol ALB and brand word \"alienbase\" in the name",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (45/100): Tradeable but risky: Exit liquidity only ~$0."
+      ],
+      "action": "Monitor: no meaningful liquidity yet. Warn the community if it gets liquidity or is promoted.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 45,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0xc6C7696eA8473526EA818f212A77450e42959C69",
+        "ageSeconds": 2571407,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "Creator holds 20.0% of supply.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Buy and sell simulated OK; round trip costs 2.2%.",
+          "Token is 29.8 days old."
+        ]
+      }
+    },
+    {
+      "kind": "token",
+      "chain": "base",
+      "address": "0x0BdcC5e663e2A588b014a03D5A163ab3025E015F",
+      "name": "Ali Base",
+      "symbol": "ALB",
+      "firstBlock": 52826924,
+      "source": "uniswap-v4",
+      "match": {
+        "kind": "same-symbol",
+        "score": 60,
+        "homoglyph": false,
+        "why": "same symbol as the official token (ALB)"
+      },
+      "explorerUrl": "https://basescan.org/token/0x0BdcC5e663e2A588b014a03D5A163ab3025E015F",
+      "score": 26,
+      "severity": "low",
+      "label": "symbol-collision",
+      "evidence": [
+        "Name/symbol match: same symbol as the official token (ALB)",
+        "Little or no liquidity (~$0)",
+        "Canisell verdict CAUTION (60/100): Tradeable but risky: Exit liquidity only ~$0.",
+        "Same ticker only: may be an unrelated project (possible false positive)"
+      ],
+      "action": "Monitor; probably unrelated.",
+      "engine": {
+        "verdict": "CAUTION",
+        "score": 60,
+        "summary": "Tradeable but risky: Exit liquidity only ~$0.",
+        "liquidityUsd": 0,
+        "launchpad": null,
+        "canSell": true,
+        "creator": "0x23fCC09Ca6945a8E84e3327e15Cf0B7CF14c39f3",
+        "ageSeconds": 1101775,
+        "reasons": [
+          "Exit liquidity only ~$0.",
+          "LP lock status unknown (position NFT); liquidity may be removable.",
+          "Pool uses an unrecognized Uniswap v4 hook that can alter swaps.",
+          "Buy and sell simulated OK; round trip costs 2.0%.",
+          "Owner 0x660eAaEdEBc968f8f3694354FA8EC0b4c5Ba8D12 has not renounced (owner()).",
+          "Token is 12.8 days old."
+        ]
+      }
+    }
+  ],
+  "errors": []
+}

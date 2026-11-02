@@ -1,0 +1,26 @@
+{
+  "name": "Beefy",
+  "officialDomains": [
+    "beefy.com",
+    "beefy.finance"
+  ],
+  "referenceUrl": "https://beefy.com/",
+  "officialTokens": [
+    {
+      "chain": "ethereum",
+      "address": "0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1",
+      "symbol": "BIFI",
+      "name": "Beefy"
+    }
+  ],
+  "officialSocials": {
+    "x": "beefyfinance"
+  },
+  "keywords": [
+    "beefy"
+  ],
+  "tokenChains": [
+    "ethereum"
+  ],
+  "notes": "Profile built from public info (DefiLlama, project site) on 2026-11-01. No relationship with the project."
+}

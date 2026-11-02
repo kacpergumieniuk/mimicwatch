@@ -1,0 +1,5758 @@
+{
+  "brand": {
+    "name": "Exactly Protocol",
+    "officialDomains": [
+      "exact.ly"
+    ],
+    "referenceUrl": "https://exact.ly",
+    "officialTokens": [],
+    "officialSocials": {
+      "x": "ExactlyProtocol"
+    },
+    "keywords": [
+      "exactlyprotocol",
+      "exactly-protocol",
+      "exactlyfinance"
+    ],
+    "allowlist": [],
+    "tokenChains": [
+      "base"
+    ]
+  },
+  "startedAt": "2026-11-01T15:14:05.427Z",
+  "finishedAt": "2026-11-01T15:27:42.648Z",
+  "periodDays": 30,
+  "official": {
+    "url": "https://exact.ly/",
+    "title": "Exactly Protocol - Decentralizing the credit market, today"
+  },
+  "stats": {
+    "permutations": 1330,
+    "permutationsRegistered": 88,
+    "ctHosts": 0,
+    "nrdHits": 0,
+    "candidates": 88,
+    "pagesFetched": 79,
+    "pagesRendered": 40,
+    "tokensIndexed": {},
+    "tokenMatches": 0
+  },
+  "coverage": {
+    "ct": [
+      {
+        "q": "exactlyprotocol%",
+        "rows": 2
+      },
+      {
+        "q": "exactlyprotocol.%",
+        "rows": 2
+      },
+      {
+        "q": "exactlyprotocol-%",
+        "rows": 0
+      },
+      {
+        "q": "%exactlyprotocol%",
+        "rows": 0
+      },
+      {
+        "q": "exactly-protocol%",
+        "rows": 0
+      },
+      {
+        "q": "exactly-protocol.%",
+        "rows": 0
+      },
+      {
+        "q": "exactly-protocol-%",
+        "rows": 0
+      },
+      {
+        "q": "%exactly-protocol%",
+        "rows": 0
+      },
+      {
+        "q": "exactlyfinance%",
+        "rows": 10
+      },
+      {
+        "q": "exactlyfinance.%",
+        "rows": 10
+      },
+      {
+        "q": "exactlyfinance-%",
+        "rows": 0,
+        "error": "HTTP 502"
+      },
+      {
+        "q": "%exactlyfinance%",
+        "rows": 0
+      }
+    ],
+    "nrd": [
+      {
+        "day": "2026-10-31",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-30",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-29",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-28",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-27",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-26",
+        "domains": 70000
+      },
+      {
+        "day": "2026-10-25",
+        "domains": 70000
+      }
+    ],
+    "tokens": [],
+    "blocklists": [
+      "metamask",
+      "scamsniffer"
+    ]
+  },
+  "domains": [
+    {
+      "kind": "domain",
+      "host": "exactsupport.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactsupport.com",
+        "registered": true,
+        "a": [
+          "13.223.25.84",
+          "54.243.117.197"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "nsg2.namebrightdns.com",
+          "nsg1.namebrightdns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exactsupport.com/",
+        "finalUrl": "https://www.hugedomains.com/domain_profile.cfm?d=exactsupport.com",
+        "status": 200,
+        "title": "ExactSupport.com is for sale | HugeDomains",
+        "scriptUrls": [
+          "https://cdn-cookieyes.com/client_data/e71bc53f1cb88666d160c1e2/script.js",
+          "https://www.google.com/recaptcha/enterprise.js?render=6LdRB9UiAAAAABaf3jRLyU_gwaGIp-3OvR51myRx",
+          "https://static.hugedomains.com/js/hdv3-js/jquery.min.js",
+          "https://static.hugedomains.com/js/hdv3-js/script.js?aa=2022-10-32",
+          "https://static.hugedomains.com/js/hdv3-js/common.js",
+          "https://static.hugedomains.com/js/hdv3-js/hd-js.js?a=20250312"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "eligible",
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "domain is for sale",
+            "HugeDomains",
+            "for sale"
+          ],
+          "cryptoContext": [
+            "Crypto"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 45102,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.hugedomains.com/favicon.ico",
+        "faviconSha256": "5a6c5f7923c7b5ba984f3c4b79b5c3005f3c2f1347a84a6a7b3c16ffbf11777d",
+        "textSample": "Skip to main content Search +1-303-893-0552 Home FAQs About us Contact us My account My favorites Shopping cart ExactSupport.com Buy now: $8,695 ▸ Buy now Processing or ▸ Start payment plan Processing Only $362.29/mo. for 24 months See details 30-day money back guarantee Take immediate ownership Saf"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 35,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Lookalike of your domain serving other crypto content (Crypto)",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exacttoken.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exacttoken.com",
+        "registered": true,
+        "a": [
+          "192.96.219.165"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns1.appraise.net",
+          "ns2.appraise.net"
+        ]
+      },
+      "page": {
+        "url": "https://exacttoken.com/",
+        "finalUrl": "https://exacttoken.com/",
+        "status": 200,
+        "title": "ExactToken.com - For Sale | Appraise.net Marketplace",
+        "scriptUrls": [
+          "https://exacttoken.com/js/marketplace-escrow-modal.js?v=1793546794",
+          "https://exacttoken.com/js/marketplace-listing.js?v=1793546794",
+          "https://exacttoken.com/js/marketplace-artist-listener.js?v=1793546794"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "For Sale"
+          ],
+          "cryptoContext": [
+            "Crypto",
+            "DeFi",
+            "Token",
+            "Web3",
+            "blockchain",
+            "bridge"
+          ],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 71725,
+        "renderedWith": "http",
+        "faviconUrl": "https://exacttoken.com/favicon.ico",
+        "faviconSha256": "0f41cf63de6fcaa33de27953ac5527362bb951c6ddab58da45d1d2a25d8997c0",
+        "textSample": "Own this domain 中文 Sign In Register Establish Instant Authority in Web3 and Fintech with a Premium Brand Identity ExactToken.com Crypto Finance SaaS Share on X Strengths Highly relevant to the high-value blockchain, cryptocurrency, and Web3 sectors. Combines a positive, trust-inducing prefix ('Exact"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 35,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Lookalike of your domain serving other crypto content (Crypto, DeFi, Token)",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactlogin.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactlogin.com",
+        "registered": true,
+        "a": [
+          "103.224.182.243"
+        ],
+        "aaaa": [],
+        "mx": [
+          "park-mx.above.com"
+        ],
+        "ns": [
+          "ns1.abovedomains.com",
+          "ns2.abovedomains.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactlogin.com/",
+        "finalUrl": "https://exactlogin.com/",
+        "status": 200,
+        "title": "exactlogin.com",
+        "scriptUrls": [
+          "https://assets.abovedomains.com/javascript/forsale.min.js?d=exactlogin.com"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "domain may be for sale",
+            "for sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 27384,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactlogin.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactlogin.com.jpg",
+        "textSample": "exactlogin.com Find information, resources and relevant links for exactlogin.com. This domain may be for sale. Terms of Service | Privacy Policy exactlogin.com may be for sale, click to inquire"
+      },
+      "similarity": {
+        "title": 0.22,
+        "text": 0.01,
+        "favicon": false,
+        "overall": 0.09
+      },
+      "listedOn": [],
+      "score": 28,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact-sync.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exact-sync.com",
+        "registered": true,
+        "a": [
+          "149.154.157.247"
+        ],
+        "aaaa": [],
+        "mx": [
+          "parkmail.dynadot.com"
+        ],
+        "ns": [
+          "ns2.dyna-ns.net",
+          "ns1.dyna-ns.net"
+        ]
+      },
+      "page": {
+        "url": "https://exact-sync.com/",
+        "finalUrl": "https://exact-sync.com/",
+        "status": 200,
+        "title": "Exact Sync — 知的財産法の助言",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 31412,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact-sync.com/common/assets/img/favicon.png",
+        "faviconSha256": "42a67ff60bf0ff143b888b61db55b81521ae3d3905289aab543084d9e1f0b3e5",
+        "textSample": "コンテンツへスキップ Exact Sync ホーム 比較 理念 サービス お問い合わせ ホーム 比較 理念 サービス お問い合わせ 知的財産法の助言 標識には、 由来がある。 商標・意匠・著作権に関する整理と届出支援を行っています。説明を省かず、手続きの意味を伝えながら、一緒に進めます。 相談について 提供する価値 主な特徴 進め方 信頼の背景 サービス一覧 お問い合わせ 提供する価値 知的財産の手続きは、企業がどこからきたかを示す記録でもあります。商標が登録されているか、使用中のマークに問題がないか、ライセンスの条件が偏っていないか——こうした問いに対して、専門用語を省いた平明な言葉でお答え"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 27,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactclaim.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactclaim.xyz",
+        "registered": true,
+        "a": [
+          "135.181.41.169"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "parked2.uadns.com",
+          "parked1.uadns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exactclaim.xyz/",
+        "finalUrl": "http://exactclaim.xyz/",
+        "status": 200,
+        "title": "The domain exactclaim.xyz is powered by NIC.UA",
+        "scriptUrls": [
+          "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4252993855973205"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "Claim"
+          ],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 7989,
+        "renderedWith": "http",
+        "faviconUrl": "http://exactclaim.xyz/apple-touch-icon.png",
+        "textSample": "Customer support укр eng The domain exactclaim.xyz is powered by NIC.UA Who is the owner of this domain name? Buy domains Discounts, bonus points and referral program Buy hosting High productivity. Convenient control panel Trademark registration We protect your rights and help with the documents SSL"
+      },
+      "similarity": {
+        "title": 0.07,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.02
+      },
+      "listedOn": [],
+      "score": 26,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "uxact.ly",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "bitsquatting",
+      "dns": {
+        "domain": "uxact.ly",
+        "registered": true,
+        "a": [
+          "185.175.196.20"
+        ],
+        "aaaa": [],
+        "mx": [
+          "uxact-ly.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns.inwx.de",
+          "ns3.inwx.eu",
+          "ns2.inwx.de"
+        ]
+      },
+      "page": {
+        "url": "https://uxact.ly/",
+        "finalUrl": "https://uxact.ly/",
+        "status": 200,
+        "title": "uxactly Agentur I UI/UX Design, Agile Support & Strategie",
+        "scriptUrls": [
+          "https://uxact.ly/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://uxact.ly/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://uxact.ly/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.5",
+          "https://uxact.ly/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.5",
+          "https://uxact.ly/wp-content/themes/uxactly/dist/app.js?ver=1647851068"
+        ],
+        "signals": {
+          "secretForm": true,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 119938,
+        "renderedWith": "http",
+        "faviconUrl": "https://uxact.ly/wp-content/themes/uxactly/img/favicons/apple-touch-icon.png",
+        "faviconSha256": "a9dd81fc54f69296ace4f61be9ef9446cf6e0e0d491a611eed922f6146759ce4",
+        "textSample": "About us Leistungen Projekte Workflow Blog Kontakt think, design, play! Experience Design, Agile Support & Strategy uxactly Kontakt aufnehmen User Experience Development Strategy Visual Design „Wir möchten gemeinsam Tools entwickeln, die andere lieben, und gleichzeitig Menschen inspirieren, sich wei"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Typosquat (bitsquatting) of the official domain",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "xact.ly",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "omission",
+      "dns": {
+        "domain": "xact.ly",
+        "registered": true,
+        "a": [
+          "3.211.184.98"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "cloe.ns.cloudflare.com",
+          "fred.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://xact.ly/",
+        "finalUrl": "https://www.xactlycorp.com/",
+        "status": 200,
+        "title": "Sales Performance Management Software Solutions | Xactly",
+        "scriptUrls": [
+          "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+          "https://munchkin.marketo.net/munchkin.js",
+          "https://www.xactlycorp.com/sites/default/files/js/js_gbHEnH1xCWv-XfPJmutpA388P2gWqnjiBR7WZrF4uQc.js?scope=header&amp;delta=1&amp;language=en&amp;theme=themekit&amp;include=eJx1ilEOwiAQRC-E8uGBNltY6FpgCWxj6-lt0mrU6M_Mm5dB71WwrBYPOIcmRc2wFk_N7gWcMRJ0vpOhC2RsE6nYo09BWu4misREoBht3OJ7n_GKy6fMJokqU-BEHQJT8vbNmM65bucqda4wJHFTtz-c0ZEyTaz2CWZxCo0iS8G0gedGTrt1Mhdt68v8--0K-o3VjZDFY3oAX1R1Ww",
+          "https://app-sj24.marketo.com/js/forms2/js/forms2.min.js",
+          "https://www.xactlycorp.com/modules/contrib/google_tag/js/gtag.js?tnpdbe",
+          "https://www.xactlycorp.com/modules/contrib/google_tag/js/gtm.js?tnpdbe"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "reward",
+            "Compensation"
+          ],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 209141,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.xactlycorp.com/sites/default/files/favicon.ico",
+        "faviconSha256": "60ddac4a0371ae72b9c285c237752c27cac86c53ca1ba6c03333a7ee7993619b",
+        "textSample": "Skip to main content Get the 2027 Sales Planning Guide to connect capacity, territory, quota, and forecasting in one system Download Now Search Languages 日本語 Contact Contact Us Sales 1-866-469-2285 Customer Hub Support Login Incent AlignStar Downloads Forecasting Products Column Column Container Lef"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Typosquat (omission) of the official domain",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exct.ly",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "omission",
+      "dns": {
+        "domain": "exct.ly",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns2.p09.nsone.net",
+          "dns4.p09.nsone.net",
+          "dns3.p09.nsone.net",
+          "dns1.p09.nsone.net"
+        ]
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Typosquat (omission) of the official domain"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactclaim.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactclaim.com",
+        "registered": true,
+        "a": [
+          "75.2.103.146",
+          "99.83.188.150"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns09.gcd-dns.com",
+          "ns10.gcd-dns.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactclaim.com/",
+        "finalUrl": "https://gcd.com/protected-domain-holder/",
+        "status": 200,
+        "title": "Protected Domain Holder - GoDaddy Corporate Domains",
+        "scriptUrls": [
+          "https://cdn-cookieyes.com/client_data/51773081bf5da5eb5f900dd2/script.js",
+          "https://gcd.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://gcd.com/wp-content/themes/godaddy-corporate-domains/assets/dist/js/flowbite.min.js",
+          "https://gcd.com/wp-content/themes/godaddy-corporate-domains/assets/js/plugins/slick.min.js?ver=1.8.1",
+          "https://gcd.com/wp-content/themes/godaddy-corporate-domains/assets/js/plugins/lazyload.min.js?ver=17.8.2",
+          "https://gcd.com/wp-content/themes/godaddy-corporate-domains/assets/js/plugins/select2.full.min.js?ver=4.1.0"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": true,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 48618,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://gcd.com/wp-content/uploads/2025/04/faviconV2.png",
+        "faviconSha256": "7c79dcc9bd08d96ca9bb553cd3fc073607ff39d28aecf1b67f10f5dba99cecca",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactclaim.com.jpg",
+        "textSample": "This domain is protected by GoDaddy Corporate Domains. Powered by gcd.com"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (73 chars of text, title \"Protected Domain Holder - GoDaddy Corpor\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactclaims.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactclaims.com",
+        "registered": true,
+        "a": [
+          "13.223.25.84",
+          "54.243.117.197"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "nsg2.namebrightdns.com",
+          "nsg1.namebrightdns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exactclaims.com/",
+        "finalUrl": "https://www.hugedomains.com/domain_profile.cfm?d=exactclaims.com",
+        "status": 200,
+        "title": "ExactClaims.com is for sale | HugeDomains",
+        "scriptUrls": [
+          "https://cdn-cookieyes.com/client_data/e71bc53f1cb88666d160c1e2/script.js",
+          "https://www.google.com/recaptcha/enterprise.js?render=6LdRB9UiAAAAABaf3jRLyU_gwaGIp-3OvR51myRx",
+          "https://static.hugedomains.com/js/hdv3-js/jquery.min.js",
+          "https://static.hugedomains.com/js/hdv3-js/script.js?aa=2022-10-32",
+          "https://static.hugedomains.com/js/hdv3-js/common.js",
+          "https://static.hugedomains.com/js/hdv3-js/hd-js.js?a=20250312"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "eligible",
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "domain is for sale",
+            "HugeDomains",
+            "for sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 44066,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.hugedomains.com/favicon.ico",
+        "faviconSha256": "5a6c5f7923c7b5ba984f3c4b79b5c3005f3c2f1347a84a6a7b3c16ffbf11777d",
+        "textSample": "Skip to main content Search +1-303-893-0552 Home FAQs About us Contact us My account My favorites Shopping cart ExactClaims.com Buy now: $3,795 ▸ Buy now Processing or ▸ Start payment plan Processing Only $158.13/mo. for 24 months See details 30-day money back guarantee Take immediate ownership Safe"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactclaims.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactclaims.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactclaims.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactclaims.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactclaims.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactclaims.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactclaims.xyz?\" on this server. Reference #18.8a3c655f.1793546820.4fb0f003 https://errors.edgesuite.net/18.8a3c655f.1793546820.4fb0f003"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactdrop.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactdrop.com",
+        "registered": true,
+        "a": [
+          "3.33.130.190",
+          "15.197.148.33"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns78.domaincontrol.com",
+          "ns77.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactdrop.com/",
+        "finalUrl": "https://exactdrop.com/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "parked",
+            "Related Searches"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactdrop.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactdrop.com.jpg",
+        "textSample": "exactdrop.com is parked free, courtesy of GoDaddy.com. Get This Domain Related Searches exact drop Copyright © 1999-2026 GoDaddy, LLC. All rights reserved. Privacy Policy Disclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC and do not"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactdrop.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactdrop.xyz",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns2.onamae-expired.com",
+          "dns1.onamae-expired.com"
+        ],
+        "error": "ETIMEOUT"
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 5 lookalikes on the same DNS account (dns1.onamae-expired.com + dns2.onamae-expired.com): a single operator"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "dropexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "dropexact.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://dropexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/dropexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://dropexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/dropexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/dropexact.xyz?\" on this server. Reference #18.8a3c655f.1793546823.4fb11391 https://errors.edgesuite.net/18.8a3c655f.1793546823.4fb11391"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactrewards.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactrewards.com",
+        "registered": true,
+        "a": [
+          "52.20.84.62"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx2.forwardemail.net",
+          "mx1.forwardemail.net"
+        ],
+        "ns": [
+          "ns2.atom.com",
+          "ns1.atom.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactrewards.com/",
+        "finalUrl": "https://www.atom.com/name/ExactRewards",
+        "status": 403,
+        "title": "ExactRewards.com — Premium Domain For Sale | Atom",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": true,
+          "lure": [
+            "rewards",
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "For Sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5784,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.atom.com/favicon.ico",
+        "faviconSha256": "7eda937d9cabb3e3b4da756c81226e3431f9b0751e9247b9e9b24c4f50ba3b97",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactrewards.com.jpg",
+        "textSample": "We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy and Privacy Policy . You can change your cook"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 3 lookalikes on the same DNS account (ns1.atom.com + ns2.atom.com): a single operator",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact-support.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exact-support.com",
+        "registered": true,
+        "a": [
+          "155.94.195.218"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx.exact-support.com"
+        ],
+        "ns": [
+          "ns73.cloudns.com",
+          "ns74.cloudns.uk",
+          "ns71.cloudns.net",
+          "pns72.cloudns.net"
+        ]
+      },
+      "page": {
+        "url": "https://exact-support.com/",
+        "finalUrl": "https://exact-support.com/",
+        "status": 404,
+        "title": "404 — Error",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2810,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exact-support.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exact-support.com.jpg",
+        "textSample": "404 Sorry! That page cannot be found… The URL was either incorrect, you took a wrong guess or there is a technical problem. - No brand config for domain(6ae75a13a38fe)"
+      },
+      "similarity": {
+        "title": 0.08,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.03
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (167 chars of text, title \"404 — Error\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactsupport.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactsupport.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactsupport.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactsupport.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactsupport.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactsupport.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactsupport.xyz?\" on this server. Reference #18.8a3c655f.1793546826.4fb13463 https://errors.edgesuite.net/18.8a3c655f.1793546826.4fb13463"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exacthelp.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exacthelp.com",
+        "registered": true,
+        "a": [
+          "3.33.243.145",
+          "15.197.204.56"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns01.cashparking.com",
+          "ns02.cashparking.com"
+        ]
+      },
+      "page": {
+        "url": "https://exacthelp.com/",
+        "finalUrl": "https://exacthelp.com/lander",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "Related Searches"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exacthelp.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exacthelp.com.jpg",
+        "textSample": "EXACTHELP.COM Related Searches exact help Copyright © EXACTHELP.COM. All rights reserved. Privacy Policy"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact-connect.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exact-connect.com",
+        "registered": true,
+        "a": [
+          "145.131.10.225"
+        ],
+        "aaaa": [],
+        "mx": [
+          "bounce.argewebhosting.nl"
+        ],
+        "ns": [
+          "ns3.argewebhosting.nl",
+          "ns1.argewebhosting.eu",
+          "ns2.argewebhosting.com"
+        ]
+      },
+      "page": {
+        "url": "http://exact-connect.com/",
+        "finalUrl": "http://exact-connect.com/",
+        "status": 200,
+        "title": "geregistreerd via Argeweb",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 19608,
+        "renderedWith": "http",
+        "faviconUrl": "http://exact-connect.com/favicon.ico",
+        "textSample": "Welkom Dit domein is geregistreerd in opdracht van een klant van Argeweb. Je kan hieronder checken of jouw gewenste domeinnaam nog vrij is. Dit domein is geregistreerd in opdracht van een klant van Argeweb. Je kan hieronder checken of jouw gewenste domeinnaam nog vrij is. Check Check Onze klanten ge"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactconnect.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactconnect.com",
+        "registered": true,
+        "a": [
+          "188.68.47.181"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mail.exactconnect.com",
+          "mx2fb7.netcup.net"
+        ],
+        "ns": [
+          "second-dns.netcup.net",
+          "third-dns.netcup.net",
+          "root-dns.netcup.net"
+        ]
+      },
+      "page": {
+        "url": "http://exactconnect.com/",
+        "finalUrl": "http://exactconnect.com/",
+        "status": 200,
+        "title": "Hier entsteht eine neue Webseite.",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 1028,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://exactconnect.com/favicon.ico",
+        "faviconSha256": "89b6262f363b365285c7ddff664b6f4ad570c8d92fc80dd51c021b2d49e84ac7",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactconnect.com.jpg",
+        "textSample": "Hier entsteht eine neue Webseite"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (32 chars of text, title \"Hier entsteht eine neue Webseite.\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactconnect.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactconnect.net",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [
+          "eu-smtp-inbound-2.mimecast.com",
+          "eu-smtp-inbound-1.mimecast.com"
+        ],
+        "ns": [
+          "ns0.lcn.com",
+          "ns1.lcn.com",
+          "ns2.lcn.com"
+        ]
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Brand name plus a phishing lure word"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactwallet.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactwallet.com",
+        "registered": true,
+        "a": [
+          "52.20.84.62"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.atom.com",
+          "ns1.atom.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactwallet.com/",
+        "finalUrl": "https://www.atom.com/name/ExactWallet",
+        "status": 403,
+        "title": "ExactWallet.com — Premium Domain For Sale | Atom",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "For Sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5781,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.atom.com/favicon.ico",
+        "faviconSha256": "7eda937d9cabb3e3b4da756c81226e3431f9b0751e9247b9e9b24c4f50ba3b97",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactwallet.com.jpg",
+        "textSample": "We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy and Privacy Policy . You can change your cook"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 3 lookalikes on the same DNS account (ns1.atom.com + ns2.atom.com): a single operator",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactwallet.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactwallet.xyz",
+        "registered": true,
+        "a": [
+          "160.251.64.80"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [],
+        "error": "ETIMEOUT"
+      },
+      "page": {
+        "url": "http://exactwallet.xyz/",
+        "finalUrl": "https://parking.onamae.com/?domain=exactwallet.xyz",
+        "status": 403,
+        "title": "exactwallet.xyz",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4544,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://parking.onamae.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactwallet.xyz.jpg",
+        "textSample": "exactwallet.xyz has expired and may be renewed by the owner. キャッシュレス時代に広がる日常の支払い方法 現代の暮らしにおいて、お金との付き合い方は大きく変わりつつあります。日々の買い物では、多くの人がまずクレジットカードを利用します。ポイント還元や分割払いの仕組みが定着し、ネットショッピングでも不可欠な存在となりました。スマートフォン一つで決済が完了する利便性は、私たちの家計管理をよりスマートなものへと変えています。 急な出費に備える短期的な資金調達の手段 それでも、予期せぬ出費が重なることは少なくありません。そんな場面で役立つのが"
+      },
+      "similarity": {
+        "title": 0.18,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "walletexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "walletexact.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://walletexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/walletexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://walletexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/walletexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/walletexact.xyz?\" on this server. Reference #18.8a3c655f.1793546830.4fb15a76 https://errors.edgesuite.net/18.8a3c655f.1793546830.4fb15a76"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact-app.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exact-app.com",
+        "registered": true,
+        "a": [
+          "188.40.197.172"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exact-app.com"
+        ],
+        "ns": [
+          "ns3.hostdomdns.com",
+          "ns1.hostdomdns.com",
+          "ns2.hostdomdns.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact-app.com/",
+        "finalUrl": "https://exact-app.com/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "Connect Timeout Error (attempted address: exact-app.com:443, timeout: 10000ms); http: Connect Timeout Error (attempted address: exact-app.com:80, timeout: 10000ms)",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page not reachable: Connect Timeout Error (attempted address: exact-app.com:443, timeout: 10000ms); "
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactapp.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactapp.com",
+        "registered": true,
+        "a": [
+          "69.195.135.82"
+        ],
+        "aaaa": [],
+        "mx": [
+          "smtp.secureserver.net",
+          "mailstore1.secureserver.net"
+        ],
+        "ns": [
+          "ns49.domaincontrol.com",
+          "ns50.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactapp.com/",
+        "finalUrl": "https://exactapp.com/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "Connect Timeout Error (attempted address: exactapp.com:443, timeout: 10000ms); http: Connect Timeout Error (attempted address: exactapp.com:80, timeout: 10000ms)",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page not reachable: Connect Timeout Error (attempted address: exactapp.com:443, timeout: 10000ms); h"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "appexact.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "appexact.com",
+        "registered": true,
+        "a": [
+          "54.243.117.197",
+          "13.223.25.84"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "nsg1.namebrightdns.com",
+          "nsg2.namebrightdns.com"
+        ]
+      },
+      "page": {
+        "url": "http://appexact.com/",
+        "finalUrl": "https://www.hugedomains.com/domain_profile.cfm?d=appexact.com",
+        "status": 200,
+        "title": "AppExact.com is for sale | HugeDomains",
+        "scriptUrls": [
+          "https://cdn-cookieyes.com/client_data/e71bc53f1cb88666d160c1e2/script.js",
+          "https://www.google.com/recaptcha/enterprise.js?render=6LdRB9UiAAAAABaf3jRLyU_gwaGIp-3OvR51myRx",
+          "https://static.hugedomains.com/js/hdv3-js/jquery.min.js",
+          "https://static.hugedomains.com/js/hdv3-js/script.js?aa=2022-10-32",
+          "https://static.hugedomains.com/js/hdv3-js/common.js",
+          "https://static.hugedomains.com/js/hdv3-js/hd-js.js?a=20250312"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [
+            "eligible",
+            "refund"
+          ],
+          "drainerJs": [],
+          "parked": [
+            "domain is for sale",
+            "HugeDomains",
+            "for sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 44438,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.hugedomains.com/favicon.ico",
+        "faviconSha256": "5a6c5f7923c7b5ba984f3c4b79b5c3005f3c2f1347a84a6a7b3c16ffbf11777d",
+        "textSample": "Skip to main content Search +1-303-893-0552 Home FAQs About us Contact us My account My favorites Shopping cart AppExact.com Buy now: $7,795 ▸ Buy now Processing or ▸ Start payment plan Processing Only $324.79/mo. for 24 months See details 30-day money back guarantee Take immediate ownership Safe an"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "app-exact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "app-exact.xyz",
+        "registered": true,
+        "a": [
+          "104.21.66.17",
+          "172.67.155.10"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "alexa.ns.cloudflare.com",
+          "randall.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://app-exact.xyz/",
+        "finalUrl": "https://app-exact.xyz/",
+        "status": 502,
+        "title": "app-exact.xyz | 502: Bad gateway",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 6396,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://app-exact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/app-exact.xyz.jpg",
+        "textSample": "Bad gateway Error code 502 Visit cloudflare.com for more information. 2026-11-01 15:26:13 UTC You Browser Working Warsaw Cloudflare Working app-exact.xyz Host Error What happened? The web server reported a bad gateway error. What can I do? Please try again in a few minutes. Cloudflare Ray ID: a53bea"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page returned HTTP 502"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactdapp.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactdapp.xyz",
+        "registered": true,
+        "a": [
+          "160.251.64.80"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [],
+        "error": "ETIMEOUT"
+      },
+      "page": {
+        "url": "http://exactdapp.xyz/",
+        "finalUrl": "https://parking.onamae.com/?domain=exactdapp.xyz",
+        "status": 403,
+        "title": "exactdapp.xyz",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4544,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://parking.onamae.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactdapp.xyz.jpg",
+        "textSample": "exactdapp.xyz has expired and may be renewed by the owner. キャッシュレス時代に広がる日常の支払い方法 現代の暮らしにおいて、お金との付き合い方は大きく変わりつつあります。日々の買い物では、多くの人がまずクレジットカードを利用します。ポイント還元や分割払いの仕組みが定着し、ネットショッピングでも不可欠な存在となりました。スマートフォン一つで決済が完了する利便性は、私たちの家計管理をよりスマートなものへと変えています。 急な出費に備える短期的な資金調達の手段 それでも、予期せぬ出費が重なることは少なくありません。そんな場面で役立つのがキャ"
+      },
+      "similarity": {
+        "title": 0.14,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.05
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactverify.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactverify.com",
+        "registered": true,
+        "a": [
+          "23.111.129.178"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com",
+          "alt3.aspmx.l.google.com"
+        ],
+        "ns": [
+          "ns46.domaincontrol.com",
+          "ns45.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactverify.com/",
+        "finalUrl": "https://www.exactverify.com/",
+        "status": 200,
+        "title": "Accurate Email Validation and Verification Tool - ExactVerify",
+        "scriptUrls": [
+          "https://cdn.polyfill.io/v2/polyfill.min.js",
+          "https://www.google.com/recaptcha/api.js",
+          "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js",
+          "https://www.exactverify.com/assetsexactverifydash/assets/external/js/jquery.min.js",
+          "https://www.exactverify.com/assetsexactverifydash/assets/external/js/jquery.min.js",
+          "https://www.exactverify.com/js/website/vendor.js?id=b3bcd73ce92c7e30a679b9c3d8135a91"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 182271,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exactverify.com/assets/img/webp/favicon.webp",
+        "faviconSha256": "996021d9a0c365e32df7eeeb4dbc014eed0e754909fa6e86f2601ec3bd919c66",
+        "textSample": "Not our customer yet? Get 10% extra credit on your first purchase. Don’t miss out! This offer will expire soon. *T&C Apply. x Home Features Pricing Resources Integrations Documentation API Glossary Tools Free Email Checker Email Extractor Blacklist Checker SPF Generator DKIM Generator DMARC Generato"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactverify.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactverify.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactverify.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactverify.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactverify.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactverify.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactverify.xyz?\" on this server. Reference #18.8a3c655f.1793546833.4fb17fc2 https://errors.edgesuite.net/18.8a3c655f.1793546833.4fb17fc2"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactverify.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactverify.net",
+        "registered": true,
+        "a": [
+          "38.91.57.2"
+        ],
+        "aaaa": [],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt3.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com"
+        ],
+        "ns": [
+          "ns07.domaincontrol.com",
+          "ns08.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "http://exactverify.net/",
+        "finalUrl": "https://www.exactverify.com/report-abuse",
+        "status": 200,
+        "title": "Report Abuse - ExactVerify",
+        "scriptUrls": [
+          "https://www.exactverify.com/assetsexactverifydash/assets/external/js/jquery.min.js",
+          "https://www.exactverify.com/js/website/vendor.js?id=b3bcd73ce92c7e30a679b9c3d8135a91",
+          "https://www.exactverify.com/assets/js/priceplan.js",
+          "https://www.exactverify.com/js/website/app.js?id=295770b6b315fdc338f07a3bb1712a7c",
+          "https://www.exactverify.com/assets/vendor/purecounter/purecounter_vanilla.js",
+          "https://www.exactverify.com/assets/vendor/aos/aos.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 35967,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exactverify.com/assets/img/webp/favicon.webp",
+        "faviconSha256": "996021d9a0c365e32df7eeeb4dbc014eed0e754909fa6e86f2601ec3bd919c66",
+        "textSample": "Not our customer yet? Get 10% extra credit on your first purchase. Don’t miss out! This offer will expire soon. *T&C Apply. x Home Features Pricing Resources Integrations Documentation API Glossary Tools Free Email Checker Email Extractor Blacklist Checker SPF Generator DKIM Generator DMARC Generato"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactsync.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactsync.com",
+        "registered": true,
+        "a": [
+          "86.105.245.69"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.eftydns.com",
+          "ns1.eftydns.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactsync.com/",
+        "finalUrl": "https://exactsync.com/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca; http: unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page not reachable: unable to verify the first certificate; if the root CA is installed locally, try"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactsync.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactsync.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactsync.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactsync.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactsync.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactsync.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactsync.xyz?\" on this server. Reference #18.8a3c655f.1793546835.4fb193c2 https://errors.edgesuite.net/18.8a3c655f.1793546835.4fb193c2"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "syncexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "syncexact.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://syncexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/syncexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://syncexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/syncexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/syncexact.xyz?\" on this server. Reference #18.8a3c655f.1793546836.4fb1a0ab https://errors.edgesuite.net/18.8a3c655f.1793546836.4fb1a0ab"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactrecovery.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactrecovery.com",
+        "registered": true,
+        "a": [
+          "20.119.8.39",
+          "198.185.159.145",
+          "198.49.23.145",
+          "198.49.23.144",
+          "198.185.159.144"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exactrecovery-com.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "sandra.ns.cloudflare.com",
+          "ace.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "http://exactrecovery.com/",
+        "finalUrl": "http://exactrecovery.com/",
+        "status": 404,
+        "title": "Microsoft Azure Web App - Error 404",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2667,
+        "renderedWith": "playwright",
+        "faviconUrl": "http://exactrecovery.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactrecovery.com.jpg",
+        "textSample": "404 Web Site not found. You may be seeing this error due to one of the reasons listed below : Custom domain has not been configured inside Azure. See how to map an existing domain to resolve this. Client cache is still pointing the domain to old IP address. Clear the cache by running the command ipc"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page returned HTTP 404"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactrecovery.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactrecovery.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactrecovery.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactrecovery.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactrecovery.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactrecovery.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactrecovery.xyz?\" on this server. Reference #18.8a3c655f.1793546838.4fb1b596 https://errors.edgesuite.net/18.8a3c655f.1793546838.4fb1b596"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactrecovery.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactrecovery.net",
+        "registered": true,
+        "a": [
+          "15.197.148.33",
+          "3.33.130.190"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns32.domaincontrol.com",
+          "ns31.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactrecovery.net/",
+        "finalUrl": "https://www.dot-mom.org/articles/postpartum-wellness-and-recovery.html?psystem=PW&domain=exactrecovery.net&oref=https%3A%2F%2Fexactrecovery.net%2F&trafficTarget=gd",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactrecovery.net/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactrecovery.net.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://www.dot-mom.org/articles/postpartum-wellness-and-recovery.html?\" on this server. Reference #18.1cce2e17.1793546840.1bbc05cb https://errors.edgesuite.net/18.1cce2e17.1793546840.1bbc05cb"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactbridge.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactbridge.com",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns2.afternic.com",
+          "ns1.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactbridge.com/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactbridge.com?utm_source=TDFS_BINNS&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns_base&traffic_type=TDFS_BINNS&traffic_id=binns&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "bridge"
+          ],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactbridge.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactbridge.com.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactbridge.com?\" on this server. Reference #18.8a3c655f.1793546840.4fb1c7db https://errors.edgesuite.net/18.8a3c655f.1793546840.4fb1c7db"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "bridgeexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "bridgeexact.xyz",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns1.onamae-expired.com",
+          "dns2.onamae-expired.com"
+        ],
+        "error": "ETIMEOUT"
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 5 lookalikes on the same DNS account (dns1.onamae-expired.com + dns2.onamae-expired.com): a single operator"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactswap.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactswap.com",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns2.afternic.com",
+          "ns1.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactswap.com/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactswap.com?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactswap.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactswap.com.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactswap.com?\" on this server. Reference #18.8a3c655f.1793546841.4fb1d905 https://errors.edgesuite.net/18.8a3c655f.1793546841.4fb1d905"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactswap.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactswap.xyz",
+        "registered": true,
+        "a": [
+          "160.251.64.80"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns2.onamae-expired.com",
+          "dns1.onamae-expired.com"
+        ],
+        "error": "ETIMEOUT"
+      },
+      "page": {
+        "url": "http://exactswap.xyz/",
+        "finalUrl": "https://parking.onamae.com/?domain=exactswap.xyz",
+        "status": 403,
+        "title": "exactswap.xyz",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4544,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://parking.onamae.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactswap.xyz.jpg",
+        "textSample": "exactswap.xyz has expired and may be renewed by the owner. キャッシュレス時代に広がる日常の支払い方法 現代の暮らしにおいて、お金との付き合い方は大きく変わりつつあります。日々の買い物では、多くの人がまずクレジットカードを利用します。ポイント還元や分割払いの仕組みが定着し、ネットショッピングでも不可欠な存在となりました。スマートフォン一つで決済が完了する利便性は、私たちの家計管理をよりスマートなものへと変えています。 急な出費に備える短期的な資金調達の手段 それでも、予期せぬ出費が重なることは少なくありません。そんな場面で役立つのがキャ"
+      },
+      "similarity": {
+        "title": 0.12,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 5 lookalikes on the same DNS account (dns1.onamae-expired.com + dns2.onamae-expired.com): a single operator",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "swapexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "swapexact.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://swapexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/swapexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://swapexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/swapexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/swapexact.xyz?\" on this server. Reference #18.8a3c655f.1793546842.4fb1e76f https://errors.edgesuite.net/18.8a3c655f.1793546842.4fb1e76f"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactstake.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactstake.xyz",
+        "registered": true,
+        "a": [
+          "160.251.64.80"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns2.onamae-expired.com",
+          "dns1.onamae-expired.com"
+        ],
+        "error": "ETIMEOUT"
+      },
+      "page": {
+        "url": "http://exactstake.xyz/",
+        "finalUrl": "https://parking.onamae.com/?domain=exactstake.xyz",
+        "status": 403,
+        "title": "exactstake.xyz",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4544,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://parking.onamae.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactstake.xyz.jpg",
+        "textSample": "Please enable cookies. Sorry, you have been blocked You are unable to access onamae.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger"
+      },
+      "similarity": {
+        "title": 0.18,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 5 lookalikes on the same DNS account (dns1.onamae-expired.com + dns2.onamae-expired.com): a single operator",
+        "Page returned HTTP 403"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "stakeexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "stakeexact.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://stakeexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/stakeexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://stakeexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/stakeexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/stakeexact.xyz?\" on this server. Reference #18.8a3c655f.1793546845.4fb20962 https://errors.edgesuite.net/18.8a3c655f.1793546845.4fb20962"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactstaking.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactstaking.com",
+        "registered": true,
+        "a": [
+          "192.64.119.147"
+        ],
+        "aaaa": [],
+        "mx": [
+          "eforward1.registrar-servers.com",
+          "eforward2.registrar-servers.com",
+          "eforward3.registrar-servers.com",
+          "eforward4.registrar-servers.com",
+          "eforward5.registrar-servers.com"
+        ],
+        "ns": [
+          "dns2.registrar-servers.com",
+          "dns1.registrar-servers.com"
+        ]
+      },
+      "page": {
+        "url": "http://exactstaking.com/",
+        "finalUrl": "https://www.exactstaking.com/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [
+          "https://www.exactstaking.com/assets/index-BuG04mTK.js",
+          "https://lander.parity.domains/js/pa-6FZUe2Iv3m6Yx_KBS2sv2.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2963,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exactstaking.com/favicon.ico",
+        "textSample": "has been recently registered with namecheap.com Want a domain name like this? Discover domains on auction now See all auctions Download the Namecheap Auctions app Take auctions with you wherever you go"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactstaking.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactstaking.xyz",
+        "registered": true,
+        "a": [
+          "160.251.64.80"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [],
+        "error": "ETIMEOUT"
+      },
+      "page": {
+        "url": "http://exactstaking.xyz/",
+        "finalUrl": "https://parking.onamae.com/?domain=exactstaking.xyz",
+        "status": 403,
+        "title": "Just a moment...",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [
+            "obfuscated-js(5858 _0x identifiers)"
+          ],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Just a moment..."
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4544,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://parking.onamae.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactstaking.xyz.jpg",
+        "textSample": "Please enable cookies. Sorry, you have been blocked You are unable to access onamae.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger"
+      },
+      "similarity": {
+        "title": 0.1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "stakingexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "stakingexact.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://stakingexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/stakingexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "staking"
+          ],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://stakingexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/stakingexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/stakingexact.xyz?\" on this server. Reference #18.8a3c655f.1793546848.4fb2275a https://errors.edgesuite.net/18.8a3c655f.1793546848.4fb2275a"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactrefund.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactrefund.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactrefund.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactrefund.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactrefund.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactrefund.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactrefund.xyz?\" on this server. Reference #18.8a3c655f.1793546848.4fb22a5a https://errors.edgesuite.net/18.8a3c655f.1793546848.4fb22a5a"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactportal.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactportal.com",
+        "registered": true,
+        "a": [
+          "207.148.248.143"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [],
+        "error": "ESERVFAIL"
+      },
+      "page": {
+        "url": "https://exactportal.com/",
+        "finalUrl": "https://exactportal.com/",
+        "status": 0,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 0,
+        "renderedWith": "http",
+        "error": "Connect Timeout Error (attempted address: exactportal.com:443, timeout: 10000ms); http: read ECONNRESET",
+        "textSample": ""
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Page not reachable: Connect Timeout Error (attempted address: exactportal.com:443, timeout: 10000ms)"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactweb3.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactweb3.xyz",
+        "registered": true,
+        "a": [
+          "160.251.64.80"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [],
+        "error": "ETIMEOUT"
+      },
+      "page": {
+        "url": "http://exactweb3.xyz/",
+        "finalUrl": "https://parking.onamae.com/?domain=exactweb3.xyz",
+        "status": 403,
+        "title": "Just a moment...",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [
+            "obfuscated-js(6771 _0x identifiers)"
+          ],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Just a moment..."
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4544,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://parking.onamae.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactweb3.xyz.jpg",
+        "textSample": "Please enable cookies. Sorry, you have been blocked You are unable to access onamae.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger"
+      },
+      "similarity": {
+        "title": 0.1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "web3exact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "web3exact.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://web3exact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/web3exact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [
+            "web3"
+          ],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://web3exact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/web3exact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/web3exact.xyz?\" on this server. Reference #18.8a3c655f.1793546852.4fb25588 https://errors.edgesuite.net/18.8a3c655f.1793546852.4fb25588"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactdao.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactdao.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactdao.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactdao.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactdao.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactdao.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactdao.xyz?\" on this server. Reference #18.8a3c655f.1793546851.4fb250ce https://errors.edgesuite.net/18.8a3c655f.1793546851.4fb250ce"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "daoexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "daoexact.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://daoexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/daoexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://daoexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/daoexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/daoexact.xyz?\" on this server. Reference #18.8a3c655f.1793546852.4fb2545c https://errors.edgesuite.net/18.8a3c655f.1793546852.4fb2545c"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exacttoken.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exacttoken.xyz",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns2.onamae-expired.com",
+          "dns1.onamae-expired.com"
+        ],
+        "error": "ETIMEOUT"
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "One of 5 lookalikes on the same DNS account (dns1.onamae-expired.com + dns2.onamae-expired.com): a single operator"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "tokenexact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "tokenexact.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns5.afternic.com",
+          "ns6.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://tokenexact.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/tokenexact.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://tokenexact.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/tokenexact.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/tokenexact.xyz?\" on this server. Reference #18.8a3c655f.1793546854.4fb26e1f https://errors.edgesuite.net/18.8a3c655f.1793546854.4fb26e1f"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactsecure.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactsecure.com",
+        "registered": true,
+        "a": [
+          "15.197.225.128",
+          "3.33.251.168"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exactsecure-com.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns26.domaincontrol.com",
+          "ns25.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactsecure.com/",
+        "finalUrl": "https://www.exactlibris.com/",
+        "status": 200,
+        "title": "EIS, SEIS & VCT Software for Investment Managers | Libris",
+        "scriptUrls": [
+          "https://www.exactlibris.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+          "https://www.exactlibris.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+          "https://www.exactlibris.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.2.4.1",
+          "https://www.exactlibris.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.2.4.1",
+          "https://www.exactlibris.com/wp-content/themes/libris/assets/js/jquery.min.js",
+          "https://www.exactlibris.com/wp-content/themes/libris/assets/js/jquery.lazy.min.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 44854,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exactlibris.com/wp-content/uploads/2018/10/Group-2628.png",
+        "faviconSha256": "26d5237fbe3f189a38fb37084155d47acc9fb882b32a20781f7f27630fcc3e86",
+        "textSample": "Home About Libris About Exact Meet The Management Team Working With Us News & Events Discover More Contact Request Demo Login Libris is a product of Exact Financial Systems Exact's Libris software supports the UK's leading Alternative and Tax Efficient Investment Managers with a modern, integrated, "
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactsecure.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactsecure.xyz",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactsecure.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactsecure.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactsecure.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactsecure.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactsecure.xyz?\" on this server. Reference #18.8a3c655f.1793546854.4fb272f8 https://errors.edgesuite.net/18.8a3c655f.1793546854.4fb272f8"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact-event.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exact-event.com",
+        "registered": true,
+        "a": [
+          "109.234.166.77"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exact-event.com"
+        ],
+        "ns": [
+          "ns1.o2switch.net",
+          "ns2.o2switch.net"
+        ]
+      },
+      "page": {
+        "url": "https://exact-event.com/",
+        "finalUrl": "https://exact-event.com/",
+        "status": 200,
+        "title": "Index of /",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 658,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exact-event.com/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exact-event.com.jpg",
+        "textSample": "Index of / Name Last modified Size Description cgi-bin/ 2023-01-10 19:53 -"
+      },
+      "similarity": {
+        "title": 0.1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (74 chars of text, title \"Index of /\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactevent.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactevent.com",
+        "registered": true,
+        "a": [
+          "63.176.8.218",
+          "35.157.26.135"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "dns1.p08.nsone.net",
+          "dns3.p08.nsone.net",
+          "dns4.p08.nsone.net",
+          "dns2.p08.nsone.net"
+        ]
+      },
+      "page": {
+        "url": "https://exactevent.com/",
+        "finalUrl": "https://www.exactevent.com/",
+        "status": 200,
+        "title": "Exact Event - Virtual Studio Map",
+        "scriptUrls": [
+          "https://www.exactevent.com/static/js/2.e2c1fc86.chunk.js",
+          "https://www.exactevent.com/static/js/main.13db013b.chunk.js"
+        ],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [
+            "Seaport"
+          ],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2233,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://www.exactevent.com/exactevent_favicon.png",
+        "faviconSha256": "36f78fa3b862de4bf115ce4cdd1136a1a2ed1e5f15a6139feb5fd7471f015e90",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactevent.com.jpg",
+        "textSample": "© Mapbox © OpenStreetMap Improve this map"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Almost empty page (41 chars of text, title \"Exact Event - Virtual Studio Map\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exactevent.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "dictionary",
+      "dns": {
+        "domain": "exactevent.xyz",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns6.afternic.com",
+          "ns5.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exactevent.xyz/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exactevent.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exactevent.xyz/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exactevent.xyz.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exactevent.xyz?\" on this server. Reference #18.8a3c655f.1793546858.4fb2999c https://errors.edgesuite.net/18.8a3c655f.1793546858.4fb2999c"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 25,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Brand name plus a phishing lure word",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.com",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.com",
+        "registered": true,
+        "a": [
+          "52.49.85.204"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exact-com.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns-1451.awsdns-53.org",
+          "ns-735.awsdns-27.net",
+          "ns-54.awsdns-06.com",
+          "ns-1685.awsdns-18.co.uk"
+        ]
+      },
+      "page": {
+        "url": "https://exact.com/",
+        "finalUrl": "https://www.exact.com/",
+        "status": 200,
+        "title": "Exact business software for SMEs and their accountants | Exact",
+        "scriptUrls": [
+          "https://www.exact.com/media/system/js/core.min.js?a3d8f8",
+          "https://www.exact.com/media/templates/site/exact/js/scripts.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/sliders.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/playChapter.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/formPrefill.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/footer-nav.js?20260825"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 38071,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.com/media/templates/site/exact/images/favicon/favicon-96x96.png",
+        "faviconSha256": "e1c5230be877b43cc6d1db59eb76a73a624ab40a07a16ec55402fcee3ab8b303",
+        "textSample": "Skip to content Skip to main navigation Skip to footer Exact Click to open menu Products About us Careers Contact Login Complete business software for SMEs and their Accountants Numbers are the key to any business. Having the right numbers allows you to manage costs, improve efficiency and grow. Mor"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.org",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.org",
+        "registered": true,
+        "a": [
+          "80.92.65.188"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns1.eurodns.com",
+          "ns4.eurodns.com",
+          "ns2.eurodns.com",
+          "ns3.eurodns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exact.org/",
+        "finalUrl": "https://www.exact.com/",
+        "status": 200,
+        "title": "Exact business software for SMEs and their accountants | Exact",
+        "scriptUrls": [
+          "https://www.exact.com/media/system/js/core.min.js?a3d8f8",
+          "https://www.exact.com/media/templates/site/exact/js/scripts.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/sliders.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/playChapter.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/formPrefill.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/footer-nav.js?20260825"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 38071,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.com/media/templates/site/exact/images/favicon/favicon-96x96.png",
+        "faviconSha256": "e1c5230be877b43cc6d1db59eb76a73a624ab40a07a16ec55402fcee3ab8b303",
+        "textSample": "Skip to content Skip to main navigation Skip to footer Exact Click to open menu Products About us Careers Contact Login Complete business software for SMEs and their Accountants Numbers are the key to any business. Having the right numbers allows you to manage costs, improve efficiency and grow. Mor"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 6 lookalikes on the same DNS account (ns1.eurodns.com + ns2.eurodns.com + ns3.eurodns.com + ns4.eurodns.com): a single operator",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.net",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.net",
+        "registered": true,
+        "a": [
+          "80.92.65.188"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exact-net.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns1.eurodns.com",
+          "ns2.eurodns.com",
+          "ns3.eurodns.com",
+          "ns4.eurodns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exact.net/",
+        "finalUrl": "https://www.exact.com/",
+        "status": 200,
+        "title": "Exact business software for SMEs and their accountants | Exact",
+        "scriptUrls": [
+          "https://www.exact.com/media/system/js/core.min.js?a3d8f8",
+          "https://www.exact.com/media/templates/site/exact/js/scripts.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/sliders.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/playChapter.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/formPrefill.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/footer-nav.js?20260825"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 38071,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.com/media/templates/site/exact/images/favicon/favicon-96x96.png",
+        "faviconSha256": "e1c5230be877b43cc6d1db59eb76a73a624ab40a07a16ec55402fcee3ab8b303",
+        "textSample": "Skip to content Skip to main navigation Skip to footer Exact Click to open menu Products About us Careers Contact Login Complete business software for SMEs and their Accountants Numbers are the key to any business. Having the right numbers allows you to manage costs, improve efficiency and grow. Mor"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 6 lookalikes on the same DNS account (ns1.eurodns.com + ns2.eurodns.com + ns3.eurodns.com + ns4.eurodns.com): a single operator",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.io",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.io",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [
+          "exact-io.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "dns2.registrar-servers.com",
+          "dns1.registrar-servers.com"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.xyz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.xyz",
+        "registered": true,
+        "a": [
+          "44.232.173.249",
+          "52.40.42.113"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "launch1.spaceship.net",
+          "launch2.spaceship.net"
+        ]
+      },
+      "page": {
+        "url": "https://exact.xyz/",
+        "finalUrl": "https://exact.xyz/",
+        "status": 200,
+        "title": "Exact.xyz for sale | Spaceship.com",
+        "scriptUrls": [
+          "https://forsale.spaceship-cdn.com/static/latest/5.latest/main.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [
+            "for sale"
+          ],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 23788,
+        "renderedWith": "http",
+        "faviconUrl": "https://forsale.spaceship-cdn.com/static/latest/5.latest/assets/fonts/apple-touch-icon-57x57.png",
+        "faviconSha256": "774ab776c49cdd5d993e4da9e6216af9ece952135eb022ef0c7df223ff66989c",
+        "textSample": "Domain for sale Exact.xyz Free transaction support Secure payments Spaceship reliability Listed with spaceship.com get this domain Buy now $198,795 Make offer $ Please enter an offer amount up to 9 digits. Your offer must be higher than the seller’s minimum price. Next Please select one of the optio"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "parked",
+      "evidence": [
+        "Official name on a different TLD",
+        "Parked / for-sale page"
+      ],
+      "action": "Monitor. Consider buying it defensively or a UDRP if it turns active.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.finance",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.finance",
+        "registered": true,
+        "a": [
+          "80.92.65.188"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.eurodns.com",
+          "ns3.eurodns.com",
+          "ns4.eurodns.com",
+          "ns1.eurodns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exact.finance/",
+        "finalUrl": "https://www.exact.com/",
+        "status": 200,
+        "title": "Exact business software for SMEs and their accountants | Exact",
+        "scriptUrls": [
+          "https://www.exact.com/media/system/js/core.min.js?a3d8f8",
+          "https://www.exact.com/media/templates/site/exact/js/scripts.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/sliders.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/playChapter.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/formPrefill.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/footer-nav.js?20260825"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 38071,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.com/media/templates/site/exact/images/favicon/favicon-96x96.png",
+        "faviconSha256": "e1c5230be877b43cc6d1db59eb76a73a624ab40a07a16ec55402fcee3ab8b303",
+        "textSample": "Skip to content Skip to main navigation Skip to footer Exact Click to open menu Products About us Careers Contact Login Complete business software for SMEs and their Accountants Numbers are the key to any business. Having the right numbers allows you to manage costs, improve efficiency and grow. Mor"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 6 lookalikes on the same DNS account (ns1.eurodns.com + ns2.eurodns.com + ns3.eurodns.com + ns4.eurodns.com): a single operator",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.network",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.network",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns2.afternic.com",
+          "ns1.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.network/",
+        "finalUrl": "https://forsale.godaddy.com/forsale/exact.network?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+        "status": 200,
+        "title": "Access Denied",
+        "scriptUrls": [],
+        "signals": {
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "secretForm": false,
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Access Denied"
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "playwright",
+        "faviconUrl": "https://exact.network/favicon.ico",
+        "screenshot": "out/scans/exactly-protocol-2026-11-01/shots/exact.network.jpg",
+        "textSample": "Access Denied You don't have permission to access \"http://forsale.godaddy.com/forsale/exact.network?\" on this server. Reference #18.8a3c655f.1793546860.4fb2b109 https://errors.edgesuite.net/18.8a3c655f.1793546860.4fb2b109"
+      },
+      "similarity": {
+        "title": 0.16,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Bot challenge or redirect stub (\"Access Denied\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.pro",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.pro",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.pro/",
+        "finalUrl": "https://exact.pro/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact.pro/favicon.ico",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.live",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.live",
+        "registered": true,
+        "a": [
+          "80.92.65.188"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.eurodns.com",
+          "ns3.eurodns.com",
+          "ns4.eurodns.com",
+          "ns1.eurodns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exact.live/",
+        "finalUrl": "https://www.exact.com/nl/innovation-day",
+        "status": 200,
+        "title": "Innovation Day - Ontdek de kracht van Exact software | Exact",
+        "scriptUrls": [
+          "https://www.exact.com/media/system/js/core.min.js?a3d8f8",
+          "https://www.exact.com/media/templates/site/exact/js/scripts.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/sliders.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/playChapter.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/formPrefill.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/footer-nav.js?20260825"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 44270,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.com/media/templates/site/exact/images/favicon/favicon-96x96.png",
+        "faviconSha256": "e1c5230be877b43cc6d1db59eb76a73a624ab40a07a16ec55402fcee3ab8b303",
+        "textSample": "Ga naar de hoofdinhoud Ga naar het hoofdmenu Ga naar de footer van de site Exact Klik om menu te openen Plan een afspraak Login Innovation Day Haal alles uit de software van Exact Ontdek alle functionaliteiten in jouw software van Exact Volg interactieve trainingen vol handige tips Persoonlijk advie"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 6 lookalikes on the same DNS account (ns1.eurodns.com + ns2.eurodns.com + ns3.eurodns.com + ns4.eurodns.com): a single operator",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.online",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.online",
+        "registered": true,
+        "a": [
+          "54.36.91.62"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx-mibc-fr-02.mailinblack.com"
+        ],
+        "ns": [
+          "ns111.ovh.net",
+          "dns111.ovh.net"
+        ]
+      },
+      "page": {
+        "url": "https://exact.online/",
+        "finalUrl": "https://www.exact.online/",
+        "status": 200,
+        "title": "Exact : expertise comptable, audit, conseil - Accueil",
+        "scriptUrls": [
+          "https://www.exact.online/js/mootools-core.js",
+          "https://www.exact.online/js/MenuMatic.js",
+          "https://www.exact.online/js/Loop.js",
+          "https://www.exact.online/js/SlideShow.js",
+          "https://www.exact.online/js/outils.js",
+          "https://www.exact.online/js/tarteaucitron/tarteaucitron.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 12967,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.online/favicon.ico",
+        "faviconSha256": "58e20068ef3d5ec4d4ffb9ccd9d28c69cc5af3225f745ca52eae62146628cf2a",
+        "textSample": "Expertise comptable Audit Conseil Menu Accueil Le cabinet Historique Notre équipe Valeurs Nos missions Création d'entreprise Comptabilité Social Juridique Conseil Audit Formation Nos tarifs Espace collaboratif Plateforme numérique Portail RH Sage LinkUp Experts Facturation Caisse Simulateur Salariés"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.cc",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.cc",
+        "registered": true,
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns2.afternic.com",
+          "ns1.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.cc/",
+        "finalUrl": "https://exact.cc/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact.cc/favicon.ico",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.info",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.info",
+        "registered": true,
+        "a": [
+          "89.21.55.109"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exact-info.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "dns2.epag.net",
+          "dns1.epag.net"
+        ]
+      },
+      "page": {
+        "url": "https://exact.info/",
+        "finalUrl": "https://exact.info/",
+        "status": 200,
+        "title": "EXACT Präzisionswerkzeuge – Führender Hersteller innovativer Präzisionswerkzeuge",
+        "scriptUrls": [
+          "https://websitearchitekten-cdn-1.fra1.cdn.digitaloceanspaces.com/exact/gtm-loader.js",
+          "https://exact.info/wp-content/cache/wpfc-minified/3nbo7of/78to.js",
+          "https://exact.info/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://exact.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://exact.info/wp-content/cache/wpfc-minified/kmaknt3a/78to.js",
+          "https://exact.info/wp-content/plugins/popup-builder/public/js/Popup.js?ver=4.3.9"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 163205,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact.info/wp-content/uploads/2020/02/EXACT_Favicon-66x66.jpg",
+        "faviconSha256": "9f3d1d8183018c22a88c2768280e6791b729d7e25675915180ae05c64f0fbcc3",
+        "textSample": "Zum Inhalt springen Rufen Sie jetzt an: +49 (0)2191 3 62 50-0 I E-Mail: info@exact.info Suche nach: Produkte ADVANCEDLine® Stufenbohrer / Blechschälbohrer Handgewinde Senker Maschinengewindebohrer Bit-Programm Gewindesortimente Frässtifte Gewindereparatur Lochsägen Kernbohrer Spiralbohrer Zubehör An"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.us",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.us",
+        "registered": true,
+        "a": [
+          "74.220.199.6"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": []
+      },
+      "page": {
+        "url": "http://exact.us/",
+        "finalUrl": "http://exact.us/",
+        "status": 200,
+        "title": "Welcome exact.us - BlueHost.com",
+        "scriptUrls": [
+          "http://www.bluehost.com/media/shared/general/cookies.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 4707,
+        "renderedWith": "http",
+        "faviconUrl": "http://exact.us/favicon.ico",
+        "textSample": "Affordable, Reliable Web Hosting Solutions Web Hosting - courtesy of www.bluehost.com Help Center Contact Us About Us Affiliates Terms &copy;2012 Bluehost.com. All rights reserved."
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (180 chars of text, title \"Welcome exact.us - BlueHost.com\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.me",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.me",
+        "registered": true,
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "aaaa": [],
+        "mx": [
+          ""
+        ],
+        "ns": [
+          "ns3.afternic.com",
+          "ns4.afternic.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.me/",
+        "finalUrl": "https://exact.me/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact.me/favicon.ico",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.fi",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.fi",
+        "registered": true,
+        "a": [
+          "5.44.244.13"
+        ],
+        "aaaa": [],
+        "mx": [
+          "mx04.secure-mailgate.com",
+          "mx03.secure-mailgate.com"
+        ],
+        "ns": [
+          "cns3.cloudpit.io",
+          "cns2.cloudpit.com",
+          "cns1.cloudpit.de"
+        ]
+      },
+      "page": {
+        "url": "http://exact.fi/",
+        "finalUrl": "http://exact.fi/",
+        "status": 200,
+        "title": "Diese Webseite befindet sich im Aufbau",
+        "scriptUrls": [
+          "http://exact.fi/assets/js/plugins/plugins.js",
+          "http://exact.fi/config.js",
+          "http://exact.fi/assets/js/scripts.js",
+          "http://exact.fi/assets/js/hero.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 2171,
+        "renderedWith": "http",
+        "faviconUrl": "http://exact.fi/assets/favicon.ico",
+        "faviconSha256": "99f351db1bddb61743c3058391e5af2e8c3af8823ff6ecee42dbbdd39a101b1f",
+        "textSample": "DIESE SEITE BEFINDET SICH IM AUFBAU. THIS SITE IS UNDER CONSTRUCTION."
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (69 chars of text, title \"Diese Webseite befindet sich im Aufbau\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.dev",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.dev",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-47.awsdns-05.com",
+          "ns-1890.awsdns-44.co.uk",
+          "ns-730.awsdns-27.net",
+          "ns-1158.awsdns-16.org"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.club",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.club",
+        "registered": true,
+        "a": [
+          "198.49.23.144",
+          "198.185.159.145",
+          "198.49.23.145",
+          "198.185.159.144"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-cloud-d4.googledomains.com",
+          "ns-cloud-d2.googledomains.com",
+          "ns-cloud-d3.googledomains.com",
+          "ns-cloud-d1.googledomains.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.club/",
+        "finalUrl": "https://exactsports.com/",
+        "status": 200,
+        "title": "College ID Camps & Exposure Camps | EXACT Sports",
+        "scriptUrls": [
+          "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
+          "https://exactsports.com/wp-content/cache/autoptimize/js/autoptimize_single_eac53853f69a090c17b70080233a9059.js?ver=1.1.70",
+          "https://exactsports.com/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1",
+          "https://exactsports.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+          "https://exactsports.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.3",
+          "https://exactsports.com/wp-includes/js/dist/dom-ready.min.js?ver=a06281ae5cf5500e9317"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 287424,
+        "renderedWith": "http",
+        "faviconUrl": "https://exactsports.com/favicon.ico",
+        "faviconSha256": "ce358cef53bc1b551f2fbf7167b6712f36b98a86a575e1ec7fcc9b63ac45832d",
+        "textSample": "Girls Soccer Boys Soccer Volleyball Baseball Basketball Football Select Your Sport Girls Soccer Boys Soccer Volleyball Baseball Basketball TRACK & Field Softball Football Blog Contact Us GIRLS SOCCER BOYS SOCCEr VOLLEYBALL TRACK & FIELD EXACT Sports EXACT Sports aims to empower youth athletes to be "
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.cloud",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.cloud",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [
+          "exact-cloud.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns1-08.azure-dns.com",
+          "ns3-08.azure-dns.org",
+          "ns2-08.azure-dns.net",
+          "ns4-08.azure-dns.info"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.world",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.world",
+        "registered": true,
+        "a": [],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns3.namesrv.io",
+          "ns2.namesrv.net",
+          "ns1.namesrv.ch"
+        ]
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "not-live",
+      "evidence": [
+        "Official name on a different TLD"
+      ],
+      "action": "Monitor (registered, no website). Consider defensive registration.",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.exchange",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.exchange",
+        "registered": true,
+        "a": [
+          "52.20.84.62"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns1.atom.com",
+          "ns2.atom.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.exchange/",
+        "finalUrl": "https://domains.atom.com/lpd/name/exact.exchange",
+        "status": 403,
+        "title": "Just a moment...",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": [
+            "Just a moment..."
+          ]
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 5827,
+        "renderedWith": "http",
+        "faviconUrl": "https://domains.atom.com/favicon.ico",
+        "faviconSha256": "7eda937d9cabb3e3b4da756c81226e3431f9b0751e9247b9e9b24c4f50ba3b97",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0.1,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.04
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 3 lookalikes on the same DNS account (ns1.atom.com + ns2.atom.com): a single operator",
+        "Bot challenge or redirect stub (\"Just a moment...\"): real content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.global",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.global",
+        "registered": true,
+        "a": [
+          "80.92.65.188"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns2.eurodns.com",
+          "ns1.eurodns.com",
+          "ns3.eurodns.com",
+          "ns4.eurodns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exact.global/",
+        "finalUrl": "https://www.exact.com/",
+        "status": 200,
+        "title": "Exact business software for SMEs and their accountants | Exact",
+        "scriptUrls": [
+          "https://www.exact.com/media/system/js/core.min.js?a3d8f8",
+          "https://www.exact.com/media/templates/site/exact/js/scripts.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/sliders.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/playChapter.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/formPrefill.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/footer-nav.js?20260825"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 38071,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.com/media/templates/site/exact/images/favicon/favicon-96x96.png",
+        "faviconSha256": "e1c5230be877b43cc6d1db59eb76a73a624ab40a07a16ec55402fcee3ab8b303",
+        "textSample": "Skip to content Skip to main navigation Skip to footer Exact Click to open menu Products About us Careers Contact Login Complete business software for SMEs and their Accountants Numbers are the key to any business. Having the right numbers allows you to manage costs, improve efficiency and grow. Mor"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 6 lookalikes on the same DNS account (ns1.eurodns.com + ns2.eurodns.com + ns3.eurodns.com + ns4.eurodns.com): a single operator",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.digital",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.digital",
+        "registered": true,
+        "a": [
+          "172.67.167.202",
+          "104.21.66.3"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exact-digital.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "serena.ns.cloudflare.com",
+          "peyton.ns.cloudflare.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.digital/",
+        "finalUrl": "https://exact.digital/",
+        "status": 200,
+        "title": "Exact – Your digital advertising team",
+        "scriptUrls": [
+          "https://c0.wp.com/c/7.0.4/wp-includes/js/jquery/jquery.min.js",
+          "https://c0.wp.com/c/7.0.4/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://exact.digital/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.4.02",
+          "https://exact.digital/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9",
+          "https://exact.digital/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.2",
+          "https://exact.digital/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.2"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 188620,
+        "renderedWith": "http",
+        "faviconUrl": "https://i0.wp.com/exact.digital/wp-content/uploads/2025/04/cropped-Favicon.png?fit=32%2C32&#038;ssl=1",
+        "faviconSha256": "ebb6debb3b4d16cbd8822ec982c6910f2d9cf6d0a8d62f3c8221a8ca52345651",
+        "textSample": "Skip to content Solutions Close Solutions Open Solutions Discover Programmatic Omni Channel Solutions Attribution Display CTV / OTT Retargeting Pre-roll Video Native Email Audio Gas Station TV Digital Out Of Home Social Mirror Paid Social Paid Search YouTube and YouTube TV Device ID Foot Traffic Att"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.website",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.website",
+        "registered": true,
+        "a": [
+          "18.66.233.69",
+          "18.66.233.125",
+          "18.66.233.110",
+          "18.66.233.81"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns-1049.awsdns-03.org",
+          "ns-401.awsdns-50.com",
+          "ns-851.awsdns-42.net",
+          "ns-1746.awsdns-26.co.uk"
+        ]
+      },
+      "page": {
+        "url": "https://exact.website/",
+        "finalUrl": "https://exact.website/",
+        "status": 200,
+        "title": "exact website",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 930,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact.website/favicon.ico",
+        "textSample": "exact must tolerate inexact What exactly is exactitude? What do we mean by the word {exact}? What follows from being exact? Is one exact? nominal case.5"
+      },
+      "similarity": {
+        "title": 0.18,
+        "text": 0,
+        "favicon": false,
+        "overall": 0.06
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (152 chars of text, title \"exact website\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.store",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.store",
+        "registered": true,
+        "a": [
+          "3.33.130.190",
+          "15.197.148.33"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns37.domaincontrol.com",
+          "ns38.domaincontrol.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.store/",
+        "finalUrl": "https://exact.store/",
+        "status": 200,
+        "title": "",
+        "scriptUrls": [],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 114,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact.store/favicon.ico",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.biz",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.biz",
+        "registered": true,
+        "a": [
+          "91.195.241.232"
+        ],
+        "aaaa": [],
+        "mx": [
+          "localhost"
+        ],
+        "ns": [
+          "sl2.sedo.com",
+          "sl1.sedo.com"
+        ]
+      },
+      "page": {
+        "url": "https://exact.biz/",
+        "finalUrl": "https://sedo.com/search/details/?domain=exact.biz&campaignId=329145&origin=sales_lander_15",
+        "status": 200,
+        "title": "Domain Details Page",
+        "scriptUrls": [
+          "https://cdn.sedo.com/c7r/domain-details/assets/index-EXtMxpNA.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 1378,
+        "renderedWith": "http",
+        "faviconUrl": "https://cdn.sedo.com/favicon.ico",
+        "faviconSha256": "bfe5e4dd874ed7a044e961c8fa2c293376113f84d5645f5a2ee902f56c29eb85",
+        "textSample": ""
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "lookalike-unknown-content",
+      "evidence": [
+        "Official name on a different TLD",
+        "Almost empty page (0 chars of text, title \"Domain Details Page\"): content not visible"
+      ],
+      "action": "Re-check next scan; the content was not visible to us (error, bot wall or empty page).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.ai",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.ai",
+        "registered": true,
+        "a": [
+          "80.92.65.188"
+        ],
+        "aaaa": [],
+        "mx": [],
+        "ns": [
+          "ns4.eurodns.com",
+          "ns1.eurodns.com",
+          "ns3.eurodns.com",
+          "ns2.eurodns.com"
+        ]
+      },
+      "page": {
+        "url": "http://exact.ai/",
+        "finalUrl": "https://www.exact.com/",
+        "status": 200,
+        "title": "Exact business software for SMEs and their accountants | Exact",
+        "scriptUrls": [
+          "https://www.exact.com/media/system/js/core.min.js?a3d8f8",
+          "https://www.exact.com/media/templates/site/exact/js/scripts.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/sliders.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/playChapter.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/formPrefill.js?20260825",
+          "https://www.exact.com/media/templates/site/exact/js/footer-nav.js?20260825"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 38071,
+        "renderedWith": "http",
+        "faviconUrl": "https://www.exact.com/media/templates/site/exact/images/favicon/favicon-96x96.png",
+        "faviconSha256": "e1c5230be877b43cc6d1db59eb76a73a624ab40a07a16ec55402fcee3ab8b303",
+        "textSample": "Skip to content Skip to main navigation Skip to footer Exact Click to open menu Products About us Careers Contact Login Complete business software for SMEs and their Accountants Numbers are the key to any business. Having the right numbers allows you to manage costs, improve efficiency and grow. Mor"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "One of 6 lookalikes on the same DNS account (ns1.eurodns.com + ns2.eurodns.com + ns3.eurodns.com + ns4.eurodns.com): a single operator",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    },
+    {
+      "kind": "domain",
+      "host": "exact.gg",
+      "sources": [
+        "permutation"
+      ],
+      "fuzzer": "tld-swap",
+      "dns": {
+        "domain": "exact.gg",
+        "registered": true,
+        "a": [
+          "104.18.21.52",
+          "104.18.20.52"
+        ],
+        "aaaa": [],
+        "mx": [
+          "exact-gg.mail.protection.outlook.com"
+        ],
+        "ns": [
+          "ns1.exact.gg",
+          "ns3.exact.gg",
+          "ns5.exact.gg",
+          "ns4.exact.gg",
+          "ns2.exact.gg"
+        ]
+      },
+      "page": {
+        "url": "https://exact.gg/",
+        "finalUrl": "https://exact.gg/",
+        "status": 200,
+        "title": "Web Hosting, VPS Hosting & Domain Registration | exact.gg",
+        "scriptUrls": [
+          "https://exact.gg/_next/static/chunks/1rsn1dago3cd5.js",
+          "https://exact.gg/_next/static/chunks/1s3bq29329pvv.js",
+          "https://exact.gg/_next/static/chunks/14podnilsu8gn.js",
+          "https://exact.gg/_next/static/chunks/turbopack-2zzmsn0rs56pu.js",
+          "https://exact.gg/_next/static/chunks/0awfrltvejh3a.js",
+          "https://exact.gg/_next/static/chunks/1ww21aaoksmzg.js"
+        ],
+        "signals": {
+          "secretForm": false,
+          "walletPrompt": [],
+          "seedPhrase": [],
+          "lure": [],
+          "drainerJs": [],
+          "parked": [],
+          "cryptoContext": [],
+          "interstitial": [],
+          "challenge": []
+        },
+        "brandMentions": 0,
+        "brandInTitle": false,
+        "bytes": 447540,
+        "renderedWith": "http",
+        "faviconUrl": "https://exact.gg/logo.png",
+        "faviconSha256": "3b275c24414fa262a56e770a8adc406e08e8a2ce450cc27222e2ad7d16d8dccc",
+        "textSample": "Skip to content eXact Digital Domains Hosting VPS Blog Reseller Login Order Domains Hosting VPS Blog Reseller Login Order AMD EPYC hosting · Domains · VPS Web hosting, VPS hosting, and domain registration, built to perform. Search for your next great domain idea. Search for a domain Search Availabil"
+      },
+      "similarity": {
+        "title": 0,
+        "text": 0,
+        "favicon": false,
+        "overall": 0
+      },
+      "listedOn": [],
+      "score": 20,
+      "severity": "low",
+      "label": "likely-false-positive",
+      "evidence": [
+        "Official name on a different TLD",
+        "No brand content found on the page: probably unrelated (false positive)"
+      ],
+      "action": "No action (labelled false positive).",
+      "alreadyBlocked": false
+    }
+  ],
+  "tokens": [],
+  "errors": []
+}
