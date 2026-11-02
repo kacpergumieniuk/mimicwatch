@@ -19,7 +19,7 @@ It is read-only towards suspects and never files anything by itself.
   page clones: `aerodrome.financial`, `portal-hydrex.xyz`, `moonwelldefi.pages.dev` (`review/decisions.json`).
 - 2 of them were reported to MetaMask on 2026-11-02 in
   [eth-phishing-detect#308466](https://github.com/MetaMask/eth-phishing-detect/issues/308466), together with one
-  clone of a NEAR app found by the NEAR edition of the engine. MetaMask added both to its blocklist the same day
+  clone of a NEAR app found by the NEAR edition of the engine. MetaMask added all three to its blocklist the same day
   ([PR #308577](https://github.com/MetaMask/eth-phishing-detect/pull/308577)).
 - `dataset/entries.json` holds 244 entries (3 reviewed here, 241 confirmed by an outside list or host), each tagged
   with the brand it imitates. Rebuild it with `npm run export`.
